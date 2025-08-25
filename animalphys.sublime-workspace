@@ -1,0 +1,2450 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"contrees"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "syllabus.qmd",
+			"settings":
+			{
+				"buffer_size": 31309,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEMAAAAAAAAAQwAAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAARAAAAAAAAABEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAEMAAAAAAAAARAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQwAAAAAAAABDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "BIL"
+					},
+					"AwAAANoAAAAAAAAA2wAAAAAAAAADAAAAV0VC2wAAAAAAAADcAAAAAAAAAAAAAADcAAAAAAAAAN0AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2gAAAAAAAADdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "341A"
+					},
+					"BAAAAN4AAAAAAAAA3wAAAAAAAAADAAAAMTE13wAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAOEAAAAAAAAAAAAAAOEAAAAAAAAA4gAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3gAAAAAAAADhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "Wednesda"
+					},
+					"CAAAAPUAAAAAAAAA9gAAAAAAAAAHAAAAVHVlc2RhefYAAAAAAAAA9wAAAAAAAAAAAAAA9wAAAAAAAAD4AAAAAAAAAAAAAAD4AAAAAAAAAPkAAAAAAAAAAAAAAPkAAAAAAAAA+gAAAAAAAAAAAAAA+gAAAAAAAAD7AAAAAAAAAAAAAAD7AAAAAAAAAPwAAAAAAAAAAAAAAPwAAAAAAAAA/QAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9QAAAAAAAAD8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "y"
+					},
+					"AQAAAP0AAAAAAAAA/gAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/QAAAAAAAAD9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"insert",
+					{
+						"characters": "Friday"
+					},
+					"BgAAAAABAAAAAAAAAQEAAAAAAAAIAAAAVGh1cnNkYXkBAQAAAAAAAAIBAAAAAAAAAAAAAAIBAAAAAAAAAwEAAAAAAAAAAAAAAwEAAAAAAAAEAQAAAAAAAAAAAAAEAQAAAAAAAAUBAAAAAAAAAAAAAAUBAAAAAAAABgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAEAAAAAAAAIAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAgBAAAAAAAACAEAAAAAAAABAAAAMA",
+					"AQAAAAAAAAABAAAACQEAAAAAAAAJAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "2"
+					},
+					"AQAAAAgBAAAAAAAACQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAEAAAAAAAAIAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					4,
+					"left_delete",
+					null,
+					"BAAAAAwBAAAAAAAADAEAAAAAAAABAAAAYQsBAAAAAAAACwEAAAAAAAABAAAAMAoBAAAAAAAACgEAAAAAAAABAAAAMwkBAAAAAAAACQEAAAAAAAABAAAAOg",
+					"AQAAAAAAAAABAAAADQEAAAAAAAANAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "-"
+					},
+					"AQAAAAkBAAAAAAAACgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQEAAAAAAAAJAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAkBAAAAAAAACQEAAAAAAAABAAAALQ",
+					"AQAAAAAAAAABAAAACgEAAAAAAAAKAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "p"
+					},
+					"AQAAAAkBAAAAAAAACgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQEAAAAAAAAJAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"left_delete",
+					null,
+					"AQAAAA0BAAAAAAAADQEAAAAAAAABAAAAMQ",
+					"AQAAAAAAAAABAAAADgEAAAAAAAAOAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"left_delete",
+					null,
+					"AQAAAA4BAAAAAAAADgEAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAADwEAAAAAAAAPAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "1"
+					},
+					"AQAAAA4BAAAAAAAADwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADgEAAAAAAAAOAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": "64"
+					},
+					"AgAAAMICAAAAAAAAwwIAAAAAAAAEAAAANzAzNcMCAAAAAAAAxAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwgIAAAAAAADGAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"insert",
+					{
+						"characters": "57"
+					},
+					"AgAAAMQCAAAAAAAAxQIAAAAAAAAAAAAAxQIAAAAAAADGAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxAIAAAAAAADEAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					4,
+					"left_delete",
+					null,
+					"BAAAANICAAAAAAAA0gIAAAAAAAABAAAANtECAAAAAAAA0QIAAAAAAAABAAAANNACAAAAAAAA0AIAAAAAAAABAAAAN88CAAAAAAAAzwIAAAAAAAABAAAAOA",
+					"AQAAAAAAAAABAAAA0wIAAAAAAADTAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": "7"
+					},
+					"AQAAAM8CAAAAAAAA0AIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzwIAAAAAAADPAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": "687"
+					},
+					"AwAAANACAAAAAAAA0QIAAAAAAAAAAAAA0QIAAAAAAADSAgAAAAAAAAAAAADSAgAAAAAAANMCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0AIAAAAAAADQAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"insert",
+					{
+						"characters": "ILAN"
+					},
+					"BAAAAGMGAAAAAAAAZAYAAAAAAAAOAAAATWFsaWEgSGFzZWdhd2FkBgAAAAAAAGUGAAAAAAAAAAAAAGUGAAAAAAAAZgYAAAAAAAAAAAAAZgYAAAAAAABnBgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYwYAAAAAAABxBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					3,
+					"left_delete",
+					null,
+					"AwAAAGYGAAAAAAAAZgYAAAAAAAABAAAATmUGAAAAAAAAZQYAAAAAAAABAAAAQWQGAAAAAAAAZAYAAAAAAAABAAAATA",
+					"AQAAAAAAAAABAAAAZwYAAAAAAABnBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"insert",
+					{
+						"characters": "lan"
+					},
+					"AwAAAGQGAAAAAAAAZQYAAAAAAAAAAAAAZQYAAAAAAABmBgAAAAAAAAAAAABmBgAAAAAAAGcGAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZAYAAAAAAABkBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"insert",
+					{
+						"characters": " Matsu"
+					},
+					"BgAAAGcGAAAAAAAAaAYAAAAAAAAAAAAAaAYAAAAAAABpBgAAAAAAAAAAAABpBgAAAAAAAGoGAAAAAAAAAAAAAGoGAAAAAAAAawYAAAAAAAAAAAAAawYAAAAAAABsBgAAAAAAAAAAAABsBgAAAAAAAG0GAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZwYAAAAAAABnBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					69,
+					1,
+					"insert",
+					{
+						"characters": "yoshi"
+					},
+					"BQAAAG0GAAAAAAAAbgYAAAAAAAAAAAAAbgYAAAAAAABvBgAAAAAAAAAAAABvBgAAAAAAAHAGAAAAAAAAAAAAAHAGAAAAAAAAcQYAAAAAAAAAAAAAcQYAAAAAAAByBgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbQYAAAAAAABtBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					7,
+					"left_delete",
+					null,
+					"BwAAAL0GAAAAAAAAvQYAAAAAAAABAAAAN7wGAAAAAAAAvAYAAAAAAAABAAAAaLsGAAAAAAAAuwYAAAAAAAABAAAAYboGAAAAAAAAugYAAAAAAAABAAAAabkGAAAAAAAAuQYAAAAAAAABAAAAbLgGAAAAAAAAuAYAAAAAAAABAAAAYbcGAAAAAAAAtwYAAAAAAAABAAAAbQ",
+					"AQAAAAAAAAABAAAAvgYAAAAAAAC+BgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					77,
+					1,
+					"paste",
+					null,
+					"AQAAAM4GAAAAAAAA3wYAAAAAAAASAAAAbWFsaWFoN0BoYXdhaWkuZWR1",
+					"AQAAAAAAAAABAAAAzgYAAAAAAADgBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					82,
+					1,
+					"insert",
+					{
+						"characters": "A"
+					},
+					"AQAAABsHAAAAAAAAHAcAAAAAAAAMAAAAQW1hbmRhIEtvbmRv",
+					"AQAAAAAAAAABAAAAGwcAAAAAAAAnBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					83,
+					1,
+					"left_delete",
+					null,
+					"AQAAABsHAAAAAAAAGwcAAAAAAAABAAAAQQ",
+					"AQAAAAAAAAABAAAAHAcAAAAAAAAcBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					84,
+					1,
+					"insert",
+					{
+						"characters": "Manuel"
+					},
+					"BgAAABsHAAAAAAAAHAcAAAAAAAAAAAAAHAcAAAAAAAAdBwAAAAAAAAAAAAAdBwAAAAAAAB4HAAAAAAAAAAAAAB4HAAAAAAAAHwcAAAAAAAAAAAAAHwcAAAAAAAAgBwAAAAAAAAAAAAAgBwAAAAAAACEHAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGwcAAAAAAAAbBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					85,
+					1,
+					"insert",
+					{
+						"characters": " S"
+					},
+					"AgAAACEHAAAAAAAAIgcAAAAAAAAAAAAAIgcAAAAAAAAjBwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIQcAAAAAAAAhBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					86,
+					1,
+					"insert",
+					{
+						"characters": "por"
+					},
+					"AwAAACMHAAAAAAAAJAcAAAAAAAAAAAAAJAcAAAAAAAAlBwAAAAAAAAAAAAAlBwAAAAAAACYHAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIwcAAAAAAAAjBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					87,
+					1,
+					"insert",
+					{
+						"characters": " Leal"
+					},
+					"BQAAACYHAAAAAAAAJwcAAAAAAAAAAAAAJwcAAAAAAAAoBwAAAAAAAAAAAAAoBwAAAAAAACkHAAAAAAAAAAAAACkHAAAAAAAAKgcAAAAAAAAAAAAAKgcAAAAAAAArBwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJgcAAAAAAAAmBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					92,
+					1,
+					"insert",
+					{
+						"characters": "0"
+					},
+					"AQAAAFUHAAAAAAAAVgcAAAAAAAABAAAAMQ",
+					"AQAAAAAAAAABAAAAVQcAAAAAAABWBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIcHAAAAAAAAhwcAAAAAAAASAAAAYWtvbmRvNDRAaGF3YWlpLmVk",
+					"AQAAAAAAAAABAAAAhwcAAAAAAACZBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					99,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIcHAAAAAAAAhwcAAAAAAAABAAAAdQ",
+					"AQAAAAAAAAABAAAAiAcAAAAAAACIBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					100,
+					1,
+					"paste",
+					null,
+					"AQAAAIcHAAAAAAAAmgcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhwcAAAAAAACHBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					105,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKsIAAAAAAAAqwgAAAAAAAAdAAAAaHR0cHM6Ly9kaXNjb3JkLmdnL3lFU3hVV0V1R1U",
+					"AQAAAAAAAAABAAAAqwgAAAAAAADICAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					110,
+					1,
+					"paste",
+					null,
+					"AQAAAKsIAAAAAAAAyQgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqwgAAAAAAACrCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					113,
+					1,
+					"left_delete",
+					null,
+					"AQAAAMgIAAAAAAAAyAgAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAyQgAAAAAAADJCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					120,
+					1,
+					"paste",
+					null,
+					"AQAAANkLAAAAAAAA9wsAAAAAAAAdAAAAaHR0cHM6Ly9kaXNjb3JkLmdnL3lFU3hVV0V1R1U",
+					"AQAAAAAAAAABAAAA9gsAAAAAAADZCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					121,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPYLAAAAAAAA9gsAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA9wsAAAAAAAD3CwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					126,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAOkYAAAAAAAA6hgAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAA6hgAAAAAAADpGAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					129,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPMZAAAAAAAA8xkAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAA9BkAAAAAAAD0GQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					130,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAPMZAAAAAAAA9BkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8xkAAAAAAADzGQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					132,
+					1,
+					"insert",
+					{
+						"characters": "-"
+					},
+					"AQAAAPAZAAAAAAAA8RkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8BkAAAAAAADwGQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					135,
+					1,
+					"insert",
+					{
+						"characters": "-"
+					},
+					"AQAAAOYYAAAAAAAA5xgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5hgAAAAAAADmGAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					146,
+					1,
+					"insert",
+					{
+						"characters": "amaku"
+					},
+					"BQAAABUbAAAAAAAAFhsAAAAAAAAGAAAAYXVsaW1hFhsAAAAAAAAXGwAAAAAAAAAAAAAXGwAAAAAAABgbAAAAAAAAAAAAABgbAAAAAAAAGRsAAAAAAAAAAAAAGRsAAAAAAAAaGwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFRsAAAAAAAAbGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					153,
+					1,
+					"paste",
+					null,
+					"AQAAAB4bAAAAAAAAQRsAAAAAAAAbAAAAaHR0cHM6Ly9sYXVsaW1hLmhhd2FpaS5lZHUv",
+					"AQAAAAAAAAABAAAAHhsAAAAAAAA5GwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					168,
+					1,
+					"paste",
+					null,
+					"AQAAACU0AAAAAAAAQjQAAAAAAAAdAAAAaHR0cHM6Ly9kaXNjb3JkLmdnL3lFU3hVV0V1R1U",
+					"AQAAAAAAAAABAAAAJTQAAAAAAABCNAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					175,
+					1,
+					"insert",
+					{
+						"characters": "Kama"
+					},
+					"BAAAAEpgAAAAAAAAS2AAAAAAAAAHAAAATGF1bGltYUtgAAAAAAAATGAAAAAAAAAAAAAATGAAAAAAAABNYAAAAAAAAAAAAABNYAAAAAAAAE5gAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASmAAAAAAAABRYAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					176,
+					4,
+					"left_delete",
+					null,
+					"BAAAAE1gAAAAAAAATWAAAAAAAAABAAAAYUxgAAAAAAAATGAAAAAAAAABAAAAbUtgAAAAAAAAS2AAAAAAAAABAAAAYUpgAAAAAAAASmAAAAAAAAABAAAASw",
+					"AQAAAAAAAAABAAAATmAAAAAAAABOYAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					177,
+					1,
+					"insert",
+					{
+						"characters": "Lamaku"
+					},
+					"BgAAAEpgAAAAAAAAS2AAAAAAAAAAAAAAS2AAAAAAAABMYAAAAAAAAAAAAABMYAAAAAAAAE1gAAAAAAAAAAAAAE1gAAAAAAAATmAAAAAAAAAAAAAATmAAAAAAAABPYAAAAAAAAAAAAABPYAAAAAAAAFBgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASmAAAAAAAABKYAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					182,
+					1,
+					"left_delete",
+					null,
+					"AQAAAK1gAAAAAAAArWAAAAAAAAABAAAAOA",
+					"AQAAAAAAAAABAAAArmAAAAAAAACuYAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					183,
+					1,
+					"insert",
+					{
+						"characters": "6457"
+					},
+					"BAAAAK1gAAAAAAAArmAAAAAAAAAAAAAArmAAAAAAAACvYAAAAAAAAAAAAACvYAAAAAAAALBgAAAAAAAAAAAAALBgAAAAAAAAsWAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArWAAAAAAAACtYAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					185,
+					3,
+					"left_delete",
+					null,
+					"AwAAALNgAAAAAAAAs2AAAAAAAAABAAAANrJgAAAAAAAAsmAAAAAAAAABAAAANrFgAAAAAAAAsWAAAAAAAAABAAAAMw",
+					"AQAAAAAAAAABAAAAtGAAAAAAAAC0YAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					188,
+					3,
+					"left_delete",
+					null,
+					"AwAAALZgAAAAAAAAtmAAAAAAAAABAAAANrVgAAAAAAAAtWAAAAAAAAABAAAAM7RgAAAAAAAAtGAAAAAAAAABAAAAOA",
+					"AQAAAAAAAAABAAAAt2AAAAAAAAC3YAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					190,
+					1,
+					"insert",
+					{
+						"characters": "687"
+					},
+					"AwAAALVgAAAAAAAAtmAAAAAAAAAAAAAAtmAAAAAAAAC3YAAAAAAAAAAAAAC3YAAAAAAAALhgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtWAAAAAAAAC1YAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "schedule.qmd",
+			"settings":
+			{
+				"buffer_size": 7535,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAGwAAAAAAAAAbQAAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAAbQAAAAAAAABsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAMIBAAAAAAAAwwEAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAAwwEAAAAAAADCAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAAQEAAAAAAAABQQAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAABQQAAAAAAAAEBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"",
+					null,
+					"AQAAAGUEAAAAAAAAaQQAAAAAAAAEAAAAMjAyNA",
+					"AQAAAAAAAAABAAAAZQQAAAAAAABpBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"",
+					null,
+					"AQAAAF4GAAAAAAAAYgYAAAAAAAAEAAAAMjAyNA",
+					"AQAAAAAAAAABAAAAXgYAAAAAAABiBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"",
+					null,
+					"AQAAAPMHAAAAAAAA9wcAAAAAAAAEAAAAMjAyNA",
+					"AQAAAAAAAAABAAAA8wcAAAAAAAD3BwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"",
+					null,
+					"AQAAANMLAAAAAAAA1wsAAAAAAAAEAAAAMjAyNA",
+					"AQAAAAAAAAABAAAA0wsAAAAAAADXCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"",
+					null,
+					"AQAAAHQNAAAAAAAAeA0AAAAAAAAEAAAAMjAyNA",
+					"AQAAAAAAAAABAAAAdA0AAAAAAAB4DQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"",
+					null,
+					"AQAAAN4OAAAAAAAA4g4AAAAAAAAEAAAAMjAyNA",
+					"AQAAAAAAAAABAAAA3g4AAAAAAADiDgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"",
+					null,
+					"AQAAANkPAAAAAAAA3Q8AAAAAAAAEAAAAMjAyNA",
+					"AQAAAAAAAAABAAAA2Q8AAAAAAADdDwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"",
+					null,
+					"AQAAAHoQAAAAAAAAfhAAAAAAAAAEAAAAMjAyNA",
+					"AQAAAAAAAAABAAAAehAAAAAAAAB+EAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"",
+					null,
+					"AQAAALQTAAAAAAAAuBMAAAAAAAAEAAAAMjAyNA",
+					"AQAAAAAAAAABAAAAtBMAAAAAAAC4EwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"",
+					null,
+					"AQAAAKQVAAAAAAAAqBUAAAAAAAAEAAAAMjAyNA",
+					"AQAAAAAAAAABAAAApBUAAAAAAACoFQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"",
+					null,
+					"AQAAAAIXAAAAAAAABhcAAAAAAAAEAAAAMjAyNA",
+					"AQAAAAAAAAABAAAAAhcAAAAAAAAGFwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"",
+					null,
+					"AQAAAFYYAAAAAAAAWhgAAAAAAAAEAAAAMjAyNA",
+					"AQAAAAAAAAABAAAAVhgAAAAAAABaGAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"",
+					null,
+					"AQAAAL8aAAAAAAAAwxoAAAAAAAAEAAAAMjAyNA",
+					"AQAAAAAAAAABAAAAvxoAAAAAAADDGgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"",
+					null,
+					"AQAAAGgbAAAAAAAAbBsAAAAAAAAEAAAAMjAyNA",
+					"AQAAAAAAAAABAAAAaBsAAAAAAABsGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"",
+					null,
+					"AQAAAIIcAAAAAAAAhRwAAAAAAAADAAAAIFQg",
+					"AQAAAAAAAAABAAAAghwAAAAAAACFHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"",
+					null,
+					"AQAAAIYBAAAAAAAAiQEAAAAAAAADAAAAIFQg",
+					"AQAAAAAAAAABAAAAhgEAAAAAAACJAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"",
+					null,
+					"AQAAAEYEAAAAAAAASQQAAAAAAAADAAAAIFQg",
+					"AQAAAAAAAAABAAAARgQAAAAAAABJBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"",
+					null,
+					"AQAAAD4GAAAAAAAAQQYAAAAAAAADAAAAIFQg",
+					"AQAAAAAAAAABAAAAPgYAAAAAAABBBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"",
+					null,
+					"AQAAALoHAAAAAAAAvQcAAAAAAAADAAAAIFQg",
+					"AQAAAAAAAAABAAAAugcAAAAAAAC9BwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"",
+					null,
+					"AQAAANMJAAAAAAAA1gkAAAAAAAADAAAAIFQg",
+					"AQAAAAAAAAABAAAA0wkAAAAAAADWCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"",
+					null,
+					"AQAAALYLAAAAAAAAuQsAAAAAAAADAAAAIFQg",
+					"AQAAAAAAAAABAAAAtgsAAAAAAAC5CwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"",
+					null,
+					"AQAAAFENAAAAAAAAVA0AAAAAAAADAAAAIFQg",
+					"AQAAAAAAAAABAAAAUQ0AAAAAAABUDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"",
+					null,
+					"AQAAAHkPAAAAAAAAfA8AAAAAAAADAAAAIFQg",
+					"AQAAAAAAAAABAAAAeQ8AAAAAAAB8DwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"",
+					null,
+					"AQAAAFgQAAAAAAAAWxAAAAAAAAADAAAAIFQg",
+					"AQAAAAAAAAABAAAAWBAAAAAAAABbEAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"",
+					null,
+					"AQAAAIQTAAAAAAAAhxMAAAAAAAADAAAAIFQg",
+					"AQAAAAAAAAABAAAAhBMAAAAAAACHEwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"",
+					null,
+					"AQAAAFsVAAAAAAAAXhUAAAAAAAADAAAAIFQg",
+					"AQAAAAAAAAABAAAAWxUAAAAAAABeFQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"",
+					null,
+					"AQAAANoWAAAAAAAA3RYAAAAAAAADAAAAIFQg",
+					"AQAAAAAAAAABAAAA2hYAAAAAAADdFgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"",
+					null,
+					"AQAAABoYAAAAAAAAHRgAAAAAAAADAAAAIFQg",
+					"AQAAAAAAAAABAAAAGhgAAAAAAAAdGAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"",
+					null,
+					"AQAAAJoaAAAAAAAAnRoAAAAAAAADAAAAIFQg",
+					"AQAAAAAAAAABAAAAmhoAAAAAAACdGgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"",
+					null,
+					"AQAAAEobAAAAAAAATRsAAAAAAAADAAAAIFQg",
+					"AQAAAAAAAAABAAAAShsAAAAAAABNGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"",
+					null,
+					"EQAAAGsdAAAAAAAAbh0AAAAAAAAEAAAAIFRoILscAAAAAAAAvhwAAAAAAAAEAAAAIFRoIOkbAAAAAAAA7BsAAAAAAAAEAAAAIFRoIAkbAAAAAAAADBsAAAAAAAAEAAAAIFRoILwYAAAAAAAAvxgAAAAAAAAEAAAAIFRoIJQXAAAAAAAAlxcAAAAAAAAEAAAAIFRoIDUWAAAAAAAAOBYAAAAAAAAEAAAAIFRoIJcUAAAAAAAAmhQAAAAAAAAEAAAAIFRoINYRAAAAAAAA2REAAAAAAAAEAAAAIFRoILwPAAAAAAAAvw8AAAAAAAAEAAAAIFRoIMEOAAAAAAAAxA4AAAAAAAAEAAAAIFRoIEUMAAAAAAAASAwAAAAAAAAEAAAAIFRoIH8LAAAAAAAAggsAAAAAAAAEAAAAIFRoIMAIAAAAAAAAwwgAAAAAAAAEAAAAIFRoIHMHAAAAAAAAdgcAAAAAAAAEAAAAIFRoIH8FAAAAAAAAggUAAAAAAAAEAAAAIFRoIM0DAAAAAAAA0AMAAAAAAAAEAAAAIFRoIA",
+					"AQAAAAAAAAABAAAA6RsAAAAAAADtGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAEJAAAAAAAAAQkAAAAAAAABAAAAMw",
+					"AQAAAAAAAAABAAAAAgkAAAAAAAACCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": "2"
+					},
+					"AQAAAAEJAAAAAAAAAgkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQkAAAAAAAABCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"insert",
+					{
+						"characters": "Blood"
+					},
+					"BQAAAFYVAAAAAAAAVxUAAAAAAAAzAAAAX19FbGVjdGlvbiBEYXkhX18gKE5vIGNsYXNzLCBidXQgcmV2aWV3IExvY29tb3Rpb24pVxUAAAAAAABYFQAAAAAAAAAAAABYFQAAAAAAAFkVAAAAAAAAAAAAAFkVAAAAAAAAWhUAAAAAAAAAAAAAWhUAAAAAAABbFQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVhUAAAAAAACJFQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"insert",
+					{
+						"characters": " and"
+					},
+					"BAAAAFsVAAAAAAAAXBUAAAAAAAAAAAAAXBUAAAAAAABdFQAAAAAAAAAAAABdFQAAAAAAAF4VAAAAAAAAAAAAAF4VAAAAAAAAXxUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWxUAAAAAAABbFQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					69,
+					1,
+					"insert",
+					{
+						"characters": " Respiration"
+					},
+					"DAAAAF8VAAAAAAAAYBUAAAAAAAAAAAAAYBUAAAAAAABhFQAAAAAAAAAAAABhFQAAAAAAAGIVAAAAAAAAAAAAAGIVAAAAAAAAYxUAAAAAAAAAAAAAYxUAAAAAAABkFQAAAAAAAAAAAABkFQAAAAAAAGUVAAAAAAAAAAAAAGUVAAAAAAAAZhUAAAAAAAAAAAAAZhUAAAAAAABnFQAAAAAAAAAAAABnFQAAAAAAAGgVAAAAAAAAAAAAAGgVAAAAAAAAaRUAAAAAAAAAAAAAaRUAAAAAAABqFQAAAAAAAAAAAABqFQAAAAAAAGsVAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXxUAAAAAAABfFQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGsVAAAAAAAAaxUAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAbBUAAAAAAABsFQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					75,
+					1,
+					"insert",
+					{
+						"characters": "ion"
+					},
+					"AwAAACMWAAAAAAAAJBYAAAAAAAAJAAAAb3J5IE1lZGlhJBYAAAAAAAAlFgAAAAAAAAAAAAAlFgAAAAAAACYWAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIxYAAAAAAAAsFgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "index.qmd",
+			"settings":
+			{
+				"buffer_size": 3040,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAABkHAAAAAAAAGgcAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAAGgcAAAAAAAAZBwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "_quarto.yml",
+			"settings":
+			{
+				"buffer_size": 1047,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAOIAAAAAAAAA4wAAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAA4wAAAAAAAADiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"left_delete",
+					null,
+					"AQAAANYAAAAAAAAA1gAAAAAAAAANAAAAIGluIEZhbGwgMjAyNQ",
+					"AQAAAAAAAAABAAAA1gAAAAAAAADjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "-"
+					},
+					"AQAAAJ0AAAAAAAAAngAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnQAAAAAAAACdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKEAAAAAAAAAoQAAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAAogAAAAAAAACiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAKEAAAAAAAAAogAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoQAAAAAAAAChAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "---\ntitle: \"Resources\"\n---\n\n# Important Links\n\n-   __Course website:__ <https://mbutler808.github.io/animalphys-2025/> Information central for both the lecture and laboratory. Posted here are all assignments, including reading assignments, problem sets, laboratory exercises and reports.  \n-  __GitHub repository__ with course material: <https://github.com/mbutler808/animalphys2024>.\n\n-  __Google Drive__ Where we will post additional resources. I will add you to the drive using your UH ID. <https://drive.google.com/drive/u/1/folders/1M8ygipZEd9OUdld45C4BGgfJw2KWUKYk>  If you want to use an alternative email LMK: [email](mailto:mbutler808@gmail.com).   \n-  [__Lamaku__](https://lamaku.hawaii.edu/) For grades and lab quizzes.   \n-  ZOOL430 library study guide: <https://guides.library.manoa.hawaii.edu/zoology430>\n\n## Course documents\n- [Lab Notebook Instructions](labs-misc/lab-notebook.qmd) (including the prelab) \n\n",
+			"file": "resources.qmd",
+			"file_size": 924,
+			"file_write_time": 133690157601021378,
+			"settings":
+			{
+				"buffer_size": 923,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "-"
+					},
+					"AQAAAG8AAAAAAAAAcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbwAAAAAAAABvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHMAAAAAAAAAcwAAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAAdAAAAAAAAAB0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAHMAAAAAAAAAdAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcwAAAAAAAABzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					5,
+					"left_delete",
+					null,
+					"BQAAAJ8CAAAAAAAAnwIAAAAAAAABAAAAYZ4CAAAAAAAAngIAAAAAAAABAAAAbZ0CAAAAAAAAnQIAAAAAAAABAAAAaZwCAAAAAAAAnAIAAAAAAAABAAAAbJsCAAAAAAAAmwIAAAAAAAABAAAAdQ",
+					"AQAAAAAAAAABAAAAoAIAAAAAAACgAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "maku"
+					},
+					"BAAAAJsCAAAAAAAAnAIAAAAAAAAAAAAAnAIAAAAAAACdAgAAAAAAAAAAAACdAgAAAAAAAJ4CAAAAAAAAAAAAAJ4CAAAAAAAAnwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmwIAAAAAAACbAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "maku"
+					},
+					"BAAAAK0CAAAAAAAArgIAAAAAAAAFAAAAdWxpbWGuAgAAAAAAAK8CAAAAAAAAAAAAAK8CAAAAAAAAsAIAAAAAAAAAAAAAsAIAAAAAAACxAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArQIAAAAAAACyAgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "posts/2025-09-03-metabolism/index.qmd",
+			"settings":
+			{
+				"buffer_size": 6313,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAADoBAAAAAAAAOwEAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAAOwEAAAAAAAA6AQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "posts/2025-09-10-temperature/index.qmd",
+			"settings":
+			{
+				"buffer_size": 3447,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"left_delete",
+					null,
+					"AQAAAB8BAAAAAAAAHwEAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAAIAEAAAAAAAAgAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAB8BAAAAAAAAIAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHwEAAAAAAAAfAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAACABAAAAAAAAIQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIAEAAAAAAAAgAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"left_delete",
+					null,
+					"AQAAACABAAAAAAAAIAEAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAIQEAAAAAAAAhAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "posts/2025-09-17-cardiac-function/cardiac.qmd",
+			"settings":
+			{
+				"buffer_size": 2883,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAACMBAAAAAAAAJAEAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAAJAEAAAAAAAAjAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "posts/2025-09-24-feeding/feeding.qmd",
+			"settings":
+			{
+				"buffer_size": 2123,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAAcBAAAAAAAACAEAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAACAEAAAAAAAAHAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "posts/2025-10-01-feeding/feeding.qmd",
+			"settings":
+			{
+				"buffer_size": 1762,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAAcBAAAAAAAACAEAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAABwEAAAAAAAAIAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "posts/2025-10-08-clauss-neurons/neurons.qmd",
+			"settings":
+			{
+				"buffer_size": 2418,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAK0BAAAAAAAArgEAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAArQEAAAAAAACuAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "posts/2025-10-15-neurons/neurons.qmd",
+			"settings":
+			{
+				"buffer_size": 1959,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAJ0BAAAAAAAAngEAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAAngEAAAAAAACdAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "posts/2025-10-22-muscles/muscles.qmd",
+			"settings":
+			{
+				"buffer_size": 2320,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAE8BAAAAAAAAUAEAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAAUAEAAAAAAABPAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "posts/2025-10-29-biomechanics-locomotion/biomechanics-locomotion.qmd",
+			"settings":
+			{
+				"buffer_size": 2731,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAACMBAAAAAAAAJAEAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAAJAEAAAAAAAAjAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "posts/2025-11-05-blood-respiration/blood-respiration.qmd",
+			"settings":
+			{
+				"buffer_size": 2685,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAACYBAAAAAAAAJwEAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAAJwEAAAAAAAAmAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "posts/2025-11-12-ventilation/ventilation.qmd",
+			"settings":
+			{
+				"buffer_size": 4140,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAACUBAAAAAAAAJgEAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAAJgEAAAAAAAAlAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "posts/2025-11-19-osmoregulation/osmoregulation.qmd",
+			"settings":
+			{
+				"buffer_size": 4340,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAADsBAAAAAAAAPAEAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAAPAEAAAAAAAA7AQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "posts/2025-11-26-osmoregulation2/osmoregulation2.qmd",
+			"settings":
+			{
+				"buffer_size": 4629,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAADUBAAAAAAAANgEAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAANgEAAAAAAAA1AQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "posts/2025-12-03-excretion/excretion.qmd",
+			"settings":
+			{
+				"buffer_size": 3401,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAADEBAAAAAAAAMgEAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAAMgEAAAAAAAAxAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/R/R.sublime-build",
+					""
+				],
+				[
+					"Packages/SendCode/support/R - Source File.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SendCode/support/R - Source File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"send",
+				"SendCode: Choose Program"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"termina",
+				"Terminal: Open"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"quarto",
+				"Set Syntax: Quarto"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"term",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			],
+			[
+				"termin",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"ter",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"termi",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"markdown",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"MarkdownPreview",
+				"MarkdownLivePreview: Open Settings"
+			],
+			[
+				"Markdown",
+				"Preferences: MarkdownEditing Settings"
+			],
+			[
+				"MarkdownLi",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"previw",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"sendcode",
+				"SendCode: Choose Program"
+			],
+			[
+				"preview",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"markdownliv",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"",
+				"Set Syntax: R"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"set",
+				"Set Syntax: R"
+			],
+			[
+				"set syntax: R",
+				"Set Syntax: R"
+			],
+			[
+				"terminus: ope",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"set syntax: r",
+				"Set Syntax: R Console"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/animalphys-2025"
+	],
+	"file_history":
+	[
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/animalphys-2025/posts/2025-08-27-megalodon-model/index.qmd",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/animalphys-2025/posts/2025-08-29-library-day/index.qmd",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Products/oreo-taxonomy.qmd",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/IQTree/model_search/iqtreerun_bestmodel.sh",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_manuscript/Products/oreo.qmd",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Products/oreo-taxa-cut.qmd",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Raw_data/locality.csv",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Processed_data/genbank/Feature _CYTB_BJE01120-01148.txt",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Processed_data/genbank/Feature_BDNF_BJE-1120-01148.txt",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Processed_data/genbank/Feature_ND4_BJE-1120-01144.txt",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Processed_data/genbank/Feature_NXC_SIA_BJE01120-1148.txt",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Processed_data/genbank/genbank submission notes",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Processed_data/genbank/sourcemodifiers_nxc_O_senkenbergiana.tsv",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Processed_data/genbank/nxc_O_senkenbergiana_genbank.fasta",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Processed_data/genbank/sourcemodifiers_nd4_O_senkenbergiana.tsv",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Processed_data/genbank/nd4_O_senkenbergiana_genbank.fasta",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Raw_data/genbank/cytb_senkenbergiana_alignment_20230803.fas",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/.gitignore",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Raw_data/Oreophryne_sensu_lato.csv",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Raw_data/metadata.csv",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Processed_data/genbank/sourcemodifiers_sia_O_senkenbergiana.tsv",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Code/plotting_functions.R",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Code/oreoplots.R",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Products/oreo-taxonomy-noauthor.qmd",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Project-template/Code/Processing_code/processingfile_v2.qmd",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Raw_data/genbank/bdnf_senkenbergiana_alignment_20230803.fas",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Code/maps.R",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Code/tables.R",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Code/code_wallkthrough.qmd",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Raw_data/genbank/nxc_senkenbergiana_alignment_20230803.fas",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Raw_data/genbank/sia_senkenbergiana_alignment_20230803.fas",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Code/BankItSourcemod.R",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Processed_data/genbank/bdnf_O_senkenbergiana_genbank.fasta",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Processed_data/genbank/sourcemodifiers_bdnf_O_senkenbergiana.tsv",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Processed_data/genbank/sourcemodifiers_cytb_O_senkenbergiana.tsv",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Raw_data/genbank/nd4_senkenbergiana_alignment_20230803.fas",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Code/maps2.R",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_manuscript/Code/oreoplots.R",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Code/oreocode.R",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Code/oreomap.R",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/README.md",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/README.md",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/IQTree/mesquite_alignment/mesquite_senkenbergiana_alignment_20230803.nex",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Products/oreophryne.bib",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/genus_type.csv",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Raw_data/taxonomic_transfers.csv",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Raw_data/Taxonomic_table.csv",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/taxonomic_transfers.csv",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/IQTree/mesquite_alignment/senkenbergiana_alignment.nex",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/IQTree/mesquite_alignment/senkenbergiana_alignment_20230803.nex",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Processed_data/metadata.csv",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Table1_oreotype.csv",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_manuscript/README.md",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_manuscript/.gitignore",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_manuscript/Products/oreo-taxa-cut.qmd",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Products/oreo-taxonomy-prev.qmd",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_manuscript/Products/oreo.cut.qmd",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Code/clean_functions.R",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_manuscript/Data/IQTree/oreophryne_senkenbergiana/model_search/senkenbergiana_merge.treefile",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/oreo-taxonomy.qmd",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_manuscript/Code/old/treeplotting.R",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Code/clean_metadata.R",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/IQTree/model_search/senkenbergiana_merge.treefile",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_ms/Data/Processed_data/tree_with_data.nex",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_manuscript/Code/oreocode.R",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_manuscript/Products/oreo-taxonomy.qmd",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_manuscript/Products/oreo-cut-text.qmd",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git-class/students/students.sublime-workspace",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_manuscript/Data/IQTree/oreophryne_senkenbergiana/model_search/senkenbergiana_merge.timetree.nwk",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_manuscript/Data/IQTree/oreophryne_senkenbergiana/model_search/senkenbergiana_merge.timetree.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQtree/oreophryne_senkenbergiana/model_search/senkenbergiana_merge.bionj",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQtree/oreophryne_senkenbergiana/model_search/senkenbergiana_merge.contree",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQtree/oreophryne_senkenbergiana/model_search/senkenbergiana_merge.iqtree",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQtree/oreophryne_senkenbergiana/model_search/senkenbergiana_merge.mldist",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQtree/oreophryne_senkenbergiana/model_search/senkenbergiana_merge.splits.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQtree/oreophryne_senkenbergiana/model_search/senkenbergiana_merge.timetree.nex",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Asterophryinae_phylogenetics_2023/oreophryne_without_newaphantophryne/mesquite_alignment/mesquite_senkenbergiana_alignment_20230803.nex",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Asterophryinae_phylogenetics_2023/oreophryne_without_newaphantophryne/mesquite_alignment/senkenbergiana_alignment.nex",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Asterophryinae_phylogenetics_2023/oreophryne_without_newaphantophryne/mesquite_alignment/senkenbergiana_alignment_20230803.nex",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Asterophryinae_phylogenetics_2023/oreophryne_without_newaphantophryne/model_search/senkenbergiana_merge.bionj",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_manuscript/Products/Tables/genus_type.csv",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_manuscript/Products/oreophryne.bib",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_manuscript/Code/plotting_functions.R",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/animalphys-2024/animalphys2024.sublime-project",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/animalphys-2024/animalphys2024.sublime-workspace",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/animalphys-2024/schedule.qmd",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/tables.R",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/processing_code.R",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/plotting_functions.R",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/genetree_speciestree_stats_all.R",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Products/oreophryne.bib",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/oreocode.R",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/print_def_cut_text.R",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/clean_metadata.R",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/genetree_speciestree_5loci/iqtreerun_genetreespeciestree_all198_5partitions.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Products/oreo.qmd",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/treeplotting_gradient.R",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/edit.nexus.R",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/ic_oaref.csv",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/ils_oacp.csv",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/trimmed_iqtree_2024_metadata.csv",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/Rplot_colors.pdf",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/temp.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/genetree_speciestree_5loci/all198_5loci.iqtree",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/genetree_speciestree_5loci/iqtreerun_genetreespeciestree_all198_15partitions.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/twotaxa_tests/iqtreerun_bestmodel.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/mesquite_20240508_oreophryne_aphantophryne_cophix_paedo_trimmed.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/mesquite_20240508_oreophryne_aphantophryne_outgroup_trimmed.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/mesquite_20240508_oreophryne_aphantophryne_references_allspecies_trimmed.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/mesquite_20240508_oreophryne_aphantophryne_references_trimmed.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/mesquite_20240508_oreophryne_outgroup_trimmed.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/alignment_20240508_allspecies_198tips.fasta",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/input/asterophryinae_5partitions.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/mesquite_20240508_oreophryne_aphantophryne_cophix_paedo_outgroup_trimmed.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/alignment_20240508_oreophryne_outgroup_trimmed.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/alignment_20240508_oreophryne_aphantophryne_references_trimmed.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/alignment_20240508_oreophryne_aphantophryne_cophix_paedo_trimmed.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/alignment_20240508_oreophryne_aphantophryne_cophix_paedo_outgroup_trimmed.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/alignment_20240508_oreophryne_aphantophryne_outgroup_trimmed.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/alignment_20240508_oreophryne_aphantophryne_references_allspecies_trimmed.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/alignment_20240508_allspecies_207tips.fasta",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/alignment_20240508_allspecies_207tips.fasta.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/genetree_speciestree/iqtreerun_genetreespeciestree_oaref.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/oreophryne_auparoparo_aphantophryne_outgroup_trimmed/iqtreerun_bestmodel.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/oreophryne_aphantophryne_references_trimmed_allspecies/iqtreerun_bestmodel.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/oreophryne_aphantophryne_references_trimmed/oreo_aupa_apha_references_trimmed.log",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/oreophryne_aphantophryne_references_trimmed_allspecies/oreophryne_aphantophryne_references_trimmed.log",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/oreophryne_aphantophryne_references_trimmed/iqtreerun_bestmodel.sh"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 148.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" Th ",
+			" T ",
+			"2024"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" F ",
+			" W ",
+			"2025"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/animalphys-2025"
+		},
+		{
+			"path": "/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/animalphys-2024"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "syllabus.qmd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24760,
+								24760
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Quarto/Quarto.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 23707.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "schedule.qmd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5770,
+								5770
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Quarto/Quarto.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2384.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.qmd",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3040,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1975,
+								1975
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Quarto/Quarto.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1775.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_quarto.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								237,
+								237
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resources.qmd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 923,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								689,
+								689
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Quarto/Quarto.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "posts/2025-09-03-metabolism/index.qmd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								315,
+								315
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Quarto/Quarto.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "posts/2025-09-10-temperature/index.qmd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Quarto/Quarto.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "posts/2025-09-17-cardiac-function/cardiac.qmd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2883,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								292,
+								292
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Quarto/Quarto.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "posts/2025-09-24-feeding/feeding.qmd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								264,
+								264
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Quarto/Quarto.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "posts/2025-10-01-feeding/feeding.qmd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1762,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								264,
+								264
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Quarto/Quarto.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "posts/2025-10-08-clauss-neurons/neurons.qmd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								430,
+								430
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Quarto/Quarto.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "posts/2025-10-15-neurons/neurons.qmd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1959,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								414,
+								414
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Quarto/Quarto.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "posts/2025-10-22-muscles/muscles.qmd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								336,
+								336
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Quarto/Quarto.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "posts/2025-10-29-biomechanics-locomotion/biomechanics-locomotion.qmd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2731,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								292,
+								292
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Quarto/Quarto.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "posts/2025-11-05-blood-respiration/blood-respiration.qmd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2685,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								295,
+								295
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Quarto/Quarto.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "posts/2025-11-12-ventilation/ventilation.qmd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								294,
+								294
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Quarto/Quarto.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "posts/2025-11-19-osmoregulation/osmoregulation.qmd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								316,
+								316
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Quarto/Quarto.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "posts/2025-11-26-osmoregulation2/osmoregulation2.qmd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4629,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								310,
+								310
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Quarto/Quarto.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "posts/2025-12-03-excretion/excretion.qmd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3401,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								306,
+								306
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Quarto/Quarto.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 298.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 280.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.markdown":
+	{
+		"height": 126.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 36.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 100.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/git/rclass-site/syllabus.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 331.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

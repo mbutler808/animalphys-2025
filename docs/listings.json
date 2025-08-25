@@ -1,0 +1,63 @@
+[
+  {
+    "listing": "/labs.html",
+    "items": [
+      "/labs/Lab-notebooks/lab-notebook.html",
+      "/labs/Lab12-human-renal/Lab12.html",
+      "/labs/Lab11-human-eeg/Lab11.html",
+      "/labs/Lab9-10-toad-muscle/Lab9-10.html",
+      "/labs/Lab8-human-emg/Lab8.html",
+      "/labs/Lab7-toad-nerve/Lab7.html",
+      "/labs/Lab6-lobster-heart/Lab6.html",
+      "/labs/Lab5-toad-heart/Lab5.html",
+      "/labs/Lab4-human-ecg/Lab4.html",
+      "/labs/Lab3-human-peripheral-circulation-dive-response/Lab3.html",
+      "/labs/Lab2-zoo/Lab2.html",
+      "/labs/Lab1-heart-rate-and-data-analysis/Lab1.html",
+      "/labs/Lab3-human-peripheral-circulation-dive-response/Lab3ws.html",
+      "/labs/Protocols/protocols.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/design2-turnin.html",
+      "/projects/design2-resources.html",
+      "/projects/design2.html",
+      "/projects/design1-turnin.html",
+      "/projects/design1-FAQ.html",
+      "/projects/0.BackgroundBulletPoints.html",
+      "/projects/design1.html",
+      "/projects/design4.html",
+      "/projects/design4-resources.html",
+      "/projects/design3-turnin.html",
+      "/projects/design3a.html",
+      "/projects/design3.html",
+      "/projects/design3-process.html",
+      "/projects/design3-resources.html",
+      "/projects/design2-FAQ.html"
+    ]
+  },
+  {
+    "listing": "/lectures.html",
+    "items": [
+      "/posts/2025-12-03-excretion/excretion.html",
+      "/posts/2025-11-26-osmoregulation2/osmoregulation2.html",
+      "/posts/2025-11-19-osmoregulation/osmoregulation.html",
+      "/posts/2025-11-12-ventilation/ventilation.html",
+      "/posts/2025-11-05-blood-respiration/blood-respiration.html",
+      "/posts/2025-10-29-biomechanics-locomotion/biomechanics-locomotion.html",
+      "/posts/2025-10-22-muscles/muscles.html",
+      "/posts/2025-10-15-neurons/neurons.html",
+      "/posts/2025-10-08-clauss-neurons/neurons.html",
+      "/posts/2025-10-01-feeding/feeding.html",
+      "/posts/2025-09-24-feeding/feeding.html",
+      "/posts/2025-09-17-cardiac-function/cardiac.html",
+      "/posts/2025-09-10-temperature/index.html",
+      "/posts/2025-09-03-metabolism/index.html",
+      "/posts/2025-08-29-library-day/index.html",
+      "/posts/2025-08-27-megalodon-model/index.html",
+      "/posts/2025-08-27-megalodon-model/slides.html"
+    ]
+  }
+]

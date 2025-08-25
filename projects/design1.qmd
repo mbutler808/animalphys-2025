@@ -1,0 +1,45 @@
+---
+title: "Design 1"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "What would life cost for your animal, and how hard would it be to be in heat balance?"
+date: 2024-09-01
+format: 
+  html: default 
+  pdf: default
+  docx: default
+categories: [design project, design 1, metabolism, heat balance, DMR, RMR, AMR, SMR, BMR, activity ]
+---
+
+# Suggestions for Metabolism and Heat Balance Design
+__First draft (due 9/23 by 5pm):__ 
+I highly recommend that you __make an outline__ with your partner. __Work in this order:__ begin with completing the full analysis using paper and pencil. Then write the results and methods, followed by the discussion, then the intro.  __Add citations as you go.__  Please include your typed calculations as an appendix.
+
+_Note: You are writing a scientific paper (the style appropriate for a scientific journal article)._ These are generic content suggestions (only include aspects that are __relevant__ to your animal):  
+
+- Select an extinct animal*.  Use the library and the Web to find out information about your animal.  Get help from the librarians if you need it.  Write about two pages of background on your animal.  What did it look like? (You may include a photocopy of any published reconstructions; but it would be better if you draw the figures yourself).  Where did it live?  In what kind of environment did it live?  What was the range of ambient temperatures in which it lived (day, night; winter, summer).  What did it eat?  What other sorts of animals and plants lived at the same time?  Include anything that you find particularly interesting about the animal.
+
+- From fossils described in the literature, estimate the body mass and body dimensions of your animal.  Make a sketch of your animal and add the body dimensions (overall height, leg length, wing span, etc).
+
+- Was your animal poikilothermic or homeothermic?  Endothermic or ectothermic? What range of body temperatures could your animal tolerate?  How did it deal with extreme heat or cold stress? If the animal was a thermoregulator, how did it regulate its body temperature? Did it have insulating fur, feathers or fat?  Could it sweat or use other forms of evaporative cooling?  Did it allow its tissues to become supercooled without freezing?  Was it freeze tolerant?  Did it use countercurrent heat exchangers?  Did it go into torpor or hibernate?
+
+- For endotherms, calculate BMR (choose an appropriate interspecific scaling equation from Withers Table 4-5). From BMR, estimate RMR, AMR, MMR and DMR.  What is the metabolic scope of your animal?  Include a lot of detail in writing about the lifestyle of the animal and why you chose the values that you did to estimate DMR and MMR.  
+
+- For ectotherms, choose an appropriate interspecific scaling equation from Withers Table 4-5 and the iterative method to calculate SMR for the animal when it is inactive at night  (assume a Q$_{10}$ of 2.5 for metabolic rate).  How much higher is body temperature than air temperature during the night (T$_b$-T$_a$)?  Use the Q$_{10}$ correction to calculate SMR at the higher ambient temperatures during the day (not yet iterative).  Increase SMR by a factor of 1.5-3 to reflect active metabolic rate (AMR).  Now use the iterative calculations to determine Tb-Ta, and the corresponding increase in MR.  Estimate DMR for your animal. These are just suggestions, find something interesting about DMR to explore.
+
+- Estimate values for the heat balance equation for your animal at rest.  Use allometric equations to estimate minimum Hc, and CEWL+REWL to estimate minimum He.  Then imagine some situations in which your animal might experience heat or cold stress, and use the heat equation to see whether it is able to maintain heat balance.  Create a situation that would put your animal out of heat balance.  _How fast does the body temperature increase or decrease?_  
+
+- If your animal is an endotherm, how much energy per day could your animal save by hibernating with a lower body temperature (if reasonable for your animal; this is a hard question to answer).
+
+:::{.callout-note}
+# *Note:  Use standard scientific citation and reference formats throughout all of your papers.  
+
+Cite sources as (author(s), date) and include full references at the end of each design. For example:  The earliest amphibians were largely aquatic, and are thought to have had internal gills (Coates and Clack, 1991).
+
+Coates, M. I. and Clack, J. A. 1991. Fish-like gills and breathing in the earliest known tetrapod. _Nature_, 352:234-236.
+:::
+
+\[[pdf](1.MetabolismTempDesign1.pdf)\] version of this sheet
