@@ -1,24 +1,5 @@
 [
   {
-    "listing": "/labs.html",
-    "items": [
-      "/labs/Lab-notebooks/lab-notebook.html",
-      "/labs/Lab12-human-renal/Lab12.html",
-      "/labs/Lab11-human-eeg/Lab11.html",
-      "/labs/Lab9-10-toad-muscle/Lab9-10.html",
-      "/labs/Lab8-human-emg/Lab8.html",
-      "/labs/Lab7-toad-nerve/Lab7.html",
-      "/labs/Lab6-lobster-heart/Lab6.html",
-      "/labs/Lab5-toad-heart/Lab5.html",
-      "/labs/Lab4-human-ecg/Lab4.html",
-      "/labs/Lab3-human-peripheral-circulation-dive-response/Lab3.html",
-      "/labs/Lab2-zoo/Lab2.html",
-      "/labs/Lab1-heart-rate-and-data-analysis/Lab1.html",
-      "/labs/Lab3-human-peripheral-circulation-dive-response/Lab3ws.html",
-      "/labs/Protocols/protocols.html"
-    ]
-  },
-  {
     "listing": "/projects.html",
     "items": [
       "/projects/design2-turnin.html",
@@ -36,6 +17,25 @@
       "/projects/design3-process.html",
       "/projects/design3-resources.html",
       "/projects/design2-FAQ.html"
+    ]
+  },
+  {
+    "listing": "/labs.html",
+    "items": [
+      "/labs/Lab-notebooks/lab-notebook.html",
+      "/labs/Lab1-heart-rate-and-data-analysis/Lab1.html",
+      "/labs/Lab12-human-renal/Lab12.html",
+      "/labs/Lab11-human-eeg/Lab11.html",
+      "/labs/Lab9-10-toad-muscle/Lab9-10.html",
+      "/labs/Lab8-human-emg/Lab8.html",
+      "/labs/Lab7-toad-nerve/Lab7.html",
+      "/labs/Lab6-lobster-heart/Lab6.html",
+      "/labs/Lab5-toad-heart/Lab5.html",
+      "/labs/Lab4-human-ecg/Lab4.html",
+      "/labs/Lab3-human-peripheral-circulation-dive-response/Lab3.html",
+      "/labs/Lab2-zoo/Lab2.html",
+      "/labs/Lab3-human-peripheral-circulation-dive-response/Lab3ws.html",
+      "/labs/Protocols/protocols.html"
     ]
   },
   {

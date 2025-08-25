@@ -5,8 +5,8 @@ author:
     url: https://butlerlab.org
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
-description: "Lab for first week of class 8/27/24"
-date: 2024-08-27
+description: "Lab for first week of class"
+date: 2025-08-27
 toc: true
 format: 
   html: default
