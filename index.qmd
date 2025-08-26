@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Animal Physiology"
-image: images/snake.jpg
+title: "Welcome to Animal Physiology 2025"
+image: images/AfricanWildDog.jpg
 about:
   template: jolla
   links:
