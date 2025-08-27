@@ -6,8 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Day one and nice to meet you"
-date: 2024-08-27
-image: "../../images/AnimalPhysSurveyQR.png"
+date: 2025-08-27
 format: 
   revealjs:
     chalkboard: true 
@@ -162,10 +161,10 @@ Environmental context: [_Migration in Motion Visualization_](http://blog.nature.
 ::: {.columns}  
 
 ::: {.column width="60%"}  
-- Important!! Please complete the [class survey](https://docs.google.com/forms/d/e/1FAIpQLSfV2qLBC02d-CBzvRiqPtSXAYSBTLucMo8cfS8V0qEu2wTgLQ/viewform) 
-- Course Website: <https://mbutler808.github.io/animalphys/> (grades on Laulima)
-- Lab 1 — check website. Read before coming to lab - no prelab this week. Quiz is posted to Laulima 24 hrs prior to lab. 
-- Get your BOOK from SoLS Office StJohn 101 - $20 cash to rent  
+- Important!! Please complete the [class survey](https://forms.gle/Yv9NUBVH5jHyNhvv5) 
+- Course Website: <https://mbutler808.github.io/animalphys-2025/> (grades on Laulima)
+- Lab 1 — check website. Read before coming to lab - no prelab this week.  
+- Get your BOOK from EDM101 - $20 cash to rent  
 :::  
 
 ::: {.column width=5%}  

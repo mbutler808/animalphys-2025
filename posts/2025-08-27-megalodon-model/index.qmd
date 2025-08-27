@@ -41,12 +41,12 @@ categories: [module 1, week 1, reading assessment, close reading, gigantism, siz
 
 | Group | Partner 1 | Partner 2 | Partner 3 |
 |----|----|----|----|----|
-| 1 | Christian  | Adam  | Ashton |
-| 2 | Joshua  | Hao  | Mohammad |
-| 3 |  Kylee |  Maya | Xi |
-| 4 |  Tamako |  Vivian | James |
-| 5 |  Ilan |  Sean |  |
-| 6 |  Veronica | Colin  |  |
+| 1 | Manuel  | Alice  | Xavier |
+| 2 | Sam  | Kyra  |  |
+| 3 |  Darwin |  Dallas |  |
+| 4 |  Niki |  Trey |  |
+| 5 |  Paris |  Emma |  |
+| 6 |  Peigi | Carla  |  |
 
 
 \[[Slides](slides.qmd)\] I will go over this in class.   
