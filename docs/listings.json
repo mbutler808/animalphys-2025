@@ -23,6 +23,7 @@
     "listing": "/labs.html",
     "items": [
       "/labs/Lab-notebooks/lab-notebook.html",
+      "/labs/Lab4-human-ecg/Lab4.html",
       "/labs/Lab1-heart-rate-and-data-analysis/Lab1.html",
       "/labs/Lab12-human-renal/Lab12.html",
       "/labs/Lab11-human-eeg/Lab11.html",
@@ -31,7 +32,6 @@
       "/labs/Lab7-toad-nerve/Lab7.html",
       "/labs/Lab6-lobster-heart/Lab6.html",
       "/labs/Lab5-toad-heart/Lab5.html",
-      "/labs/Lab4-human-ecg/Lab4.html",
       "/labs/Lab3-human-peripheral-circulation-dive-response/Lab3.html",
       "/labs/Lab2-zoo/Lab2.html",
       "/labs/Lab3-human-peripheral-circulation-dive-response/Lab3ws.html",
@@ -41,6 +41,9 @@
   {
     "listing": "/lectures.html",
     "items": [
+      "/posts/2025-08-29-library-day/index.html",
+      "/posts/2025-08-27-megalodon-model/slides.html",
+      "/posts/2025-08-27-megalodon-model/index.html",
       "/posts/2025-12-03-excretion/excretion.html",
       "/posts/2025-11-26-osmoregulation2/osmoregulation2.html",
       "/posts/2025-11-19-osmoregulation/osmoregulation.html",
@@ -54,10 +57,7 @@
       "/posts/2025-09-24-feeding/feeding.html",
       "/posts/2025-09-17-cardiac-function/cardiac.html",
       "/posts/2025-09-10-temperature/index.html",
-      "/posts/2025-09-03-metabolism/index.html",
-      "/posts/2025-08-29-library-day/index.html",
-      "/posts/2025-08-27-megalodon-model/slides.html",
-      "/posts/2025-08-27-megalodon-model/index.html"
+      "/posts/2025-09-03-metabolism/index.html"
     ]
   }
 ]

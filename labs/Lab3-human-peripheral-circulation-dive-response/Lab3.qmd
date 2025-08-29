@@ -31,6 +31,7 @@ categories: [week 3, labs, circulation, peripheral circulation, blood pressure, 
 
 :::{.callout-note}
 # Exercises
+- Practical based on [Lab 1](../Lab1-heart-rate-and-data-analysis/Lab1.qmd). 
 - Measuring blood pressure
 - Peripheral circulation experiment
   + Develop a simple experiment to demonstrate a principle of peripheral circulation of choice.

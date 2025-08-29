@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Finishing off respiration and starting osmoregulation"
-date: 2025-11-18
+date: 2024-11-18
 format: 
   html: default 
   pdf: default

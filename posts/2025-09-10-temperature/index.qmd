@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Heat and its implications for physiology"
-date: 2025-09-10
+date: 2024-09-10
 format: 
   html: default 
   pdf: default

@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "You all know about action potentials, but how do they actually work? The details, and how they scale up in the biological heirarchy are so much more interesting."
-date: 2025-10-15
+date: 2024-10-15
 format: 
   html: default 
   pdf: default

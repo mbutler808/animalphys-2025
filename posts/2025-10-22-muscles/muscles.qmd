@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Muscles are so cool! They are responsible for the incredible diversity of animal movemements"
-date: 2025-10-24
+date: 2024-10-24
 format: 
   html: default 
   pdf: default

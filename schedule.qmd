@@ -22,14 +22,14 @@ format:
 | 8/27 | W | Intro to Course/Megalodon Discussion \[[html](posts/2025-08-27-megalodon-model/index.qmd)\] \[[paper](https://www.nature.com/articles/s41586-023-06381-1)\] \[[Google Drive copy](https://drive.google.com/drive/folders/1M8ygipZEd9OUdld45C4BGgfJw2KWUKYk)\] | (Reading Assessment)  | Lab1: PC1-G-HR/Data analysis \[[overview](labs/Lab1-heart-rate-and-data-analysis/Lab1.qmd)\] \[[podcast](https://youtu.be/pujrG6zhTJE)\] \[[lab manual](labs/Lab1-heart-rate-and-data-analysis/Lab1-data-aquistion-finger-pulse.pdf)\] \[[protocol](labs/Protocols/p1-intro-finger-pulse.pdf)\] |   
 |   | F | Library Day - Meet at Hamilton \[[html](posts/2025-08-29-library-day/index.qmd)\]|   |   |   
 |Week 2|||||
-| 9/3  | W | Metabolism \[[html](posts/2025-09-03-metabolism/index.qmd)\] \[[reading assignment and questions](discussions/Discussion_Week_2.pdf)\] \[[HWA readings](https://drive.google.com/drive/folders/1ONGdTPdeQz2lgGgAiWyZ_yGRmmcNSwoV)\] |   | Lab2: PC2-G-Honolulu Zoo \[[lab manual](labs/Lab2-zoo/Lab2.qmd)\] |   
+| 9/3  | W | Metabolism \[[html](posts/2025-09-03-metabolism/index.qmd)\] \[[reading assignment and questions](discussions/Discussion_Week_2.pdf)\] \[[HWA readings](https://drive.google.com/drive/folders/1ONGdTPdeQz2lgGgAiWyZ_yGRmmcNSwoV)\] |   | Lab4: PC3-G-ECG/Cardiac Function \[[overview](labs/Lab4-human-ecg/Lab4.qmd)\] |   
 | | F | Size and Scaling \[[podcast](https://youtu.be/_NDNa_3Bon8)\]|   |  |   
 |   | F |  | Background Design 1 \[[html](projects/0.BackgroundBulletPoints.qmd)\] |   |   
 |Week 3|||||
-| 9/10 | W | Temperature \[[html](posts/2025-09-10-temperature)\] \[[discussion](discussions/Discussion_Week_3_temperature.pdf)\] |  PS1: Metabolism \[[pdf](homework/HW1metabolism.pdf)\] | Lab3:PC3-IWS-Peripheral Circ/Dive Resp \[[overview](labs/Lab3-human-peripheral-circulation-dive-response/Lab3.qmd)\]  |   
+| 9/10 | W | Temperature \[[html](posts/2025-09-10-temperature)\] \[[discussion](discussions/Discussion_Week_3_temperature.pdf)\] |  PS1: Metabolism \[[pdf](homework/HW1metabolism.pdf)\] | Lab2: PC2-G-Honolulu Zoo \[[lab manual](labs/Lab2-zoo/Lab2.qmd)\]  |   
 |   | F | Iterative Method/Heterothermy  |  |   |   
 |Week 4|||||
-| 9/17  | W |  Finish Temperature/Cardiac Function \[[html](posts/2025-09-17-cardiac-function/cardiac.qmd)\]  | PS2: Temperature \[[pdf](homework/HW2heat_temp.pdf)\]   |  Lab Practical / Lab4: PC3-G-ECG/Cardiac Function \[[overview](labs/Lab4-human-ecg/Lab4.qmd)\] | 
+| 9/17  | W |  Finish Temperature/Cardiac Function \[[html](posts/2025-09-17-cardiac-function/cardiac.qmd)\]  | PS2: Temperature \[[pdf](homework/HW2heat_temp.pdf)\]   |  Lab Practical / Lab3:PC3-IWS-Peripheral Circ/Dive Resp \[[overview](labs/Lab3-human-peripheral-circulation-dive-response/Lab3.qmd)\] | 
 | | F | Design 1 chat |  |  | 
 |   | F |  | |   |   
 |Week 5|||||

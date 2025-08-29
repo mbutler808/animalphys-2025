@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Food! Glorious food!"
-date: 2025-09-24
+date: 2024-09-24
 format: 
   html: default 
   pdf: default
