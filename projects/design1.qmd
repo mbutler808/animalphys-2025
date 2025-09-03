@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "What would life cost for your animal, and how hard would it be to be in heat balance?"
-date: 2024-09-01
+date: 2025-09-01
 format: 
   html: default 
   pdf: default
@@ -15,7 +15,7 @@ categories: [design project, design 1, metabolism, heat balance, DMR, RMR, AMR, 
 ---
 
 # Suggestions for Metabolism and Heat Balance Design
-__First draft (due 9/23 by 5pm):__ 
+__First draft (due 9/22 by 5pm):__ 
 I highly recommend that you __make an outline__ with your partner. __Work in this order:__ begin with completing the full analysis using paper and pencil. Then write the results and methods, followed by the discussion, then the intro.  __Add citations as you go.__  Please include your typed calculations as an appendix.
 
 _Note: You are writing a scientific paper (the style appropriate for a scientific journal article)._ These are generic content suggestions (only include aspects that are __relevant__ to your animal):  

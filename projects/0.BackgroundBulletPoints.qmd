@@ -55,7 +55,7 @@ Or myself <https://calendly.com/mbutler808/office-hours>
 
 1. Collect your information into a google doc for easy collaboration with your partner. 
 2. [Assemble bullet points of factual information with an in-text citation for each statement of fact.]{style="color: blue"} 
-3. Follow your bullet points with a bibliography of your sources. These should match your in-text citations (none missing, no extra citations).
+3. Follow your bullet points with a __bibliography of your sources__. These should match your in-text citations (none missing, no extra citations).
 4. Look over \[[Design 1](1.MetabolismTempDesign1.pdf)\] and begin an outline for the background info you will need. An organization that is helpful for Design 1 is something like the following:  
 
 - What __kind__ of animal was it? 
