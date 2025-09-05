@@ -10,7 +10,129 @@
 <atom:link href="https://mbutler808.github.io/animalphys-2025/labs.xml" rel="self" type="application/rss+xml"/>
 <description>Course website for Animal Physiology</description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Tue, 02 Sep 2025 10:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 09 Sep 2025 10:00:00 GMT</lastBuildDate>
+<item>
+  <title>Lab 2: Zoo</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/animalphys-2025/labs/Lab2-zoo/Lab2.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="bring-with-you" class="level2">
+<h2 class="anchored" data-anchor-id="bring-with-you">Bring with you:</h2>
+<ul>
+<li>Your lab notebook</li>
+<li>A timing device (e.g.&nbsp;your phone)</li>
+<li>Sun screen, hat, and sunglasses. It will be hot and sunny!</li>
+<li>Water</li>
+</ul>
+<p>Your task this week is to construct an energy budget for an animal of your choice, very similar to modeling the metabolism of your fossil. Each group will choose a different zoo animal.</p>
+<p><img src="https://mbutler808.github.io/animalphys-2025/images/Zoo-Map.png" class="img-fluid" alt="Map of the Honolulu Zoo"><a href="https://www.honoluluzoo.org" class="uri">https://www.honoluluzoo.org</a></p>
+</section>
+<section id="observe-animals" class="level2">
+<h2 class="anchored" data-anchor-id="observe-animals">Observe Animals</h2>
+<p>First, walk around the zoo, and do a mental scavengar hunt, noting as many as you can for each of mammals, birds, reptiles, and amphibians. What do you notice, do they tend to be herbivores/predators?, small/large?, sun-loving/shade-loving/nocturnal? (The zoo does not have a large collection of amphibians, so don’t miss the ectotherm house!). Weʻll discuss this at the end of class.</p>
+</section>
+<section id="focal-observation" class="level1">
+<h1>Focal Observation</h1>
+<p>As a group choose an animal to observe.</p>
+<section id="collect-data" class="level2">
+<h2 class="anchored" data-anchor-id="collect-data">Collect Data:</h2>
+<p><strong>Mass:</strong> Approximate the dimensions of your animal. Approximate the volume of your animal, by whatever geometric approximation seems reasonable to you. Estimate mass from the density of water (1g/cm^3).</p>
+<p>FYI: Volume of a cylinder: V = π<em>r^2</em>length (use metric units!!)</p>
+<p><strong>Behavior:</strong> (focus on intensity of effort and time budget)</p>
+<ol type="1">
+<li>10 min observation focal observation</li>
+</ol>
+<p>Each group member will collect a 10 min focal observation. Record in your notebook everything your animal does during the 10 min observation period, recording activity and duration.</p>
+<p>For example: + Lying on ground 10 min (can add comments or social context, etc.) + Walking slowly 1 min + Etc.</p>
+<ol start="2" type="1">
+<li>Also record general info: species, male/female/adult/juvenile etc., time of day, habitat and surroundings, any conspecifics nearby?</li>
+<li>After your focal observation, write some general impressions. How would you characterize your animalʻs behavior? What seems to be motivating your animal? (note anything relevant, like keeps looking toward a male, trying to reach food, etc.).<br>
+</li>
+<li>Note any behaviors related to temperature exchange: Basking? Seeking shade? Pressing their body against a cool surface (conduction)? Enjoying strong wind (convection)? Wet? Etc.</li>
+<li>Take photos and videos that capture the essence of your animal or show something interesting.</li>
+<li>If your animal has an info plaque, take a photo of it.</li>
+<li>Optional: Your animal may or may not do very much during your observation period. You can also take “scan samples” periodically. Say every hour or half hour, what is your animal doing? Who is nearby?</li>
+</ol>
+</section>
+<section id="analysis" class="level2">
+<h2 class="anchored" data-anchor-id="analysis"><strong>Analysis:</strong></h2>
+<ol type="1">
+<li>Construct a mass model for your animal.<br>
+</li>
+<li><strong>BMR</strong> or <strong>SMR</strong>. Choose an appropriate <a href="https://drive.google.com/file/d/1lmqsS9VXglPjCRkjRofAZKquFPL74qEl/view?usp=sharing">scaling equation</a> for BMR or SMR from Withers 1991 Table 4-5 and calculate the lowest metabolic rate for your animal. If an ectotherm, guestimate what the animal’s Tb is.<br>
+</li>
+<li><strong>Time Budget:</strong> Analyze your focal observation and use it to estimate a time budget. With your team members, decide on the intensity levels of each type of behavior. Based on your own experience, assign effort levels to each type of behavior. (divide activities into say, 3 categories of effort). Estimate the percent of time spent in each category based on your observation and other information you may know.</li>
+<li>Use Table 4-10 to select appropriate activity multipliers for each category. For example, RMR might be 1.2x BMR based on … in Table 4-10. In general, very inactive animals will have a lower RMR (say 1.1. Or 1.2x BMR) than very active animals (say 1.5 x BMR).<br>
+</li>
+<li><strong>DMR:</strong> Take an educated guess about how many hours your animal spends sleeping or resting, and in each of your active categories. Construct a model for the cost of 1 day. We call this DMR or daily metabolic rate. For example, your animalʻs DMR might be = 16 hrs x RMR + 1 hr x AMR(activity 1) + 7hr x AMR(activity 2). Etc.</li>
+</ol>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mbutler808.github.io/animalphys-2025/images/Table4-10.png" class="img-fluid figure-img"></p>
+<figcaption>Table 4-10 from Withers 1991</figcaption>
+</figure>
+</div>
+</section>
+</section>
+<section id="report" class="level1">
+<h1><strong>Report:</strong></h1>
+<p>Your assignment is to write a group short lab report with the following sections:</p>
+<p><em>Intro:</em></p>
+<p>Write a short paragraph describing your animal. What do you think the relevant background should include? End with a statement of purpose.</p>
+<p><em>Methods (~2-3 concise paragraphs):</em></p>
+<ul>
+<li>State how you collected your data. “Focal observations were conducted… “<br>
+</li>
+<li>State what you modeled. For each model, explain how you calculated it. Remember, you are making it up so you have to explain your logic so that someone outside the class could understand. Include your equations and all the assumptions or estimations you used to model mass, BMR/SMR, one or more AMRs, and DMR.</li>
+</ul>
+<p><em>Results (probably ~1-2 paragraphs, grouped by topic):</em></p>
+<ul>
+<li>What did your animal do? What was itʻs primary activity? Look at your results and think about how best to convey the main findings. A table of activities and time? Or perhaps grouped into resting, low intensity, high intensity activities? You decide.<br>
+</li>
+<li>Report your mass, and all MRʻs. Also report mass-specific BMR and DMR.<br>
+</li>
+<li>Notes on the observed behavior of the animal.<br>
+</li>
+<li>Include photos or video clips to help tell the story of your animal.</li>
+</ul>
+<p><em>Discussion (1 or more paragraphs, depending on how much you have to say - no fluff!):</em></p>
+<ul>
+<li>A small discussion that sheds light on your findings. All in all, how would you characterize your animal? Is it an active animal or a sedentary animal?<br>
+</li>
+<li>Any insight into what guides its energy consumption? Based on your observations, what did itʻs main concern seem to be? Here is a good place to add in some of your observations to back up your characterization. The discussion is where you can speculate a little about what your data might mean.<br>
+</li>
+<li>Comment on any temperature-regulation behaviors.<br>
+</li>
+<li>Conclusion: What do your findings imply? Do you understand more about your animal? Does it make sense, given that itʻs a large/small predator/herbivore, etc. What could be some fruitful next steps if you were to continue the research? (do you think the behavior of your animal would be different in the wild?, etc. )</li>
+</ul>
+<p><em>Respective Contributions:</em> Each lab group member is expected to participate meaningfully in data collection, data analysis, lab report writing, and lab report editing. Please identify a project coordinator for this lab.</p>
+<section id="submit" class="level2">
+<h2 class="anchored" data-anchor-id="submit">Submit:</h2>
+<p>Create a new folder with the animal you chose in the following parent folder: https://drive.google.com/drive/folders/1o_dXXYk2Hp4chmqorrgKhPu4qzUh4yCZ?usp=sharing Write up your mini-lab report as google doc and upload it into your folder together with the pictures and videos you took. Include your group member names in the report.</p>
+<p><strong>Reminder:</strong> Clarity of ideas is highly prized in science, which is more obvious when you are concise. Do include any relevant scientific terms (BMR, DMR, etc.), but other than that, use plain, direct language that gets straight to the point and your writing will be stronger.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>week 3</category>
+  <category>labs</category>
+  <category>mass</category>
+  <category>activity</category>
+  <category>energy budget</category>
+  <category>time budget</category>
+  <category>scaling</category>
+  <category>BMR</category>
+  <category>AMR</category>
+  <category>DMR</category>
+  <guid>https://mbutler808.github.io/animalphys-2025/labs/Lab2-zoo/Lab2.html</guid>
+  <pubDate>Tue, 09 Sep 2025 10:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Lab 4: Electrocardiogram (ECG/EKG) and Cardiac Response to Exercise</title>
   <dc:creator>Marguerite Butler</dc:creator>
@@ -3233,127 +3355,6 @@ Withers, Philip C. 1992. <em>Comparative Animal Physiology</em>. Saunders Colleg
   <pubDate>Tue, 10 Sep 2024 10:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Lab 2: Zoo</title>
-  <dc:creator>Marguerite Butler</dc:creator>
-  <link>https://mbutler808.github.io/animalphys-2025/labs/Lab2-zoo/Lab2.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="bring-with-you" class="level2">
-<h2 class="anchored" data-anchor-id="bring-with-you">Bring with you:</h2>
-<ul>
-<li>Your lab notebook</li>
-<li>A timing device (e.g.&nbsp;your phone)</li>
-<li>Sun screen, hat, and sunglasses. It will be hot and sunny!</li>
-<li>Water</li>
-</ul>
-<p>Your task this week is to construct an energy budget for an animal of your choice, very similar to modeling the metabolism of your fossil. Each group will choose a different zoo animal (Letʻs try to spread the groups across the large /small, herbivore/predator combinations).</p>
-<p><img src="https://mbutler808.github.io/animalphys-2025/images/Zoo-Map.png" class="img-fluid" alt="Map of the Honolulu Zoo"><a href="https://www.honoluluzoo.org" class="uri">https://www.honoluluzoo.org</a></p>
-</section>
-<section id="observe-animals" class="level2">
-<h2 class="anchored" data-anchor-id="observe-animals">Observe Animals</h2>
-<p>First, walk around the zoo, and do a mental scavengar hunt, noting as many as you can for each of mammals, birds, reptiles, and amphibians. What do you notice, do they tend to be herbivores/predators?, small/large?, sun-loving/shade-loving/nocturnal? (The zoo does not have a large collection of amphibians, so don’t miss the ectotherm house!). Weʻll discuss this at the end of class.</p>
-</section>
-<section id="focal-observation" class="level1">
-<h1>Focal Observation</h1>
-<p>As a group choose an animal to observe.</p>
-<section id="collect-data" class="level2">
-<h2 class="anchored" data-anchor-id="collect-data">Collect Data:</h2>
-<p><strong>Mass:</strong> Approximate the dimensions of your animal. Approximate the volume of your animal, by whatever geometric approximation seems reasonable to you. Animals are ~70% water. Estimate mass from the density of water (1g/cm^3).</p>
-<p>FYI: Volume of a cylinder: V = π<em>r^2</em>length (use metric units!!)</p>
-<p><strong>Behavior:</strong> (focus on intensity of effort and time budget)</p>
-<ol type="1">
-<li>10 min observation focal observation</li>
-</ol>
-<p>Each group member will collect a 10 min focal observation. Record in your notebook everything your animal does during the 10 min observation period, recording activity and duration.</p>
-<p>For example: + Lying on ground 10 min (can add comments or social context, etc.) + Walking slowly 1 min + Etc.</p>
-<ol start="2" type="1">
-<li>Also record general info: species, male/female/adult/juvenile etc., time of day, habitat and surroundings, any conspecifics nearby?</li>
-<li>After your focal observation, write some general impressions. How would you characterize your animalʻs behavior? What seems to be motivating your animal? (note anything relevant, like keeps looking toward a male, trying to reach food, etc.).<br>
-</li>
-<li>Note any behaviors related to temperature exchange: Basking? Seeking shade? Pressing their body against a cool surface (conduction)? Enjoying strong wind (convection)? Wet? Etc.</li>
-<li>Take photos and videos that capture the essence of your animal or show something interesting.</li>
-<li>Optional: Your animal may or may not do very much during your observation period. You can also take “scan samples” periodically. Say every hour or half hour, what is your animal doing? Who is nearby?</li>
-</ol>
-</section>
-<section id="analysis" class="level2">
-<h2 class="anchored" data-anchor-id="analysis"><strong>Analysis:</strong></h2>
-<ol type="1">
-<li>Construct a mass model for your animal.<br>
-</li>
-<li><strong>BMR</strong> or <strong>SMR</strong>. Choose an appropriate <a href="https://drive.google.com/file/d/1lmqsS9VXglPjCRkjRofAZKquFPL74qEl/view?usp=sharing">scaling equation</a> for BMR or SMR from Withers 1991 Table 4-5 and calculate the lowest metabolic rate for your animal. If an ectotherm, guestimate what the animal’s Tb is.<br>
-</li>
-<li><strong>Time Budget:</strong> Analyze your focal observation and use it to estimate a time budget. With your team members, decide on the intensity levels of each type of behavior. Based on your own experience, assign effort levels to each type of behavior. (divide activities into say, 3 categories of effort). Estimate the percent of time spent in each category based on your observation and other information you may know.</li>
-<li>Use Table 4-10 to select appropriate activity multipliers for each category. For example, RMR might be 1.2x BMR based on … in Table 4-10. In general, very inactive animals will have a lower RMR (say 1.1. Or 1.2x BMR) than very active animals (say 1.5 x BMR).<br>
-</li>
-<li><strong>DMR:</strong> Take an educated guess about how many hours your animal spends sleeping or resting, and in each of your active categories. Construct a model for the cost of 1 day. We call this DMR or daily metabolic rate. For example, your animalʻs DMR might be = 16 hrs x RMR + 1 hr x AMR(activity 1) + 7hr x AMR(activity 2). Etc.</li>
-</ol>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://mbutler808.github.io/animalphys-2025/images/Table4-10.png" class="img-fluid figure-img"></p>
-<figcaption>Table 4-10 from Withers 1991</figcaption>
-</figure>
-</div>
-</section>
-</section>
-<section id="report" class="level1">
-<h1><strong>Report:</strong></h1>
-<p>Your assignment is to write a group short lab report with the following sections:</p>
-<p><em>Intro:</em></p>
-<p>Write a short paragraph describing your animal. What do you think the relevant background should include? End with a statement of purpose.</p>
-<p><em>Methods (~2-3 concise paragraphs):</em></p>
-<ul>
-<li>State how you collected your data. “Focal observations were conducted… “<br>
-</li>
-<li>State what you modeled. For each model, explain how you calculated it. Remember, you are making it up so you have to explain your logic so that someone outside the class could understand. Include your equations and all the assumptions or estimations you used to model mass, BMR/SMR, one or more AMRs, and DMR.</li>
-</ul>
-<p><em>Results (probably ~1-2 paragraphs, grouped by topic):</em></p>
-<ul>
-<li>What did your animal do? What was itʻs primary activity? Look at your results and think about how best to convey the main findings. A table of activities and time? Or perhaps grouped into resting, low intensity, high intensity activities? You decide.<br>
-</li>
-<li>Report your mass, and all MRʻs. Also report mass-specific BMR and DMR.<br>
-</li>
-<li>Notes on the observed behavior of the animal.<br>
-</li>
-<li>Include photos or video clips to help tell the story of your animal.</li>
-</ul>
-<p><em>Discussion (1 or more paragraphs, depending on how much you have to say - no fluff!):</em></p>
-<ul>
-<li>A small discussion that sheds light on your findings. All in all, how would you characterize your animal? Is it an active animal or a sedentary animal?<br>
-</li>
-<li>Any insight into what guides its energy consumption? Based on your observations, what did itʻs main concern seem to be? Here is a good place to add in some of your observations to back up your characterization. The discussion is where you can speculate a little about what your data might mean.<br>
-</li>
-<li>Comment on any temperature-regulation behaviors.<br>
-</li>
-<li>Conclusion: What do your findings imply? Do you understand more about your animal? Does it make sense, given that itʻs a large/small predator/herbivore, etc. What could be some fruitful next steps if you were to continue the research? (do you think the behavior of your animal would be different in the wild?, etc. )</li>
-</ul>
-<p><em>Respective Contributions:</em> Each lab group member is expected to participate meaningfully in data collection, data analysis, lab report writing, and lab report editing. Please identify a project coordinator for this lab.</p>
-<section id="submit" class="level2">
-<h2 class="anchored" data-anchor-id="submit">Submit:</h2>
-<p>Create a new folder with the animal you chose in the following parent folder: https://drive.google.com/drive/folders/1o_dXXYk2Hp4chmqorrgKhPu4qzUh4yCZ?usp=sharing Write up your mini-lab report as google doc and upload it into your folder together with the pictures and videos you took. Include your group member names in the report.</p>
-<p><strong>Reminder:</strong> Clarity of ideas is highly prized in science, which is more obvious when you are concise. Do include any relevant scientific terms (BMR, DMR, etc.), but other than that, use plain, direct language that gets straight to the point and your writing will be stronger.</p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>week 2</category>
-  <category>labs</category>
-  <category>mass</category>
-  <category>activity</category>
-  <category>energy budget</category>
-  <category>time budget</category>
-  <category>scaling</category>
-  <category>BMR</category>
-  <category>AMR</category>
-  <category>DMR</category>
-  <guid>https://mbutler808.github.io/animalphys-2025/labs/Lab2-zoo/Lab2.html</guid>
-  <pubDate>Tue, 03 Sep 2024 10:00:00 GMT</pubDate>
-</item>
-<item>
   <title>Lab 3 Worksheet: Peripheral Circulation and The Dive Response</title>
   <dc:creator>Marguerite Butler</dc:creator>
   <link>https://mbutler808.github.io/animalphys-2025/labs/Lab3-human-peripheral-circulation-dive-response/Lab3ws.html</link>
@@ -3632,7 +3633,7 @@ If you have a good lab notebook, it will be easy to write your lab report becaus
 
  ]]></description>
   <guid>https://mbutler808.github.io/animalphys-2025/labs/Lab-notebooks/lab-notebook.html</guid>
-  <pubDate>Wed, 03 Sep 2025 20:52:25 GMT</pubDate>
+  <pubDate>Fri, 05 Sep 2025 06:45:22 GMT</pubDate>
 </item>
 </channel>
 </rss>

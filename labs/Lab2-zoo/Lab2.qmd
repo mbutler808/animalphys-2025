@@ -6,13 +6,13 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Visit to the Honolulu Zoo!"
-date: 2024-09-03
+date: 2025-09-09
 toc: true
 format: 
   html: default
   docx: default
   pdf: default
-categories: [week 2, labs, mass, activity, energy budget, time budget, scaling, BMR, AMR, DMR]
+categories: [week 3, labs, mass, activity, energy budget, time budget, scaling, BMR, AMR, DMR]
 ---
 
 ## Bring with you:
@@ -21,8 +21,9 @@ categories: [week 2, labs, mass, activity, energy budget, time budget, scaling, 
 - A timing device (e.g. your phone)
 - Sun screen, hat, and sunglasses. It will be hot and sunny! 
 - Water
+- Your Prelab written in your lab notebook (no quiz this lab)
 
-Your task this week is to construct an energy budget for an animal of your choice, very similar to modeling the metabolism of your fossil. Each group will choose a different zoo animal (Letʻs try to spread the groups across the large /small, herbivore/predator combinations).
+Your task this week is to construct an energy budget for an animal of your choice, very similar to modeling the metabolism of your fossil. Each group will choose a different zoo animal.
 
 ![Map of the Honolulu Zoo ](../../images/Zoo-Map.png)<https://www.honoluluzoo.org>
 
@@ -36,7 +37,7 @@ As a group choose an animal to observe.
 
 ## Collect Data:
 
-__Mass:__ Approximate the dimensions of your animal. Approximate the volume of your animal, by whatever geometric approximation seems reasonable to you. Animals are ~70% water. Estimate mass from the density of water (1g/cm^3). 
+__Mass:__ Approximate the dimensions of your animal. Approximate the volume of your animal, by whatever geometric approximation seems reasonable to you. Estimate mass from the density of water (1g/cm^3). 
 
 FYI: Volume of a cylinder: V = π*r^2*length  (use metric units!!)
 
@@ -55,7 +56,8 @@ For example:
 3.  After your focal observation, write some general impressions. How would you characterize your animalʻs behavior? What seems to be motivating your animal? (note anything relevant, like keeps looking toward a male, trying to reach food, etc.).  
 4.  Note any behaviors related to temperature exchange: Basking? Seeking shade? Pressing their body against a cool surface (conduction)? Enjoying strong wind (convection)? Wet? Etc. 
 5.  Take photos and videos that capture the essence of your animal or show something interesting. 
-6.  Optional: Your animal may or may not do very much during your observation period. You can also take “scan samples” periodically.  Say every hour or half hour, what is your animal doing? Who is nearby? 
+6.  If your animal has an info plaque, take a photo of it.
+7.  Optional: Your animal may or may not do very much during your observation period. You can also take “scan samples” periodically.  Say every hour or half hour, what is your animal doing? Who is nearby? 
 
 ## __Analysis:__
 
