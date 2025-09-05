@@ -37,7 +37,13 @@ categories: [module 2, week 2, BMR, SMR, RMR, AMR, DMR ]
   - Complete your [prelab](../../labs/Lab-notebooks/lab-notebook.qmd) in your lab notebook
   - Do your prelab quiz on Lamaku before you come to lab
   - One hardcopy of Lab 1 to turn in.
- 
+- Labs Next week - Meet at Honolulu Zoo at 1:30pm. LMK if you need a ride from campus. [Read Lab 2](../../labs/Lab2-zoo/Lab2.qmd). Bring:
+  - Your lab notebook
+  - A timing device (e.g. your phone)
+  - Sun screen, hat, and sunglasses. It will be hot and sunny! 
+  - Water
+  - One hardcopy of Lab report to turn in
+
 ## Introducing Design 1 
 
 Please sit with your design partners for this part. Let's discuss a roadmap for the next month. 
@@ -132,6 +138,12 @@ Please sit with your design partners for this part. Let's discuss a roadmap for 
 
 # For Next Week
 
-- Stay tuned for the Zoo Lab
+- Labs Next week - Meet at Honolulu Zoo at 1:30pm. LMK if you need a ride from campus. [Read Lab 2](../../labs/Lab2-zoo/Lab2.qmd). Bring:
+  - Your lab notebook
+  - A timing device (e.g. your phone)
+  - Sun screen, hat, and sunglasses. It will be hot and sunny! 
+  - Water
+  - One hardcopy of Lab report to turn in
+
 - Look ahead to the lecture post for 3. Temperature. Watch podcasts, etc. 
 - \[[HW1](../../homework/HW1metabolism.pdf)\] Due Wednesday 9/10, written by hand. Submit in person. For this time only, you may work together with your discussion group if you promise to work out the problems together. Keep in mind that everyone must be able to do all of the problems. 
