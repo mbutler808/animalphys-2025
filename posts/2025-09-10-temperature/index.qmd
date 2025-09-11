@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Heat and its implications for physiology"
-date: 2024-09-10
+date: 2025-09-10
 format: 
   html: default 
   pdf: default
@@ -27,7 +27,13 @@ categories: [module 3, week 3, BMR, SMR, RMR, AMR, DMR ]
 
 ### Announcements/Reminders
 
--  We are back in the lab this week. Read \[[Lab 3](../../labs/Lab3-human-peripheral-circulation-dive-response/Lab3.qmd)\]. Watch the podcast on peripheral circulation. Read Do prelab quiz and the prelab, focusing on the hypotheses that you will design. 
+-  Labs this week - Meet at Honolulu Zoo at 1:30pm. LMK if you need a ride from campus. \[[Read Lab 2](../../labs/Lab2-zoo/Lab2.qmd)\]. Bring:
+  - Your lab notebook
+  - A timing device (e.g. your phone)
+  - Sun screen, hat, and sunglasses. It will be hot and sunny! 
+  - Water
+  - One hardcopy of Lab report to turn in
+-  Next week we will do the \[[Toad Heart Lab](../../labs/Lab5-toad-heart/Lab5.qmd)\].
 -  We will finish Metabolism and begin Temperature. 
 -  HW1 due Tuesday in class, hand-written (you may submit as a group - week 2 if you wish). 
 -  HW2 due next Tuesday in class (individual). 
@@ -36,11 +42,12 @@ categories: [module 3, week 3, BMR, SMR, RMR, AMR, DMR ]
 
 | Group | Partner 1 | Partner 2 | Partner 3 |
 |----|----|----|----|----|
-| 1 | Abby  | James  | Johsua |
-| 2 | Veronica  | Ilan  | Kylee |
-| 3 | Vivian  | Hao  | Mohamad |
-| 4 | Adam  |  Christian | Sean |
-| 5 |  Ashton |  Tamako |  |
+| 1 |  Kyra | Dallas  |  Trey|
+| 2 | Niki  | Carla  |  Xavier |
+| 3 |  Peigi |  Alice | Manuel |
+| 4 | Reagan  | Emma  |  |
+| 5 | Paris |  Darwin |  |
+
 
 
 :::{.callout-tip}
@@ -112,7 +119,7 @@ If $\Delta$H$_s$ is negative,  (Gains < Losses), then  Tb decreases.
 1. \[[HW2](../../homework/HW2heat_temp.pdf)\] due on Tuesday in class. (Individual)
 2. Finish temperature, begin \[[Cardiac Function](../../discussions/Discussion-Week4-heart-function.pdf)\]
 3. Start working on design 1 calculations with your partner. See me for help \[[Office hours](https://calendly.com/mbutler808/office-hours)\]
-4. Next Lab: \[[Human ECG](../../labs/Lab4-human-ecg)\]
-5. Please fill out the TEAMMATES for both discussion week 3 and Lab 2 group lab by MONDAY. (check your email)
+4. Next Lab: \[[Toad Heart Lab](../../labs/Lab5-toad-heart/Lab5.qmd)\]
+5. Please fill out the TEAMMATES for both discussion week 3 and Lab 2 group lab by WEDNESDAY. (check your email)
 
 
