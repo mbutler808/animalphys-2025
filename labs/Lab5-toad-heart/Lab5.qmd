@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "The physiology of a heart in action!"
-date: 2024-10-01
+date: 2025-09-15
 toc: true
 image: HeartAnatomy.pdf
 format: 
@@ -39,7 +39,7 @@ categories: [week 5, labs, ecg, cardiac cycle, heart, in situ,  toad, electical 
 ## After Lab: 
 
 - Individual Work Sheet due next week \[[pdf](Lab5IWS-toad-heart.pdf)\] \[[docx](Lab5IWS-toad-heart.docx)\]
-- You will include statements of purpose (section 1), concept check (section) 2), mini results (section 3), and a regular discussion. On this lab WS, put a little more effort into the discussion.  For each section we ask for, always follow the content guidelines: \[[grading guidelines](../../labs-misc/handouts/Zool430lab_report_guidelines.pdf)\]
+- Note that this is a modified format to encourage you to get straight to the point. We want to see sections 1-3 as sentences (this intellectual content usually goes in Introduction). Sections 4 are mini results section 5 is mini discussion. For each section we ask for, always follow the intellectual content guidelines: \[[grading guidelines](../../labs-misc/handouts/Zool430lab_report_guidelines.pdf)\]
 -  You are encouraged to analyze data with your lab members, and may develop figures together, but all writing must be your own work. 
 
 
