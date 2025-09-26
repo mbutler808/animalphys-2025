@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Peripheral circulation goes to tissues throughout your body and to the extremeties. One of the most interesting adjustments to peripheral circulation is the dive response."
-date: 2024-09-10
+date: 2025-10-01
 bibliography: ../../animalphys.bib
 toc: true
 format: 
@@ -20,11 +20,13 @@ categories: [week 3, labs, circulation, peripheral circulation, blood pressure, 
 
 :::{.callout-note}
 # Prepare for lab by:
+- We will do the _Practical based on Lab 1 material_.  Let us know if you want tor come in to practice ahead of time. 
 - Watch Peripheral Circulation Podcast.
 - Read \[[Protocol 2](../Protocols/p2-measuring-blood-pressure.pdf)\] on measuring blood pressure. 
 - Read the lab manual below.  
 - Write the \[[Prelab](../../labs-misc/lab-notebook.qmd#sec-prelab)\] in your lab notebook. For the introduction, focus on the hypotheses you are asked to develop on peripheral circulation and the dive response. Select only the relevant background you need for those hypotheses. 
 - Do Quiz on Laulima (open 24 hrs before lab). 
+
 
 {{< video https://youtu.be/h47oQH-w6F8 >}}
 :::
@@ -362,6 +364,5 @@ __The _leg volume_ difference__ is a measure of pooling and therefore peripheral
 # After Lab: Assignment Week 3:
 
 - Before you leave, please tidy up and leave the equiptment (sensors, cables) as you found them. Make sure the PowerLab is powered down. Leave computers on but do __make a folder for your lab group__ on the desktop and _move ALL your FILES into your groupʻs folder_. 
-- You will work with your lab group to analyze data, and you may share figures if you wish. However, each person will submit an __Individual WorkSheet__ \[[html](Lab3ws.qmd)\]
-- Reminder: _Practical has been moved to next week (week 4) on Lab 1 material_.  Let us know if you want to come in to practice. 
+- Write a Group Lab Report following \[[Peripheral Circulation Report Guidance](Lab3_report.pdf)\]
 
