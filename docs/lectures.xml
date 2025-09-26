@@ -10,7 +10,144 @@
 <atom:link href="https://mbutler808.github.io/animalphys-2025/lectures.xml" rel="self" type="application/rss+xml"/>
 <description>Course website for Animal Physiology</description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Wed, 17 Sep 2025 10:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 24 Sep 2025 10:00:00 GMT</lastBuildDate>
+<item>
+  <title>5. Feeding</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/animalphys-2025/posts/2025-09-24-feeding/feeding.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Fridayʻs discussion will be on a Sustained metabolic scope paper that has some data and interesting tidbits relevant for your Design 1. Next we will continue talking about feeding (our favorite topic!) and digestion.</p>
+<section id="pre-class-materials" class="level1">
+<h1>Pre-class materials</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Read ahead
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Before class, you can prepare by reading the following materials:</strong></p>
+<ol type="1">
+<li>Friday [<a href="../../discussions/Discussion-Week4-metabolic-ceiling.pdf">Metabolic Celings</a>]</li>
+</ol>
+</div>
+</div>
+<section id="announcementsreminders" class="level3">
+<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
+<ul>
+<li>This week during our lab sessions we will have our design 1 critique sessions. Please check which paper you have been assigned to review, and bring your completed review with you to lab. See instructions here [<a href="../../projects/design1-turnin.html">Design 1 turn in</a>].</li>
+<li>Post your final draft by midnight on Friday 10/3 [<a href="https://drive.google.com/drive/folders/17jxQxSR74Q_qeiy3JkIO8B5CgkUdHwFz?usp=sharing">Upload here</a>].<br>
+</li>
+<li>Do discussion TEAMMATES eval, released each Friday, due by Wednesday.</li>
+</ul>
+</section>
+<section id="week-5-discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="week-5-discussion-groups">Week 5 Discussion Groups</h3>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Partner 1</th>
+<th>Partner 2</th>
+<th>Partner 3</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Darwin</td>
+<td>Xavier</td>
+<td>Emma</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Alice</td>
+<td>Trey</td>
+<td>Reagan</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Dallas</td>
+<td>Peigi</td>
+<td>Paris</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Kyra</td>
+<td>Niki</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Carla</td>
+<td>Manuel</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="snakes-drink-weird" class="level2">
+<h2 class="anchored" data-anchor-id="snakes-drink-weird">Snakes Drink Weird!</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/_r3gG6NjNKQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="wednesday" class="level2">
+<h2 class="anchored" data-anchor-id="wednesday">Wednesday</h2>
+<ul>
+<li>Feeding lecture</li>
+</ul>
+</section>
+<section id="friday" class="level2">
+<h2 class="anchored" data-anchor-id="friday">Friday</h2>
+<ul>
+<li>Paper Discussion [<a href="../../discussions/Discussion-Week4-metabolic-ceiling.pdf">Metabolic Celings</a>]</li>
+</ul>
+</section>
+</section>
+<section id="for-next-time" class="level1">
+<h1>For Next Time</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Reminders and materials
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Make an appointment for you and your partner to get help from me on your design projects. Both must attend. <a href="https://calendly.com/mbutler808/office-hours" class="uri">https://calendly.com/mbutler808/office-hours</a></li>
+<li>Next week we will start Feeding &amp; Digestion [<a href="../../discussions/Discussion-Week5-feeding-digestion.pdf">discussion</a>]</li>
+</ul>
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>module 5</category>
+  <category>week 5</category>
+  <category>food</category>
+  <category>feeding</category>
+  <category>nutrient composition</category>
+  <category>DMR</category>
+  <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-09-24-feeding/feeding.html</guid>
+  <pubDate>Wed, 24 Sep 2025 10:00:00 GMT</pubDate>
+</item>
 <item>
   <title>4. Cardiac Function</title>
   <dc:creator>Marguerite Butler</dc:creator>
@@ -2485,142 +2622,6 @@ Reminders and materials
   <category>DMR</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-10-01-feeding/feeding.html</guid>
   <pubDate>Tue, 01 Oct 2024 10:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>5. Feeding</title>
-  <dc:creator>Marguerite Butler</dc:creator>
-  <link>https://mbutler808.github.io/animalphys-2025/posts/2025-09-24-feeding/feeding.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Tuesday’s discussion will be on a Sustained metabolic scope paper that has some data and interesting tidbits relevant for your Design 1. Thursday we will start talking about feeding (our favorite topic!) and digestion.</p>
-<section id="pre-class-materials" class="level1">
-<h1>Pre-class materials</h1>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Read ahead
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>Before class, you can prepare by reading the following materials:</strong></p>
-<ol type="1">
-<li>Tuesday [<a href="../../discussions/Discussion-Week4-metabolic-ceiling.pdf">Metabolic Celings</a>]</li>
-<li>Thursday we will start Feeding &amp; Digestion [<a href="../../discussions/Discussion-Week5-feeding-digestion.pdf">discussion</a>]</li>
-</ol>
-</div>
-</div>
-<section id="announcementsreminders" class="level3">
-<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
-<ul>
-<li>This week during our lab sessions we will have our design 1 critique sessions. Please check which paper you have been assigned to review, and bring your completed review with you to lab. See instructions here [<a href="../../projects/design1-turnin.html">Design 1 turn in</a>].</li>
-<li>Next week we will have our first toad lab! Please wear shoes and bring your dissection kit (if you have one, if not we will provide).</li>
-<li>Do discussion TEAMMATES eval, released each Thursday, due by Monday.</li>
-</ul>
-</section>
-<section id="week-5-discussion-groups" class="level3">
-<h3 class="anchored" data-anchor-id="week-5-discussion-groups">Week 5 Discussion Groups</h3>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>Group</th>
-<th>Partner 1</th>
-<th>Partner 2</th>
-<th>Partner 3</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>1</td>
-<td>Hao</td>
-<td>Kylee</td>
-<td>Veronica</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>2</td>
-<td>Adam</td>
-<td>Ilan</td>
-<td>Mohamad</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>3</td>
-<td>James</td>
-<td>Sean</td>
-<td>Vivian</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>4</td>
-<td>Joshua</td>
-<td>Tamako</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>5</td>
-<td>Abby</td>
-<td>Ashton</td>
-<td>Christian</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="snakes-drink-weird" class="level2">
-<h2 class="anchored" data-anchor-id="snakes-drink-weird">Snakes Drink Weird!</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/_r3gG6NjNKQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="tuesday" class="level2">
-<h2 class="anchored" data-anchor-id="tuesday">Tuesday</h2>
-<ul>
-<li>Paper discussion</li>
-</ul>
-</section>
-<section id="thursday" class="level2">
-<h2 class="anchored" data-anchor-id="thursday">Thursday</h2>
-<ul>
-<li>Feeding &amp; Digestion (will continue next week)</li>
-</ul>
-</section>
-</section>
-<section id="for-next-time" class="level1">
-<h1>For Next Time</h1>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Reminders and materials
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ul>
-<li>Make an appointment for you and your partner to get help from me on your design projects. Both must attend. <a href="https://calendly.com/mbutler808/office-hours" class="uri">https://calendly.com/mbutler808/office-hours</a></li>
-</ul>
-</div>
-</div>
-
-
-</section>
-
- ]]></description>
-  <category>module 5</category>
-  <category>week 5</category>
-  <category>food</category>
-  <category>feeding</category>
-  <category>nutrient composition</category>
-  <category>DMR</category>
-  <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-09-24-feeding/feeding.html</guid>
-  <pubDate>Tue, 24 Sep 2024 10:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
