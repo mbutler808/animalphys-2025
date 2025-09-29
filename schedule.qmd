@@ -36,12 +36,12 @@ format:
 | 9/24  | W | Sustained Metabolic Scope Paper \[[discussion](discussions/Discussion-Week5-metabolic-ceiling.pdf)\] \[[Hammond and Diamond 1997](https://drive.google.com/drive/u/1/folders/1psPVIMIJVUuySxp9MHSQxxAhlvy-O9kK)\],  \[[optional: Peterson et al. 1990](https://drive.google.com/drive/u/1/folders/1psPVIMIJVUuySxp9MHSQxxAhlvy-O9kK)\] |  | Design Critique Session/Peer Critique 1 \[[turn in](projects/design1-turnin.qmd)\] |   
 | | F | Design 1 Workday |  | |   
 |Week 6|||||
-| 10/1  | W | Feeding  \[[html](posts/2025-10-01-feeding/feeding.qmd)\] \[[discussion](discussions/Discussion-Week6-feeding-digestion.pdf)\] | | Lab6: PC2-G-Lobster Heart \[[overview](labs/Lab6-lobster-heart/Lab6.qmd)\] |  
-| | F | Digestion  |   |  Lab Practical /  |  
+| 10/1  | W | Feeding  \[[html](posts/2025-10-01-feeding/feeding.qmd)\] \[[discussion](discussions/Discussion-Week6-feeding-digestion.pdf)\] | | Lab Practical / Lab3:PC3-IWS-Peripheral Circ/Dive Resp \[[overview](labs/Lab3-human-peripheral-circulation-dive-response/Lab3.qmd)\] |  
+| | F | Design Project Workday  |   |   |  
 | | F |   | Design 1 Rewrite \[[Due midnight](https://drive.google.com/drive/folders/1lRh1ZuG4q453Oo0xxSZWDgYWxuD6oo9e?usp=sharing)\]   |   |     
 |Week 7|||||
-| 10/8 | W | Sample Problem \[[html](posts/2025-10-08-clauss-neurons/neurons.qmd)\] Max Size Herbivores Paper Claus 2003 \[[on drive](https://drive.google.com/drive/u/1/folders/1SceuF9tz_pD9J7lUrxbZbGAgIDIIhMJI)\] |  PS3: Feeding & Digestion \[[pdf](homework/HW3feeding_digestion.pdf)\]  | Lab3:PC3-IWS-Peripheral Circ/Dive Resp \[[overview](labs/Lab3-human-peripheral-circulation-dive-response/Lab3.qmd)\]  |   
-|   | F | Neurons \[[html](posts/2025-10-08-clauss-neurons/neurons.qmd)\] \[[discussion](discussions/Discussion-Week7-neurons-signal-propagation.pdf)\] |   |   |   
+| 10/8 | W | Digestion - Sample Problem \[[html](posts/2025-10-08-clauss-neurons/neurons.qmd)\] Max Size Herbivores Paper Claus 2003 \[[on drive](https://drive.google.com/drive/u/1/folders/1SceuF9tz_pD9J7lUrxbZbGAgIDIIhMJI)\] |    | Lab6: PC2-G-Lobster Heart \[[overview](labs/Lab6-lobster-heart/Lab6.qmd)\]  |   
+|   | F | Neurons \[[html](posts/2025-10-08-clauss-neurons/neurons.qmd)\] \[[discussion](discussions/Discussion-Week7-neurons-signal-propagation.pdf)\] | PS3: Feeding & Digestion \[[pdf](homework/HW3feeding_digestion.pdf)\]  |   |   
 |Week 8|||||
 | 10/15  | W | Synapses/Sensory Receptors  |  |  Design Presentations  | 
 | | F | Muscles \[[html](posts/2025-10-22-muscles/muscles.qmd)\] \[[discussion](discussions/Discussion-Week8-muscle.pdf)\] |   |   |   
