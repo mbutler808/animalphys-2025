@@ -251,16 +251,15 @@ Figure&nbsp;4: Attachment of the respiratory belt transducer to the calf for leg
 </figure>
 </div>
 </div></div><ol type="1">
-<li>Attach the respiratory belt transducer to Input 1, and the pulse transducer to Input 2.</li>
+<li>Attach the pulse transducer to Input 1, and the respiratory belt transducer to Input 2.</li>
 <li>Use “Lab 3-Dive Response…” settings to start Chart software.</li>
-<li>Add 2 channels for Pulse Flow and Heart Rate.</li>
+<li>Add 1 channel Blood Volume.</li>
 </ol>
 <ul>
-<li>From the menu bar, choose <strong>Setup &gt; Channel Settings</strong>. At the bottom of the menu, increase the number of channels to 3.<br>
+<li>From the menu bar, choose <strong>Setup &gt; Channel Settings</strong>. At the bottom of the menu, increase the number of channels by 1.<br>
 </li>
 <li>If you attached the pulse transducer before you opened the software, it should detect the pulse transducer and say so in the Input Amplifier column. If not, quit the software and reopen it via the settings file now that all the sensors are attached.</li>
-<li>Name channel 2 “Pulse Flow”. In the box that pops up change the source to Channel 2 (to match the sensor input). Under Calculation, select Integral, (the default Standard Integral) and OK. This will tell us the relative volume of blood flowing through our pulse.</li>
-<li>Name channle 3 “Heart Rate (BPM)”. Select Calculation &gt; Cyclic Measurements. Change the source to Channel 2 (calculating from the pulse transducer data), and ensure Measurement is set to Rate.</li>
+<li>Name channel 2 “Blood Volume”. On the right side bar, click on “Blood Volume” and select teh Arithmetic panel. Under the formula box select the channel that is reading the respiratory belt transducer. Multiply that signal by 100. The Forumla box should read something like “(Ch2*100)”.</li>
 <li><em>In this experiment, the sphygnamanometer is attached to a thigh cuff and used only to restrict blood flow to the thigh and not plugged in to PowerLab.</em></li>
 </ul>
 <ol start="4" type="1">
@@ -3634,7 +3633,7 @@ If you have a good lab notebook, it will be easy to write your lab report becaus
 
  ]]></description>
   <guid>https://mbutler808.github.io/animalphys-2025/labs/Lab-notebooks/lab-notebook.html</guid>
-  <pubDate>Tue, 30 Sep 2025 22:51:59 GMT</pubDate>
+  <pubDate>Tue, 30 Sep 2025 23:12:24 GMT</pubDate>
 </item>
 </channel>
 </rss>

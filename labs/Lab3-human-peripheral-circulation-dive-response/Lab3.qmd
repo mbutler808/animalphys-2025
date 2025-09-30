@@ -191,13 +191,12 @@ You will investigate the effects of the diving response on heart rate and periph
 ![Attachment of the respiratory belt transducer to the calf for leg volume measurement.](../../images/calf_belt.jpg){#fig-calf}
 :::
 
-1. Attach the respiratory belt transducer to Input 1, and the pulse transducer to Input 2.
+1. Attach the  pulse transducer to Input 1, and the respiratory belt transducer to Input 2.
 2. Use “Lab 3-Dive Response...” settings to start Chart software.
-3. Add 2 channels for Pulse Flow and Heart Rate. 
-  -  From the menu bar, choose __Setup > Channel Settings__.  At the bottom of the menu, increase the number of channels to 3.  
+3. Add 1 channel Blood Volume. 
+  -  From the menu bar, choose __Setup > Channel Settings__.  At the bottom of the menu, increase the number of channels by 1.  
   -  If you attached the pulse transducer before you opened the software, it should detect the pulse transducer and say so in the Input Amplifier column. If not, quit the software and reopen it via the settings file now that all the sensors are attached. 
-  -  Name channel 2 "Pulse Flow".  In the box that pops up change the source to Channel 2 (to match the sensor input). Under Calculation, select Integral, (the default Standard Integral) and OK. This will tell us the relative volume of blood flowing through our pulse. 
-  -  Name channle 3 "Heart Rate (BPM)". Select Calculation > Cyclic Measurements. Change the source to Channel 2 (calculating from the pulse transducer data), and ensure Measurement is set to Rate. 
+  -  Name channel 2 "Blood Volume".  On the right side bar, click on "Blood Volume" and select teh Arithmetic panel. Under the formula box select the channel that is reading the respiratory belt transducer. Multiply that signal by 100. The Forumla box should read something like "(Ch2\*100)". 
   -  _In this experiment, the sphygnamanometer is attached to a thigh cuff and used only to restrict blood flow to the thigh and not plugged in to PowerLab._ 
 4.  Set up and maintain a wash basin with icewater deep enough to submerge your face up to your temples.  Use a thermometer to monitor temperature at 10-15C (50-60F), replenish with ice as needed.
 5.  Attach the respiratory belt to the calf (@fig-calf) to measure leg volume. _NOTE: These are very fragile and expensive! Easily broken if stretched too tightly -- tighten just enough to stay up._ 
