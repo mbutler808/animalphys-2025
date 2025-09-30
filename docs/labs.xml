@@ -265,7 +265,7 @@ Figure&nbsp;4: Attachment of the respiratory belt transducer to the calf for leg
 </ul>
 <ol start="4" type="1">
 <li>Set up and maintain a wash basin with icewater deep enough to submerge your face up to your temples. Use a thermometer to monitor temperature at 10-15C (50-60F), replenish with ice as needed.</li>
-<li>Attach the respiratory belt snugly to the calf (Figure&nbsp;4). <em>It should feel tight and the sensor fabric should be slightly stretched.</em></li>
+<li>Attach the respiratory belt to the calf (Figure&nbsp;4) to measure leg volume. <em>NOTE: These are very fragile and expensive! Easily broken if stretched too tightly – tighten just enough to stay up.</em></li>
 <li>Place the thigh cuff around the subject’s thigh. You may or many not need to use <em>duct tape if the cuff does not remain securely pressurized to restrict blood flow</em>. If needed, apply tape to <em>secure both the top and the bottom</em> of the cuff.</li>
 <li>Record for 10 seconds and stop. Scale the Pulse channel and the Leg Volume channel to fully display the data.</li>
 <li>Record again and test by flexing and relaxing your calf. <em>You should be able to see a clear deflection on the leg volume channel.</em> If it is very small, try tightening the respiratory belt a little. Check with your TA that you are receiving a good signal before moving on.</li>
@@ -596,8 +596,8 @@ Table&nbsp;2: Heart rate (HR), pulse amplitude (PA), and leg volume (LV) data to
 </ol>
 </section>
 </section>
-<section id="after-lab-assignment-week-3" class="level1">
-<h1>After Lab: Assignment Week 3:</h1>
+<section id="after-lab-assignment" class="level1">
+<h1>After Lab: Assignment:</h1>
 <ul>
 <li>Before you leave, please tidy up and leave the equiptment (sensors, cables) as you found them. Make sure the PowerLab is powered down. Leave computers on but do <strong>make a folder for your lab group</strong> on the desktop and <em>move ALL your FILES into your groupʻs folder</em>.</li>
 <li>Write a Group Lab Report following [<a href="Lab3_report.pdf">Peripheral Circulation Report Guidance</a>]</li>
@@ -3634,7 +3634,7 @@ If you have a good lab notebook, it will be easy to write your lab report becaus
 
  ]]></description>
   <guid>https://mbutler808.github.io/animalphys-2025/labs/Lab-notebooks/lab-notebook.html</guid>
-  <pubDate>Mon, 29 Sep 2025 22:30:12 GMT</pubDate>
+  <pubDate>Tue, 30 Sep 2025 22:51:59 GMT</pubDate>
 </item>
 </channel>
 </rss>

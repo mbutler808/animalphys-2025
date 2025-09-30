@@ -200,7 +200,7 @@ You will investigate the effects of the diving response on heart rate and periph
   -  Name channle 3 "Heart Rate (BPM)". Select Calculation > Cyclic Measurements. Change the source to Channel 2 (calculating from the pulse transducer data), and ensure Measurement is set to Rate. 
   -  _In this experiment, the sphygnamanometer is attached to a thigh cuff and used only to restrict blood flow to the thigh and not plugged in to PowerLab._ 
 4.  Set up and maintain a wash basin with icewater deep enough to submerge your face up to your temples.  Use a thermometer to monitor temperature at 10-15C (50-60F), replenish with ice as needed.
-5.  Attach the respiratory belt snugly to the calf (@fig-calf). _It should feel tight and the sensor fabric should be slightly stretched._ 
+5.  Attach the respiratory belt to the calf (@fig-calf) to measure leg volume. _NOTE: These are very fragile and expensive! Easily broken if stretched too tightly -- tighten just enough to stay up._ 
 6.  Place the thigh cuff around the subject’s thigh. You may or many not need to use _duct tape if the cuff does not remain securely pressurized to restrict blood flow_. If needed, apply tape to _secure both the top and the bottom_ of the cuff. 
 7.  Record for 10 seconds and stop. Scale the Pulse channel and the Leg Volume channel  to fully display the data. 
 8.  Record again and test by flexing and relaxing your calf. _You should be able to see a clear deflection on the leg volume channel._ If it is very small, try tightening the respiratory belt a little. Check with your TA that you are receiving a good signal before moving on.
@@ -361,7 +361,7 @@ __The _leg volume_ difference__ is a measure of pooling and therefore peripheral
 7.  Why do you think the diving response is considered advantageous?
 
 
-# After Lab: Assignment Week 3:
+# After Lab: Assignment:
 
 - Before you leave, please tidy up and leave the equiptment (sensors, cables) as you found them. Make sure the PowerLab is powered down. Leave computers on but do __make a folder for your lab group__ on the desktop and _move ALL your FILES into your groupʻs folder_. 
 - Write a Group Lab Report following \[[Peripheral Circulation Report Guidance](Lab3_report.pdf)\]
