@@ -6,14 +6,14 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Food! Glorious food!"
-date: 2024-10-01
+date: 2025-10-01
 format: 
   html: default 
   pdf: default
 categories: [module 5, week 6, food, feeding, nutrient composition, DMR]
 ---
 
-Tuesday we will start talking about feeding (our favorite topic!) and Thursday we start digestion.   
+We will start talking about feeding (our favorite topic!) and Friday we will have a design project work day.   
 
 # Pre-class materials 
 
@@ -22,34 +22,30 @@ Tuesday we will start talking about feeding (our favorite topic!) and Thursday w
 
 **Before class, you can prepare by reading the following materials:**
 
-2. Tuesday we will start Feeding & Digestion \[[discussion](../../discussions/Discussion-Week6-feeding-digestion.pdf)\]
+2. Wednesday we will start Feeding & Digestion \[[discussion](../../discussions/Discussion-Week6-feeding-digestion.pdf)\]
 :::
 
 ### Announcements/Reminders
 
--  This week we will have our first toad lab! Please wear shoes and bring your dissection kit (if you have one, if not we will provide).
--  Do discussion TEAMMATES eval, released each Thursday, due by Monday.
+-  Do discussion TEAMMATES eval, released each Friday, due by Wendesday.
 
 ### Week 6 Discussion Groups
 
 | Group | Partner 1 | Partner 2 | Partner 3 |
 |----|----|----|----|----|
-|1| Kylee |  Adam | Abby |
-|2| Ashton  |  James |   Vivian |
-|3| Christian  | Veronica |  Hao |
-|4| Ilan |  Mohamad |  Sean |
+|1| Paris |  Reagan | Xavier |
+|2| Niki  |  Emma |    |
+|3| Darwin  | Carla |   |
+|4| Alice |  Manuel |  Trey |
+|4| Dallas |  Kira |  Peige |
 
 
-## Snakes Drink Weird!
-
-{{< video https://youtu.be/_r3gG6NjNKQ >}}
-
-## Tuesday
+## Wednesday
    
 - Feeding \[[slide deck](../../powerpoints/5.Feeding.pdf)\]
 
 
-## Thursday
+## Friday
 
 - Digestion \[[slide deck](../../powerpoints/5b.DigestiveSystems.pdf)\]
 
@@ -57,7 +53,7 @@ Tuesday we will start talking about feeding (our favorite topic!) and Thursday w
 
 ::: callout-note
 ## Reminders and materials
-- HW3 is posted \[[pdf](../../homework/HW3feeding_digestion.pdf)\] due Tuesday October 8. 
+- HW3 is posted \[[pdf](../../homework/HW3feeding_digestion.pdf)\] Due next Friday.  
 - Make an appointment for you and your partner to get help from me on your design projects. Both must attend. <https://calendly.com/mbutler808/office-hours>
 
 :::
