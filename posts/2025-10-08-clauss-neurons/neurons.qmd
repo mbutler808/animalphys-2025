@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "You all know about action potentials, but how do they actually work? The details, and how they scale up in the biological heirarchy are so much more interesting."
-date: 2024-10-08
+date: 2025-10-08
 format: 
   html: default 
   pdf: default
@@ -20,34 +20,35 @@ categories: [module 6, week 7, neurons, action potentials, electricity, signals 
 
 **Before class, you can prepare by reading the following materials:**
 
-1. Tuesday we will finish do a sample problem and discuss \[[Claus et al 2003](https://drive.google.com/drive/u/1/folders/1SceuF9tz_pD9J7lUrxbZbGAgIDIIhMJI)\] - Max size herbivores \[[Discussion](../../discussions/Discussion-Week7a-sampleproblem-ClaussEtAl.pdf)\] \[[digestion slide deck](../../powerpoints/5b.DigestiveSystems.pdf)\]
-2. Thursday start Neurons Discussion \[[discussion & reading assignment](../../discussions/Discussion-Week7-neurons-signal-propagation.pdf)\]
+1. We will finish discussing Herbivores - Special Digestive Systems \[[slide deck](../../powerpoints/5b.DigestiveSystems.pdf)\] and a very interesting paper \[[Claus et al 2003](https://drive.google.com/drive/u/1/folders/1SceuF9tz_pD9J7lUrxbZbGAgIDIIhMJI)\] 
+2. Friday start Neurons Discussion \[[discussion & reading assignment](../../discussions/Discussion-Week7-neurons-signal-propagation.pdf)\]
 3. Please watch the podcasts below for Thursday. 
 4. We will probably continue Neurons next week.
 :::
 
 ### Announcements/Reminders
 
--  Watch the podcast on peripheral circulation. Read Do prelab quiz and the prelab, focusing on the hypotheses that you will design. 
-
+- HW3 \[[pdf](../../homework/HW3feeding_digestion.pdf)\] due Friday.  
 - This week will be our first invertebrate lab on the Lobster Heart. Please wear shoes and bring your dissection kit (if you have one, if not we will provide). \[[overview](../../labs/Lab6-lobster-heart/Lab6.qmd)\]
 -  Do discussion TEAMMATES eval, released each Friday, due by Monday.
--  HW3 due Thursday
 
 ### Week 7 Discussion Groups
 
 | Group | Partner 1 | Partner 2 | Partner 3 |
 |----|----|----|----|----|
-|1| Abby |    Veronica |Vivian  |
-|2| Adam |  Hao  |  Mohamad|
-|3| Ilan | Sean | Ashton   |
-|4| Christian | James |   Kylee  |  
+|1| Manuel | Xavier  |  |
+|2| Alice |  Paris |   |
+|3| Dallas |  Kyra |  Reagan |
+|4| Niki  |  Emma |  Peigi  |
+|5| Darwin  | Carla | Trey  |
 
-## Tuesday
+## Wednesday
  
-- Practice Problem and Max Size Herbivores & Fermentation discussion
+- Herbivores - Specialized Digestive Systems  \[[discussion](../../discussions/Discussion-Week6-feeding-digestion.pdf)\] \[[digestion slide deck](../../powerpoints/5b.DigestiveSystems.pdf)\]
 
-## Thursday
+- Max size herbivores \[[Claus et al 2003 paper](https://drive.google.com/drive/u/1/folders/1SceuF9tz_pD9J7lUrxbZbGAgIDIIhMJI)\]\[[Discussion](../../discussions/Discussion-Week7a-ClaussEtAl.pdf)\] 
+
+## Friday
 
 
 - Start Neurons Discussion \[[discussion](../../discussions/Discussion-Week7-neurons-signal-propagation.pdf)\] \[[slide deck](../../powerpoints/6a.NeuronsRecording.pdf)\]
@@ -57,8 +58,6 @@ categories: [module 6, week 7, neurons, action potentials, electricity, signals 
 {{< video https://youtu.be/GKPWD-Mer6s >}}
  
 
-- (maybe next week) Signal Propagation \[[slide deck2](../../powerpoints/6b.Synapses.pdf)\]
-
 ### Signal propagation podcast 
 
 {{< video https://youtu.be/8Z8vW6FAJxY >}}
@@ -66,6 +65,8 @@ categories: [module 6, week 7, neurons, action potentials, electricity, signals 
 
 
 # For Next Time
+
+- Signal Propagation \[[slide deck2](../../powerpoints/6b.Synapses.pdf)\]
 
 
 

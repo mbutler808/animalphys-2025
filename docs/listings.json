@@ -3,12 +3,12 @@
     "listing": "/projects.html",
     "items": [
       "/projects/design1-turnin.html",
+      "/projects/design1-FAQ.html",
       "/projects/0.BackgroundBulletPoints.html",
       "/projects/design1.html",
       "/projects/design2-turnin.html",
       "/projects/design2-resources.html",
       "/projects/design2.html",
-      "/projects/design1-FAQ.html",
       "/projects/design4.html",
       "/projects/design4-resources.html",
       "/projects/design3-turnin.html",
@@ -41,6 +41,7 @@
   {
     "listing": "/lectures.html",
     "items": [
+      "/posts/2025-10-08-clauss-neurons/neurons.html",
       "/posts/2025-10-01-feeding/feeding.html",
       "/posts/2025-09-24-feeding/feeding.html",
       "/posts/2025-09-17-cardiac-function/cardiac.html",
@@ -56,8 +57,7 @@
       "/posts/2025-11-05-blood-respiration/blood-respiration.html",
       "/posts/2025-10-29-biomechanics-locomotion/biomechanics-locomotion.html",
       "/posts/2025-10-22-muscles/muscles.html",
-      "/posts/2025-10-15-neurons/neurons.html",
-      "/posts/2025-10-08-clauss-neurons/neurons.html"
+      "/posts/2025-10-15-neurons/neurons.html"
     ]
   }
 ]
