@@ -22,7 +22,7 @@ categories: [module 6, week 7, neurons, action potentials, electricity, signals 
 
 1. We will finish discussing Herbivores - Special Digestive Systems \[[slide deck](../../powerpoints/5b.DigestiveSystems.pdf)\] and a very interesting paper \[[Claus et al 2003](https://drive.google.com/drive/u/1/folders/1SceuF9tz_pD9J7lUrxbZbGAgIDIIhMJI)\] 
 2. Friday start Neurons Discussion \[[discussion & reading assignment](../../discussions/Discussion-Week7-neurons-signal-propagation.pdf)\]
-3. Please watch the podcasts below for Thursday. 
+3. Please watch the podcasts below for Friday. 
 4. We will probably continue Neurons next week.
 :::
 
@@ -46,7 +46,7 @@ categories: [module 6, week 7, neurons, action potentials, electricity, signals 
  
 - Herbivores - Specialized Digestive Systems  \[[discussion](../../discussions/Discussion-Week6-feeding-digestion.pdf)\] \[[digestion slide deck](../../powerpoints/5b.DigestiveSystems.pdf)\]
 
-- Max size herbivores \[[Claus et al 2003 paper](https://drive.google.com/drive/u/1/folders/1SceuF9tz_pD9J7lUrxbZbGAgIDIIhMJI)\]\[[Discussion](../../discussions/Discussion-Week7a-ClaussEtAl.pdf)\] 
+- Max size herbivores \[[Claus et al 2003 paper](https://drive.google.com/drive/u/1/folders/1SceuF9tz_pD9J7lUrxbZbGAgIDIIhMJI)\]\[[Discussion](../../discussions/Discussion-Week7a-sampleproblem-ClaussEtAl.pdf)\] 
 
 ## Friday
 

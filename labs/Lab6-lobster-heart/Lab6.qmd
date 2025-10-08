@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "The physiology of the crustacean heart in action!"
-date: 2024-10-08
+date: 2025-10-08
 toc: true
 image: lobster-internal-anatomy.jpg
 format: 
@@ -17,7 +17,7 @@ categories: [week 7, labs, cardiac cycle, invertebrate, heart, in situ,  lobster
 
 # Before Lab
 
-This will be our first invertebrate lab. We will be studying the control of the neurogenic heart of crustaceans using the lobster as a model.
+This will be our invertebrate lab. We will be studying the control of the neurogenic heart of crustaceans using the lobster as a model.
 
 :::{.callout-note}
 # Prepare for lab by:
@@ -26,7 +26,7 @@ This will be our first invertebrate lab. We will be studying the control of the 
   + For the __Intro__, focus on identifying the physiological mechanisms (outline them), and end with a paragraph of hypotheses/expectations (like the worksheet).
   + Think about __strong hypotheses__! _Strong hypotheses lead to excellent reports._
   + __Methods__: subjects, experimental methods and analyses (how you will compare to address the hypotheses -- _you should start thinking about how you will plot the data for the results to make these answers pop_). 
-- Do prelab Quiz on Laulima (open 24 hrs before lab). 
+- Do prelab Quiz on Lamaku (open 24 hrs before lab). 
 - Please check out the \[[powerpoint notes](../../powerpoints/Lab6.HeartControlLobster.pdf)\] and the review paper on the \[[crustacean cardiac ganglion](Cooke02.pdf)\] by our very own Dr. Ian Cooke who was an emeritus faculty from the Zoology Department and PBRC, a pioneer in invertebrate neurophysiology!
 :::
 
@@ -48,8 +48,6 @@ This will be our first invertebrate lab. We will be studying the control of the 
 
 ## After Lab: 
 
-- Group lab report due next week. See the guidance at the end of the \[[Lobster Heart lab manual](Lab6-lobster-heart.pdf)\]. You may also want to look over the guidance at the end of the \[[Toad Heart Lab](../Lab5-toad-heart/Lab5-toad-heart.pdf)\].  
+- Group lab report due next week. See the guidance at the end of the \[[Lobster Heart lab manual](Lab6-lobster-heart.pdf)\]. This week you will submit an individual worksheet (IWS), and you may also want to look over the guidance at the end of the lab manual for suggestions for your thinking.  
 - Always follow the content guidelines: \[[grading guidelines](../../labs-misc/handouts/Zool430lab_report_guidelines.pdf)\]
-- It is a good idea to divide up the work of writing the lab __by experiment__. That way, _each person writes a portion of the intro, methods, results, and discussion for their __hypothesis___. 
-- Work out your timeline with your lab partners during lab (and plan a face-to-face meet up [hey! you can do your lab EC]) _so that everyone has a chance to comment and edit_ before the lab is submitted. 
 

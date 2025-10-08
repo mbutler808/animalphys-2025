@@ -10,7 +10,7 @@
 <atom:link href="https://mbutler808.github.io/animalphys-2025/lectures.xml" rel="self" type="application/rss+xml"/>
 <description>Course website for Animal Physiology</description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Wed, 08 Oct 2025 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 08 Oct 2025 10:00:00 GMT</lastBuildDate>
 <item>
   <title>7. Herbivore Discussion and Neurons</title>
   <dc:creator>Marguerite Butler</dc:creator>
@@ -36,7 +36,7 @@ Read ahead
 <ol type="1">
 <li>We will finish discussing Herbivores - Special Digestive Systems [<a href="../../powerpoints/5b.DigestiveSystems.pdf">slide deck</a>] and a very interesting paper [<a href="https://drive.google.com/drive/u/1/folders/1SceuF9tz_pD9J7lUrxbZbGAgIDIIhMJI">Claus et al 2003</a>]</li>
 <li>Friday start Neurons Discussion [<a href="../../discussions/Discussion-Week7-neurons-signal-propagation.pdf">discussion &amp; reading assignment</a>]</li>
-<li>Please watch the podcasts below for Thursday.</li>
+<li>Please watch the podcasts below for Friday.</li>
 <li>We will probably continue Neurons next week.</li>
 </ol>
 </div>
@@ -105,7 +105,7 @@ Read ahead
 <h2 class="anchored" data-anchor-id="wednesday">Wednesday</h2>
 <ul>
 <li><p>Herbivores - Specialized Digestive Systems [<a href="../../discussions/Discussion-Week6-feeding-digestion.pdf">discussion</a>] [<a href="../../powerpoints/5b.DigestiveSystems.pdf">digestion slide deck</a>]</p></li>
-<li><p>Max size herbivores [<a href="https://drive.google.com/drive/u/1/folders/1SceuF9tz_pD9J7lUrxbZbGAgIDIIhMJI">Claus et al 2003 paper</a>][<a href="../../discussions/Discussion-Week7a-ClaussEtAl.pdf">Discussion</a>]</p></li>
+<li><p>Max size herbivores [<a href="https://drive.google.com/drive/u/1/folders/1SceuF9tz_pD9J7lUrxbZbGAgIDIIhMJI">Claus et al 2003 paper</a>][<a href="../../discussions/Discussion-Week7a-sampleproblem-ClaussEtAl.pdf">Discussion</a>]</p></li>
 </ul>
 </section>
 <section id="friday" class="level2">
@@ -153,7 +153,7 @@ Reminders and materials
   <category>electricity</category>
   <category>signals</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-10-08-clauss-neurons/neurons.html</guid>
-  <pubDate>Wed, 08 Oct 2025 07:00:00 GMT</pubDate>
+  <pubDate>Wed, 08 Oct 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>6. Feeding</title>
@@ -231,7 +231,7 @@ Read ahead
 <td></td>
 </tr>
 <tr class="odd">
-<td>4</td>
+<td>5</td>
 <td>Dallas</td>
 <td>Kyra</td>
 <td>Peige</td>
@@ -284,7 +284,7 @@ Reminders and materials
   <category>nutrient composition</category>
   <category>DMR</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-10-01-feeding/feeding.html</guid>
-  <pubDate>Wed, 01 Oct 2025 07:00:00 GMT</pubDate>
+  <pubDate>Wed, 01 Oct 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>5. Feeding</title>
@@ -421,7 +421,7 @@ Reminders and materials
   <category>nutrient composition</category>
   <category>DMR</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-09-24-feeding/feeding.html</guid>
-  <pubDate>Wed, 24 Sep 2025 07:00:00 GMT</pubDate>
+  <pubDate>Wed, 24 Sep 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>4. Cardiac Function</title>
@@ -547,7 +547,7 @@ Read ahead
   <category>cardiac regulation</category>
   <category>MMR</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-09-17-cardiac-function/cardiac.html</guid>
-  <pubDate>Wed, 17 Sep 2025 07:00:00 GMT</pubDate>
+  <pubDate>Wed, 17 Sep 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>3. Temperature</title>
@@ -724,7 +724,7 @@ H<img src="https://latex.codecogs.com/png.latex?_e"> = heat of evaporation</p>
   <category>AMR</category>
   <category>DMR</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-09-10-temperature/</guid>
-  <pubDate>Wed, 10 Sep 2025 07:00:00 GMT</pubDate>
+  <pubDate>Wed, 10 Sep 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>2. Metabolic Rates</title>
@@ -972,7 +972,7 @@ Reminders and materials
   <category>AMR</category>
   <category>DMR</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-09-03-metabolism/</guid>
-  <pubDate>Wed, 03 Sep 2025 07:00:00 GMT</pubDate>
+  <pubDate>Wed, 03 Sep 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Library Day</title>
@@ -1112,7 +1112,7 @@ All the best online sources
   <category>information sources</category>
   <category>design background</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-08-29-library-day/</guid>
-  <pubDate>Fri, 29 Aug 2025 07:00:00 GMT</pubDate>
+  <pubDate>Fri, 29 Aug 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -1123,7 +1123,7 @@ All the best online sources
   <category>week 1</category>
   <category>introduction</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-08-27-megalodon-model/slides.html</guid>
-  <pubDate>Wed, 27 Aug 2025 07:00:00 GMT</pubDate>
+  <pubDate>Wed, 27 Aug 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Day 1: Intro to Class and Megalodon Modeling Discussion</title>
@@ -1308,7 +1308,7 @@ Academic authors will sometimes write a summary of the last 10 years or so of re
   <category>size</category>
   <category>morphology</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-08-27-megalodon-model/</guid>
-  <pubDate>Wed, 27 Aug 2025 07:00:00 GMT</pubDate>
+  <pubDate>Wed, 27 Aug 2025 10:00:00 GMT</pubDate>
   <media:content url="https://www.science.org/doi/10.1126/sciadv.abm9424#F1" medium="image"/>
 </item>
 <item>
@@ -1491,7 +1491,7 @@ Table&nbsp;1: Organs involved in osmoregulation
   <category>osmoregulation</category>
   <category>excretion</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-12-03-excretion/excretion.html</guid>
-  <pubDate>Tue, 03 Dec 2024 08:00:00 GMT</pubDate>
+  <pubDate>Tue, 03 Dec 2024 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>11a. Osmoreguation</title>
@@ -1694,7 +1694,7 @@ Table&nbsp;1: Organs involved in osmoregulation
   <category>week 14</category>
   <category>osmoregulation</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-11-26-osmoregulation2/osmoregulation2.html</guid>
-  <pubDate>Tue, 26 Nov 2024 08:00:00 GMT</pubDate>
+  <pubDate>Tue, 26 Nov 2024 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>11. Respiration-Osmoreguation</title>
@@ -1878,7 +1878,7 @@ Coming up Next Week
   <category>respiration</category>
   <category>osmoregulation</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-11-19-osmoregulation/osmoregulation.html</guid>
-  <pubDate>Mon, 18 Nov 2024 08:00:00 GMT</pubDate>
+  <pubDate>Mon, 18 Nov 2024 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>10. Respiration</title>
@@ -2060,7 +2060,7 @@ Coming up Next Week
   <category>aquatic respiration</category>
   <category>aerial respiration</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-11-12-ventilation/ventilation.html</guid>
-  <pubDate>Tue, 12 Nov 2024 08:00:00 GMT</pubDate>
+  <pubDate>Tue, 12 Nov 2024 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>10. Blood and Respiratory Media</title>
@@ -2205,7 +2205,7 @@ Reminders and materials
   <category>terrestrial</category>
   <category>aerial</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-11-05-blood-respiration/blood-respiration.html</guid>
-  <pubDate>Tue, 05 Nov 2024 08:00:00 GMT</pubDate>
+  <pubDate>Tue, 05 Nov 2024 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>9. Biomechanics and Locomotion</title>
@@ -2364,7 +2364,7 @@ Reminders and materials
   <category>muscles</category>
   <category>skeletons</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-10-29-biomechanics-locomotion/biomechanics-locomotion.html</guid>
-  <pubDate>Tue, 29 Oct 2024 07:00:00 GMT</pubDate>
+  <pubDate>Tue, 29 Oct 2024 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>9. Muscles</title>
@@ -2502,7 +2502,7 @@ Reminders and materials
   <category>sarcomere</category>
   <category>muscle architecture</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-10-22-muscles/muscles.html</guid>
-  <pubDate>Thu, 24 Oct 2024 07:00:00 GMT</pubDate>
+  <pubDate>Thu, 24 Oct 2024 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>8. Still on Neurons</title>
@@ -2632,7 +2632,7 @@ Reminders and materials
   <category>electricity</category>
   <category>signals</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-10-15-neurons/neurons.html</guid>
-  <pubDate>Tue, 15 Oct 2024 07:00:00 GMT</pubDate>
+  <pubDate>Tue, 15 Oct 2024 10:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
