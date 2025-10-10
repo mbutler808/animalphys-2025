@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Exploring the generation of forcce and movement"
-date: 2024-10-29
+date: 2025-10-13
 toc: true
 format: 
   html: default
@@ -40,7 +40,7 @@ Material for this lab was borrowed and adopted from
   + equiptment 
   + experimental treatments (be sure to note what __variables__ are changing) and controls or comparisons
   + analysis
-- Do Quiz on Laulima (open 24 hrs before lab). 
+- Do Quiz on Lamaku (open 24 hrs before lab). 
 - Please bring a laptop with you to lab, if possible, to analyze your experimental results.
 :::
 
@@ -182,8 +182,9 @@ Below is a list of additional exercises to do.  Pick several of these (at least 
 
 -  Isometric vs. isotonic contraction (no change in muscle length vs. no change in muscle force [approximately])
 -  EMG during exercise of a muscle group to exhaustion (and after recovery)
--  EMGs from different volunteers with different muscle mass or build (donʻt forget to take some measurement of the muscle differences for the comparison)
 -  EMGs during muscle contraction of different speeds (e.g. lifting book slowly vs quickly)
+-  Effect of distance between electrodes on EMG signal
+-  EMGs from different volunteers with different muscle mass or build (donʻt forget to take some measurement of the muscle differences for the comparison)
 -  Your own exercise
 
 # Food For Thought

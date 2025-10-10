@@ -50,7 +50,6 @@ categories: [module 6, week 7, neurons, action potentials, electricity, signals 
 
 ## Friday
 
-
 - Start Neurons Discussion \[[discussion](../../discussions/Discussion-Week7-neurons-signal-propagation.pdf)\] \[[slide deck](../../powerpoints/6a.NeuronsRecording.pdf)\]
 
 ### Neurons podcast
