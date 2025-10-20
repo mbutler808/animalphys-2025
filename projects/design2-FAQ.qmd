@@ -85,7 +85,7 @@ Please note: _alfalfa is a legume_ (bean family), not a "grass" so it's pretty h
 
 It turns out that __high carbs__ is a big problem in equine medicine, and so there are companies that will do nutritional analysis of your grass. Dairy One is such a company, and they have an online database with average values for the past 10 years. You can look up data on grass hay and grass pasture, or silage. Hay is dried grass, pasture is fresh grass. Don't use the silage values because silage is a mash of partly fermented plant product that is only farm food (not wild). You may use this website:
 
-http://dairyone.com/analytical-services/feed-and-forage/feed-composition-library/interactive-feed-composition-library/
+https://dairyone.com/services/forage-laboratory-services/feed-composition-library/
 
 Click "OK" at the bottom of this page and then "Main library" then make your choices. You might want to choose Fresh for Forage and then in the pull down menu grass pasture, for example. Choose leaves for general mixed leaves and woody plants for woody browse.
 

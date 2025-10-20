@@ -163,7 +163,7 @@ To demonstrate basic principles of peripheral circulation using blood pressure d
 Compare systolic and diastolic pressure for each of your treatments versus an appropriate baseline. Think carefully about appropriate baselines for your ideas to achieve the best test of your hypotheses. 
 
 ### Questions for thought...
-1.  How much does blood pressure change for each treatment? What could explain it? Does it seam reasonable?
+1.  How much does blood pressure change for each treatment? What could explain it? Does it seem reasonable?
 2.  How much variation is there among members of your group?  What are sources of variation in these estimates?
 
 # Exercise 3: The Dive Response
