@@ -43,12 +43,11 @@ format:
 | 10/8 | W | Digestion - Sample Problem \[[html](posts/2025-10-08-clauss-neurons/neurons.qmd)\] Max Size Herbivores Paper Claus 2003 \[[on drive](https://drive.google.com/drive/u/1/folders/1SceuF9tz_pD9J7lUrxbZbGAgIDIIhMJI)\] |    | Lab6: PC2-G-Lobster Heart \[[overview](labs/Lab6-lobster-heart/Lab6.qmd)\]  |   
 |   | F | Neurons \[[html](posts/2025-10-08-clauss-neurons/neurons.qmd)\] \[[discussion](discussions/Discussion-Week7-neurons-signal-propagation.pdf)\] | PS3: Feeding & Digestion \[[pdf](homework/HW3feeding_digestion.pdf)\]  |   |   
 |Week 8|||||
-| 10/15  | W | Synapses/Sensory Receptors  |  |  Lab8: PC2-G-Human Muscle \[[overview](labs/Lab8-human-emg/Lab8.qmd)\]  | 
-| | F | Muscles \[[html](posts/2025-10-22-muscles/muscles.qmd)\] \[[discussion](discussions/Discussion-Week8-muscle.pdf)\] |   |   |   
+| 10/15  | W | Neurons/Synapses  |  |  Lab8: PC2-G-Human Muscle \[[overview](labs/Lab8-human-emg/Lab8.qmd)\]  | 
+| | F | Synapses/Sensory Receptors  |  |  Lab8: PC2-G-Human Muscle \[[overview](labs/Lab8-human-emg/Lab8.qmd)\]  |   |   |   
 |Week 9|||||
-| 10/22 | W | Motor Control \[[html](posts/2025-10-22-muscles/muscles.qmd)\] \[[discussion](discussions/Discussion-Week8-muscle.pdf)\]|   | Design Presentations - Design 2 Feeding & Digestion \[[html](projects/design2-FAQ.qmd)\] \[[resources](projects/design2-resources.qmd)\]|     
-| | F | Biomechanics  | PS4: Neurons \[[pdf](homework/HW4neurons.pdf)\], Peer Critique 2 \[[see turn in](projects/design2-turnin.qmd)\] |    |   
-| | F | | Design 2 Feeding & Digestion (by Monday) \[[html](projects/design2-FAQ.qmd)\] \[[resources](projects/design2-resources.qmd)\] \[[turn in](projects/design2-turnin.qmd)\] |  |     
+| 10/22 | W | Muscles \[[html](posts/2025-10-22-muscles/muscles.qmd)\] \[[discussion](discussions/Discussion-Week8-muscle.pdf)\]|   | Design Presentations - Design 2 Feeding & Digestion \[[html](projects/design2-FAQ.qmd)\] \[[resources](projects/design2-resources.qmd)\]|     
+| | F | Motor Control  | PS4: Neurons \[[pdf](homework/HW4neurons.pdf)\] Design 2 Feeding & Digestion (by Monday, but first-in, first-out) \[[html](projects/design2-FAQ.qmd)\] \[[resources](projects/design2-resources.qmd)\] \[[turn in](projects/design2-turnin.qmd)\]|    |   
 |Week 10|||||
 | | M |   |   |  Design 2 Feeding & Digestion  \[[html](projects/design2-FAQ.qmd)\] \[[resources](projects/design2-resources.qmd)\] \[[turn in](projects/design2-turnin.qmd)\]  |   
 | 10/29 | W | Finish Muscles/Biomechanics \[[html](posts/2025-10-29-biomechanics-locomotion/biomechanics-locomotion.qmd)\] \[[discussion](discussions/Discussion-Week9-biomechanics-locomotion.pdf)\] | Peer Critique 2 \[[see turn in](projects/design2-turnin.qmd)\] |  Lab 7:PC1-G-Vertebrate Action Potential \[[overview](labs/Lab7-toad-nerve/Lab7.qmd)\] |   

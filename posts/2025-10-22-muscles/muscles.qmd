@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Muscles are so cool! They are responsible for the incredible diversity of animal movemements"
-date: 2024-10-24
+date: 2025-10-24
 format: 
   html: default 
   pdf: default
@@ -20,31 +20,30 @@ categories: [module 8, week 9, muscles, excitable tissues, contraction force, fo
 
 **Before class, you can prepare by reading the following materials:**
 
-1. Tuesday we will finish Neurons and Signal Propagation \[[discussion & reading assignment](../../discussions/Discussion-Week7-neurons-signal-propagation.pdf)\]
-2. Tuesday and Thursday Muscle Discussion \[[discussion & reading assignment](../../discussions/Discussion-Week8-muscle.pdf)\] 
+1. Muscle Discussion \[[discussion & reading assignment](../../discussions/Discussion-Week8-muscle.pdf)\] 
 :::
 
 ### Announcements/Reminders
 
--  This week will be a very interesting lab on the toad sciatic nerve and neuronal function. Bringn your best dissecting skills! Itʻs an interesting one. 
+- \[[HW 4](../../homework/HW4neurons.pdf)\] due Friday 10/24 at start of class
 -  Do discussion TEAMMATES eval, released each Friday, due by Monday.
--  See \[[Schedule](../../schedule.qmd)\] for links to assignments.
-  -  Design 2 draft due Tuesday at midnight see \[[Schedule](../../schedule.qmd)\]
-  -  Peer critique of Design 2 due Friday by email to 2 authors and myself. 
-  -  HW4 due Thursday at start of class. 
+-  Design 2 draft due by Monday at midnight see resources, FAQs on \[[Schedule](../../schedule.qmd)\] or under Projects Tab. 
+    + I strongly recommend you submitting your calculations to me by Friday (10/24) or ASAP so that I can review your work before you complete the draft. Just put it in the Draft folder, labelled, and shoot me a DM on Discord letting me know itʻs there. 
+    + CALCULATIONS: Write out what you are doing in a few words, the equations with all parameters defined and cited on the right hand side of the page, and show your work. 
+    + Herbivore diets - please show it in two parts: (1) the VALUES you obtained from sources, including the %DM, (2) the final Nutrient % of fresh food used in your model after adding back water, etc.  
+-  Peer critique of Design 2 due Wednesday next week by email to 2 authors and myself.    
 
 ### Week 9 Discussion Groups
 
 | Group | Partner 1 | Partner 2 | Partner 3 |
 |----|----|----|----|----|
-|1| Hao | Adam| Ilan |
-|2| Mohamad | Sean| Abby |
-|3| Kylee|Ashton| Veronica |
-|4| Christian| James | Vivian| 
+|1| Carla | Peigi| Kyra |
+|2| Paris | Niki| Reagan |
+|3| Dallas|Manuel| Emma |
+|4| Trey| Alice | Darwin| 
 
-## Tuesday
+## Wednesday
  
-- ...Still finishing Neurons & Signal Propagation \[[slide deck2](../../powerpoints/6b.Synapses.pdf)\]
 - Start Muscle Discussion \[[discussion](../../discussions/Discussion-Week8-muscle.pdf)\] \[[slide deck](../../powerpoints/8.MusclesI.pdf)\]
 
 ### Muscles EMG podcast
@@ -52,7 +51,7 @@ categories: [module 8, week 9, muscles, excitable tissues, contraction force, fo
 {{< video https://youtu.be/6Z39ZqgixfY >}}
 
 
-## Thursday
+## Friday
 
 - Continue Muscle Discussion \[[discussion](../../discussions/Discussion-Week8-muscle.pdf)\] \[[slide deck 2](../../powerpoints/8a.MusclesII.pdf)\]
 
@@ -67,6 +66,7 @@ categories: [module 8, week 9, muscles, excitable tissues, contraction force, fo
 ::: callout-note
 ## Reminders and materials
 
+- Next week Toad Nerve lab! Lab 7:PC1-G-Vertebrate Action Potential \[[overview](../../labs/Lab7-toad-nerve/Lab7.qmd)\]
 :::
 
 
