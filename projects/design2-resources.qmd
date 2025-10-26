@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Directory of helpful resources for your Design 2"
-date: 2024-10-11
+date: 2025-10-11
 format: 
   html: default 
   pdf: default

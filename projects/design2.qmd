@@ -5,8 +5,8 @@ author:
     url: https://butlerlab.org
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
-description: "What would life cost for your animal, and how hard would it be to be in heat balance?"
-date: 2024-10-06
+description: "How could your animal make a living?"
+date: 2025-10-06
 format: 
   html: default 
   pdf: default
