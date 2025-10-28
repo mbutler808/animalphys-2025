@@ -10,7 +10,166 @@
 <atom:link href="https://mbutler808.github.io/animalphys-2025/lectures.xml" rel="self" type="application/rss+xml"/>
 <description>Course website for Animal Physiology</description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Fri, 24 Oct 2025 10:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Oct 2025 10:00:00 GMT</lastBuildDate>
+<item>
+  <title>9. Biomechanics and Locomotion</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/animalphys-2025/posts/2025-10-29-biomechanics-locomotion/biomechanics-locomotion.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="pre-class-materials" class="level1">
+<h1>Pre-class materials</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Read ahead
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Before class, you can prepare by reading the following materials:</strong></p>
+<ol type="1">
+<li>Wednesday we will finish Muscle Discussion and move on to biomechanics and locomotion</li>
+<li>Friday we will continue locomotion.</li>
+<li>Lab this week is the [<a href="labs/Lab7-toad-nerve/Lab7.qmd">Vertebrate (Toad) Nerve Lab</a>]! Pay attention to refining your prelab.</li>
+</ol>
+</div>
+</div>
+<section id="announcementsreminders" class="level3">
+<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
+<ul>
+<li>Halloween Extra Credit - come dressed up, stop by lab on Tuesday (or Monday)</li>
+<li>Design 2 Rewrite due Next Wednesday by midnight into the “Final” folder. [<a href="../../projects/design2-turnin.html">turn in</a>]<br>
+</li>
+<li>Do discussion TEAMMATES eval, released each Thursay, due by Monday.</li>
+<li>Getting to the end, folks!</li>
+</ul>
+</section>
+<section id="week-10-discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="week-10-discussion-groups">Week 10 Discussion Groups</h3>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Partner 1</th>
+<th>Partner 2</th>
+<th>Partner 3</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Dallas</td>
+<td>Niki</td>
+<td>Emma</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Alice</td>
+<td>Carla</td>
+<td>Manuel</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Darwin</td>
+<td>Trey</td>
+<td>Peigi</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Kyra</td>
+<td>Reagan</td>
+<td>Paris</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="wednesday" class="level2">
+<h2 class="anchored" data-anchor-id="wednesday">Wednesday</h2>
+<ul>
+<li>Finish Muscle Discussion [<a href="../../discussions/Discussion-Week8-muscle.pdf">discussion</a>] [<a href="../../powerpoints/8a.MusclesII.pdf">slide deck 2</a>]</li>
+</ul>
+<section id="muscle-design-podcast" class="level3">
+<h3 class="anchored" data-anchor-id="muscle-design-podcast">Muscle Design podcast</h3>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/XPgHg2lmc5M" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<ul>
+<li>Begin Biomechanics and Locomotion [<a href="../../discussions/Discussion-Week9-biomechanics-locomotion.pdf">discussion</a>] [<a href="../../powerpoints/9a.Biomechanics.pdf">slide deck 1</a>]</li>
+</ul>
+</section>
+</section>
+<section id="friday" class="level2">
+<h2 class="anchored" data-anchor-id="friday">Friday</h2>
+<ul>
+<li>Biomechanics and Locomotion [<a href="../../discussions/Discussion-Week9-biomechanics-locomotion.pdf">discussion</a>] [<a href="../../powerpoints/9a.Biomechanics.pdf">slide deck 1</a>]
+<ul>
+<li>Support vs.&nbsp;Locomotion</li>
+<li>Material properties and functional design
+<ul>
+<li>stress and strain<br>
+</li>
+<li>posture</li>
+</ul></li>
+<li>Muscle architecture</li>
+<li>Lever arms and gear ratios</li>
+</ul></li>
+<li>Terrestrial Locomotion [<a href="../../discussions/Discussion-Week9-biomechanics-locomotion.pdf">discussion</a>] [<a href="../../powerpoints/9b.TerrestrialLocomotion.pdf">slide deck 2</a>]
+<ul>
+<li>Cursorial adaptations</li>
+<li>Trends in posture</li>
+<li>Limb cycles and gaits (kinematics)</li>
+<li>Ground reaction forces and joint forces (biomechanics)</li>
+<li>Conservation of energy in running, walking jumping</li>
+</ul></li>
+</ul>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/YlyaASmy-1E" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</section>
+<section id="coming-up-next-week" class="level1">
+<h1>Coming up Next Week</h1>
+<ul>
+<li>Homework 5 Muscles &amp; Biomechanics due Thursday 11/07 [<a href="../../schedule.html">schedule</a>]</li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Reminders and materials
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>module 9</category>
+  <category>week 10</category>
+  <category>biomaterials</category>
+  <category>biomechanics</category>
+  <category>locomotion</category>
+  <category>aquatic</category>
+  <category>terrestrial</category>
+  <category>aerial</category>
+  <category>muscles</category>
+  <category>skeletons</category>
+  <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-10-29-biomechanics-locomotion/biomechanics-locomotion.html</guid>
+  <pubDate>Wed, 29 Oct 2025 10:00:00 GMT</pubDate>
+</item>
 <item>
   <title>9. Muscles</title>
   <dc:creator>Marguerite Butler</dc:creator>
@@ -2480,165 +2639,6 @@ Reminders and materials
   <category>aerial</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-11-05-blood-respiration/blood-respiration.html</guid>
   <pubDate>Tue, 05 Nov 2024 10:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>9. Biomechanics and Locomotion</title>
-  <dc:creator>Marguerite Butler</dc:creator>
-  <link>https://mbutler808.github.io/animalphys-2025/posts/2025-10-29-biomechanics-locomotion/biomechanics-locomotion.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="pre-class-materials" class="level1">
-<h1>Pre-class materials</h1>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Read ahead
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>Before class, you can prepare by reading the following materials:</strong></p>
-<ol type="1">
-<li>Tuesday we will finish Muscle Discussion and move on to biomechanics and locomotion</li>
-<li>Thursday we will continue locomotion.</li>
-<li>Lab this week is on [<a href="../../labs/Lab8-human-emg/Lab8.html">human EMG</a>]! Pay attention to refining your prelab.</li>
-</ol>
-</div>
-</div>
-<section id="announcementsreminders" class="level3">
-<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
-<ul>
-<li>Halloween Extra Credit - come dressed up, stop by lab on Tuesday (or Monday)</li>
-<li>Design 2 Rewrite due Friday by midnight into the “Final” folder. [<a href="../../projects/design2-turnin.html">turn in</a>]<br>
-</li>
-<li>Do discussion TEAMMATES eval, released each Thursay, due by Monday.</li>
-<li>Getting to the end, folks!</li>
-</ul>
-</section>
-<section id="week-10-discussion-groups" class="level3">
-<h3 class="anchored" data-anchor-id="week-10-discussion-groups">Week 10 Discussion Groups</h3>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>Group</th>
-<th>Partner 1</th>
-<th>Partner 2</th>
-<th>Partner 3</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>1</td>
-<td>Mohamad</td>
-<td>James</td>
-<td>Vivian</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>2</td>
-<td>Hao</td>
-<td>Abby</td>
-<td>Kylee</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>3</td>
-<td>Adam</td>
-<td>Ilan</td>
-<td>Sean</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>4</td>
-<td>Ashton</td>
-<td>Christian</td>
-<td>Veronica</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="tuesday" class="level2">
-<h2 class="anchored" data-anchor-id="tuesday">Tuesday</h2>
-<ul>
-<li>Finish Muscle Discussion [<a href="../../discussions/Discussion-Week8-muscle.pdf">discussion</a>] [<a href="../../powerpoints/8a.MusclesII.pdf">slide deck 2</a>]</li>
-</ul>
-<section id="muscle-design-podcast" class="level3">
-<h3 class="anchored" data-anchor-id="muscle-design-podcast">Muscle Design podcast</h3>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/XPgHg2lmc5M" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<ul>
-<li>Begin Biomechanics and Locomotion [<a href="../../discussions/Discussion-Week9-biomechanics-locomotion.pdf">discussion</a>] [<a href="../../powerpoints/9a.Biomechanics.pdf">slide deck 1</a>]</li>
-</ul>
-</section>
-</section>
-<section id="thursday" class="level2">
-<h2 class="anchored" data-anchor-id="thursday">Thursday</h2>
-<ul>
-<li>Biomechanics and Locomotion [<a href="../../discussions/Discussion-Week9-biomechanics-locomotion.pdf">discussion</a>] [<a href="../../powerpoints/9a.Biomechanics.pdf">slide deck 1</a>]
-<ul>
-<li>Support vs.&nbsp;Locomotion</li>
-<li>Material properties and functional design
-<ul>
-<li>stress and strain<br>
-</li>
-<li>posture</li>
-</ul></li>
-<li>Muscle architecture</li>
-<li>Lever arms and gear ratios</li>
-</ul></li>
-<li>Terrestrial Locomotion [<a href="../../discussions/Discussion-Week9-biomechanics-locomotion.pdf">discussion</a>] [<a href="../../powerpoints/9b.TerrestrialLocomotion.pdf">slide deck 2</a>]
-<ul>
-<li>Cursorial adaptations</li>
-<li>Trends in posture</li>
-<li>Limb cycles and gaits (kinematics)</li>
-<li>Ground reaction forces and joint forces (biomechanics)</li>
-<li>Conservation of energy in running, walking jumping</li>
-</ul></li>
-</ul>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/YlyaASmy-1E" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-</section>
-<section id="coming-up-next-week" class="level1">
-<h1>Coming up Next Week</h1>
-<ul>
-<li>Homework 5 Muscles &amp; Biomechanics due Thursday 11/07 [<a href="../../schedule.html">schedule</a>]</li>
-</ul>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Reminders and materials
-</div>
-</div>
-<div class="callout-body-container callout-body">
-
-</div>
-</div>
-
-
-</section>
-
- ]]></description>
-  <category>module 9</category>
-  <category>week 10</category>
-  <category>biomaterials</category>
-  <category>biomechanics</category>
-  <category>locomotion</category>
-  <category>aquatic</category>
-  <category>terrestrial</category>
-  <category>aerial</category>
-  <category>muscles</category>
-  <category>skeletons</category>
-  <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-10-29-biomechanics-locomotion/biomechanics-locomotion.html</guid>
-  <pubDate>Tue, 29 Oct 2024 10:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -27,7 +27,7 @@ Material for this lab was borrowed and adopted from
 - Watch the Neurons and Signal Propagation \[[podcasts](../../posts/2023-10-02-neurons)\].
 - Read the lab manual below.  
 - Write the \[[Prelab](../../labs-misc/lab-notebook.qmd#sec-prelab)\] in your lab notebook.
-- Do Quiz on Laulima (open 24 hrs before lab). 
+- Do Quiz on Lamaku (open 24 hrs before lab). 
 - Please bring a laptop with you to lab, if possible, to analyze your experimental results.
 :::
 

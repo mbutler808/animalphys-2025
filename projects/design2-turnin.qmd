@@ -30,7 +30,7 @@ For example: "_Hasegawa_Kondo.pdf_"
 
 :::{.callout-note}
 # Reference materials
-- Find your \[[Review assignment](https://docs.google.com/spreadsheets/d/1q7OTWs46cSmc4XywJXGlLFr9rBHTfykM-nFhzXca0ck/edit?gid=0#gid=0)\] 
+- Find your \[[Review assignment](https://docs.google.com/spreadsheets/d/1frRovtsY6cCZrqihutJ9GNNGhqv7EiUY4apvgwHOZhk/edit?gid=0#gid=0)\] 
 - Download your assigned manuscript (see above).
 - \[[Design 2 assignment](design2.qmd)\] 
 
