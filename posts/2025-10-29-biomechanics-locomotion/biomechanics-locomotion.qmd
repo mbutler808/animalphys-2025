@@ -27,10 +27,11 @@ categories: [module 9, week 10, biomaterials, biomechanics, locomotion, aquatic,
 
 ### Announcements/Reminders
 
--  Halloween Extra Credit - come dressed up, stop by lab on Tuesday (or Monday)
--  Design 2 Rewrite due Next Wednesday by midnight into the "Final" folder. \[[turn in](../../projects/design2-turnin.qmd)\]  
+-  In order to give you a little more time on the Design 2 Rewrite, I have swapped the HW5 Mucles/Biomechanics \[[HW5](../../homework/HW5muscles-biomechanics.pdf)\] to be due __Monday 11/3__ and 
+-  So Design 2 Rewrite will be __due Friday 11/7__ by midnight into the "Final" folder. \[[turn in](../../projects/design2-turnin.qmd)\]  
 -  Do discussion TEAMMATES eval, released each Thursay, due by Monday.
 -  Getting to the end, folks! 
+-  __Halloween Extra Credit__ - come dressed up!
 
 ### Week 10 Discussion Groups
 
