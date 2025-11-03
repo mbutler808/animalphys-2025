@@ -55,8 +55,7 @@ format:
 |Week 11|||||
 |  11/3 | M |  | PS5: Muscles & Biomech \[[pdf](homework/HW5muscles-biomechanics.pdf)\]  |  |   
 | 11/5 | W | Blood and Respiration \[[html](posts/2025-11-05-blood-respiration/blood-respiration.qmd)\] |  | Lab9: PC3-G-Toad Muscle \[[overview](labs/Lab9-10-toad-muscle/Lab9-10.qmd)\] |  
-|   | F | Blood and Respiration |    |  |   
-|   | F |  |  Rewrite Design 2 \[[Due  midnight](https://drive.google.com/drive/u/0/folders/1PB_2tkTES9yZrxmBkgfMubEcw3f37JBP)\]  |  |   
+|   | F | Blood and Respiration |  Rewrite Design 2 \[[Due  midnight](https://drive.google.com/drive/u/0/folders/1PB_2tkTES9yZrxmBkgfMubEcw3f37JBP)\]  |  |   
 |Week 12|||||
 | 11/12  | W | Aquatic Respiration \[[html](posts/2025-11-12-ventilation/ventilation.qmd)\] |   | Lab10:PC1-I-Toad Muscle Independent \[[overview](labs/Lab9-10-toad-muscle/Lab9-10.qmd)\] |   
 |  | F | Aerial Respiration  | PS6: Respiration \[[due at start of class](homework/HW6respiration.pdf)\]   | |   

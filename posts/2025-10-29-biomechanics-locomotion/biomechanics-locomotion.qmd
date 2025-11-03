@@ -29,7 +29,7 @@ categories: [module 9, week 10, biomaterials, biomechanics, locomotion, aquatic,
 
 -  In order to give you a little more time on the Design 2 Rewrite, I have swapped the HW5 Mucles/Biomechanics \[[HW5](../../homework/HW5muscles-biomechanics.pdf)\] to be due __Monday 11/3__ and 
 -  So Design 2 Rewrite will be __due Friday 11/7__ by midnight into the "Final" folder. \[[turn in](../../projects/design2-turnin.qmd)\]  
--  Do discussion TEAMMATES eval, released each Thursay, due by Monday.
+-  Do discussion TEAMMATES eval, released each Friday, due by Wednesday.
 -  Getting to the end, folks! 
 -  __Halloween Extra Credit__ - come dressed up!
 
@@ -73,7 +73,7 @@ categories: [module 9, week 10, biomaterials, biomechanics, locomotion, aquatic,
 
 # Coming up Next Week
 
-- Homework 5 Muscles & Biomechanics due Thursday 11/07 \[[schedule](../../schedule.qmd)\]
+- Homework 5 Muscles & Biomechanics due Monday 11/03 \[[schedule](../../schedule.qmd)\]
 
 ::: callout-note
 ## Reminders and materials
