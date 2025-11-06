@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Now we get to move it move it!"
-date: 2024-11-05
+date: 2025-11-04
 format: 
   html: default 
   pdf: default
@@ -20,31 +20,29 @@ categories: [module 10, week 11, blood, respiratory media, aquatic, terrestrial,
 
 **Before class, you can prepare by reading the following materials:**
 
-1. __No Class on Tuesday -- Election Day!__ - But to stay on track please be sure to watch the podcast and review \[[locomotion](../2024-10-29-biomechanics-locomotion/biomechanics-locomotion.qmd)\]  
-2. Thursday we will move on to blood and respiratory media 
+1. Watch the podcast and review \[[locomotion](../2024-10-29-biomechanics-locomotion/biomechanics-locomotion.qmd)\]  
+2. Friday we will move on to blood and respiratory media 
 3. Lab this week is on \[[toad muscle](../../labs/Lab9-10-toad-muscle/Lab9-10.qmd)\]! Pay attention to refining your prelab. 
-4. Think hard about a __hypothesis for your independent toad muscle__ lab next week. 
+4. Come to lab with a __hypothesis for your independent toad muscle__ lab next week - refine and get it approved before leaving.  
 :::
 
 ### Announcements/Reminders
 
--  Due Friday Homework 5 via Laulima \[[schedule](../../schedule.qmd)\]. You should be able to complete all of the questions except the last one. Because of the holiday, we will talk about that a bit on Thursday. 
--  Do discussion TEAMMATES eval, released each Thursday, due by Monday.
+-  Due Friday Design 2 rewrite \[[schedule](../../schedule.qmd)\].  
+-  Do discussion TEAMMATES eval
 -  Getting to the end, folks! 
 
 ### Week 11 Discussion Groups
 
 | Group | Partner 1 | Partner 2 | Partner 3 |
 |----|----|----|----|----|
-|1|James |Abby|Ilan|
-|2|Christian|Kylee| Veronica|
-|3|Ashton|Mohamad|Vivian|
-|4|Hao| Adam|Sean | 
+|1|Darwin |Emma| Manuel|
+|2|Alice|Trey| Reagan|
+|3|Dallas|Peigi|Paris|
+|4|Kyra| Niki |Carla | 
 
 
-## Tuesday is Election day
-
-__No Class__ - Please watch the podcast and review on your own. Iʻll talk briefly on this on Thursday. 
+## Wednesday
 
 - Terrestrial Locomotion \[[discussion](../../discussions/Discussion-Week9-biomechanics-locomotion.pdf)\] \[[slide deck 2](../../powerpoints/9b.TerrestrialLocomotion.pdf)\]
   - Cursorial adaptations
@@ -54,10 +52,11 @@ __No Class__ - Please watch the podcast and review on your own. Iʻll talk brief
   - Conservation of energy in running, walking jumping 
 
 {{< video https://youtu.be/YlyaASmy-1E >}}
- 
 
-## Thursday 
+- Aquatic/Aerial Locomotion \[[Lecture](../../powerpoints/9c.AquaticAerialLocomotion.pdf)\]
 
+
+## Friday 
 
 - Blood and Respiratory Media \[[discussion](../../discussions/Discussion-Week10-blood-ventilation.pdf)\] \[[slide deck](../../powerpoints/10a.Blood.pdf)\] \[[slide deck2](../../powerpoints/10b.Ventilation.pdf)\]
   - Hemoglobin and O2 delivery
@@ -69,7 +68,7 @@ __No Class__ - Please watch the podcast and review on your own. Iʻll talk brief
 
 # Coming up Next Week
 
-- Homework 6 Respiration Thursday 11/12 \[[schedule](../../schedule.qmd)\]
+- Homework 6 Respiration Friday \[[schedule](../../schedule.qmd)\]
 
 ::: callout-note
 ## Reminders and materials

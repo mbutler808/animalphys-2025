@@ -10,7 +10,156 @@
 <atom:link href="https://mbutler808.github.io/animalphys-2025/lectures.xml" rel="self" type="application/rss+xml"/>
 <description>Course website for Animal Physiology</description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Wed, 29 Oct 2025 10:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 04 Nov 2025 10:00:00 GMT</lastBuildDate>
+<item>
+  <title>10. Blood and Respiratory Media</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/animalphys-2025/posts/2025-11-05-blood-respiration/blood-respiration.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="pre-class-materials" class="level1">
+<h1>Pre-class materials</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Read ahead
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Before class, you can prepare by reading the following materials:</strong></p>
+<ol type="1">
+<li>Watch the podcast and review [<a href="../2024-10-29-biomechanics-locomotion/biomechanics-locomotion.qmd">locomotion</a>]<br>
+</li>
+<li>Friday we will move on to blood and respiratory media</li>
+<li>Lab this week is on [<a href="../../labs/Lab9-10-toad-muscle/Lab9-10.html">toad muscle</a>]! Pay attention to refining your prelab.</li>
+<li>Come to lab with a <strong>hypothesis for your independent toad muscle</strong> lab next week - refine and get it approved before leaving.<br>
+</li>
+</ol>
+</div>
+</div>
+<section id="announcementsreminders" class="level3">
+<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
+<ul>
+<li>Due Friday Design 2 rewrite [<a href="../../schedule.html">schedule</a>].<br>
+</li>
+<li>Do discussion TEAMMATES eval</li>
+<li>Getting to the end, folks!</li>
+</ul>
+</section>
+<section id="week-11-discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="week-11-discussion-groups">Week 11 Discussion Groups</h3>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Partner 1</th>
+<th>Partner 2</th>
+<th>Partner 3</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Darwin</td>
+<td>Emma</td>
+<td>Manuel</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Alice</td>
+<td>Trey</td>
+<td>Reagan</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Dallas</td>
+<td>Peigi</td>
+<td>Paris</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Kyra</td>
+<td>Niki</td>
+<td>Carla</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="wednesday" class="level2">
+<h2 class="anchored" data-anchor-id="wednesday">Wednesday</h2>
+<ul>
+<li>Terrestrial Locomotion [<a href="../../discussions/Discussion-Week9-biomechanics-locomotion.pdf">discussion</a>] [<a href="../../powerpoints/9b.TerrestrialLocomotion.pdf">slide deck 2</a>]
+<ul>
+<li>Cursorial adaptations</li>
+<li>Trends in posture</li>
+<li>Limb cycles and gaits (kinematics)</li>
+<li>Ground reaction forces and joint forces (biomechanics)</li>
+<li>Conservation of energy in running, walking jumping</li>
+</ul></li>
+</ul>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/YlyaASmy-1E" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<ul>
+<li>Aquatic/Aerial Locomotion [<a href="../../powerpoints/9c.AquaticAerialLocomotion.pdf">Lecture</a>]</li>
+</ul>
+</section>
+<section id="friday" class="level2">
+<h2 class="anchored" data-anchor-id="friday">Friday</h2>
+<ul>
+<li>Blood and Respiratory Media [<a href="../../discussions/Discussion-Week10-blood-ventilation.pdf">discussion</a>] [<a href="../../powerpoints/10a.Blood.pdf">slide deck</a>] [<a href="../../powerpoints/10b.Ventilation.pdf">slide deck2</a>]
+<ul>
+<li>Hemoglobin and O2 delivery</li>
+<li>Bohr effect</li>
+<li>Air vs.&nbsp;Water as respiratory media</li>
+<li>Diffusion vs.&nbsp;Bulk Flow</li>
+</ul></li>
+</ul>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/t0Vf-RJleCE" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</section>
+<section id="coming-up-next-week" class="level1">
+<h1>Coming up Next Week</h1>
+<ul>
+<li>Homework 6 Respiration Friday [<a href="../../schedule.html">schedule</a>]</li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Reminders and materials
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>module 10</category>
+  <category>week 11</category>
+  <category>blood</category>
+  <category>respiratory media</category>
+  <category>aquatic</category>
+  <category>terrestrial</category>
+  <category>aerial</category>
+  <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-11-05-blood-respiration/blood-respiration.html</guid>
+  <pubDate>Tue, 04 Nov 2025 10:00:00 GMT</pubDate>
+</item>
 <item>
   <title>9. Biomechanics and Locomotion</title>
   <dc:creator>Marguerite Butler</dc:creator>
@@ -2495,151 +2644,6 @@ Coming up Next Week
   <category>aerial respiration</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-11-12-ventilation/ventilation.html</guid>
   <pubDate>Tue, 12 Nov 2024 10:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>10. Blood and Respiratory Media</title>
-  <dc:creator>Marguerite Butler</dc:creator>
-  <link>https://mbutler808.github.io/animalphys-2025/posts/2025-11-05-blood-respiration/blood-respiration.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="pre-class-materials" class="level1">
-<h1>Pre-class materials</h1>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Read ahead
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>Before class, you can prepare by reading the following materials:</strong></p>
-<ol type="1">
-<li><strong>No Class on Tuesday – Election Day!</strong> - But to stay on track please be sure to watch the podcast and review [<a href="../2024-10-29-biomechanics-locomotion/biomechanics-locomotion.qmd">locomotion</a>]<br>
-</li>
-<li>Thursday we will move on to blood and respiratory media</li>
-<li>Lab this week is on [<a href="../../labs/Lab9-10-toad-muscle/Lab9-10.html">toad muscle</a>]! Pay attention to refining your prelab.</li>
-<li>Think hard about a <strong>hypothesis for your independent toad muscle</strong> lab next week.</li>
-</ol>
-</div>
-</div>
-<section id="announcementsreminders" class="level3">
-<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
-<ul>
-<li>Due Friday Homework 5 via Laulima [<a href="../../schedule.html">schedule</a>]. You should be able to complete all of the questions except the last one. Because of the holiday, we will talk about that a bit on Thursday.</li>
-<li>Do discussion TEAMMATES eval, released each Thursday, due by Monday.</li>
-<li>Getting to the end, folks!</li>
-</ul>
-</section>
-<section id="week-11-discussion-groups" class="level3">
-<h3 class="anchored" data-anchor-id="week-11-discussion-groups">Week 11 Discussion Groups</h3>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>Group</th>
-<th>Partner 1</th>
-<th>Partner 2</th>
-<th>Partner 3</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>1</td>
-<td>James</td>
-<td>Abby</td>
-<td>Ilan</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>2</td>
-<td>Christian</td>
-<td>Kylee</td>
-<td>Veronica</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>3</td>
-<td>Ashton</td>
-<td>Mohamad</td>
-<td>Vivian</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>4</td>
-<td>Hao</td>
-<td>Adam</td>
-<td>Sean</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="tuesday-is-election-day" class="level2">
-<h2 class="anchored" data-anchor-id="tuesday-is-election-day">Tuesday is Election day</h2>
-<p><strong>No Class</strong> - Please watch the podcast and review on your own. Iʻll talk briefly on this on Thursday.</p>
-<ul>
-<li>Terrestrial Locomotion [<a href="../../discussions/Discussion-Week9-biomechanics-locomotion.pdf">discussion</a>] [<a href="../../powerpoints/9b.TerrestrialLocomotion.pdf">slide deck 2</a>]
-<ul>
-<li>Cursorial adaptations</li>
-<li>Trends in posture</li>
-<li>Limb cycles and gaits (kinematics)</li>
-<li>Ground reaction forces and joint forces (biomechanics)</li>
-<li>Conservation of energy in running, walking jumping</li>
-</ul></li>
-</ul>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/YlyaASmy-1E" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="thursday" class="level2">
-<h2 class="anchored" data-anchor-id="thursday">Thursday</h2>
-<ul>
-<li>Blood and Respiratory Media [<a href="../../discussions/Discussion-Week10-blood-ventilation.pdf">discussion</a>] [<a href="../../powerpoints/10a.Blood.pdf">slide deck</a>] [<a href="../../powerpoints/10b.Ventilation.pdf">slide deck2</a>]
-<ul>
-<li>Hemoglobin and O2 delivery</li>
-<li>Bohr effect</li>
-<li>Air vs.&nbsp;Water as respiratory media</li>
-<li>Diffusion vs.&nbsp;Bulk Flow</li>
-</ul></li>
-</ul>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/t0Vf-RJleCE" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-</section>
-<section id="coming-up-next-week" class="level1">
-<h1>Coming up Next Week</h1>
-<ul>
-<li>Homework 6 Respiration Thursday 11/12 [<a href="../../schedule.html">schedule</a>]</li>
-</ul>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Reminders and materials
-</div>
-</div>
-<div class="callout-body-container callout-body">
-
-</div>
-</div>
-
-
-</section>
-
- ]]></description>
-  <category>module 10</category>
-  <category>week 11</category>
-  <category>blood</category>
-  <category>respiratory media</category>
-  <category>aquatic</category>
-  <category>terrestrial</category>
-  <category>aerial</category>
-  <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-11-05-blood-respiration/blood-respiration.html</guid>
-  <pubDate>Tue, 05 Nov 2024 10:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

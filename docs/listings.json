@@ -41,6 +41,7 @@
   {
     "listing": "/lectures.html",
     "items": [
+      "/posts/2025-11-05-blood-respiration/blood-respiration.html",
       "/posts/2025-10-29-biomechanics-locomotion/biomechanics-locomotion.html",
       "/posts/2025-10-22-muscles/muscles.html",
       "/posts/2025-10-15-neurons/neurons.html",
@@ -56,8 +57,7 @@
       "/posts/2025-12-03-excretion/excretion.html",
       "/posts/2025-11-26-osmoregulation2/osmoregulation2.html",
       "/posts/2025-11-19-osmoregulation/osmoregulation.html",
-      "/posts/2025-11-12-ventilation/ventilation.html",
-      "/posts/2025-11-05-blood-respiration/blood-respiration.html"
+      "/posts/2025-11-12-ventilation/ventilation.html"
     ]
   }
 ]
