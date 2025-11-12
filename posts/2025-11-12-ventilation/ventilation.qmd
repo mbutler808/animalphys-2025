@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Oh Oxygen - Picking it up and dropping it off"
-date: 2024-11-12
+date: 2025-11-12
 format: 
   html: default 
   pdf: default
@@ -20,7 +20,7 @@ categories: [module 10, week 12, ventilation, lung volumes, flow, respiratory me
 
 **Before class, you can prepare by reading the following materials:**
 
-1. Tuesday we will cover aerial and aquatic respiration. 
+1. Wednesday we will cover aerial and aquatic respiration. 
 2. Watch both podcasts, look over the reading assignments, and the handouts. These will be very helpful for the homework and the design project. 
 3. Look over the homework and come to class with your questions.  Start your homework early, the design project will come up quickly.
 4. Have fun doing your independent lab this week! \[[you can refer to the toad muscle manual](../../labs/Lab9-10-toad-muscle/Lab9-10.qmd)\]! 
@@ -36,21 +36,21 @@ categories: [module 10, week 12, ventilation, lung volumes, flow, respiratory me
 
 ### Announcements/Reminders
 
--  Due Thursday in class -- Homework 6 Respiration \[[schedule](../../schedule.qmd)\] 
--  Do discussion TEAMMATES eval, released each Friday, due by Monday.
+-  Due Friday in class -- Homework 6 Respiration \[[schedule](../../schedule.qmd)\] 
+-  Do discussion TEAMMATES eval, released each Friday, due by Wendesday.
 
 ### Week 12 Discussion Groups
 
 | Group | Partner 1 | Partner 2 | Partner 3 |
 |----|----|----|----|----|
-|1| Hao| Abby|     Christian|      
-|2| Ashton| Ilan|   Mohamad| 
-|3| James|Sean| Adam|  
-|4| Kylee|   Veronica| Vivian| 
+|1| Paris | Dallas | Reagan |      
+|2| Niki | Manuel | Emma | 
+|3| Kyra | Darwin | Carla |  
+|4| Alice | Trey | Peigi | 
 
 
 
-## Tuesday - Gas Exchange in Air vs Water and Aquatic Respiration
+## Wednesday - Gas Exchange in Air vs Water and Aquatic Respiration
 
 We will start with Question 3 on page 1 on Ficks Law, then jump to Aerial Respiration. 
 
@@ -77,7 +77,7 @@ We will start with Question 3 on page 1 on Ficks Law, then jump to Aerial Respir
 Respiration the Movie 
 {{< video https://youtu.be/clyu9h810n4 >}}
 
-## Thursday - Air Flow Patterns and Pumps, Fish Gills
+## Friday - Air Flow Patterns and Pumps, Fish Gills
 
 - __Reading assignment:__ Withers Aquatic respiration: skim 565-72, read 573-4, 585-99, supplement
 12-2. ALTERNATIVELY, read HWA chapter 22 + HWA 586-587 (countercurr) + HWA 590-594 (fish).
