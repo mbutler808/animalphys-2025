@@ -36,7 +36,7 @@ categories: [module 10, week 12, ventilation, lung volumes, flow, respiratory me
 
 ### Announcements/Reminders
 
--  Due Friday in class -- Homework 6 Respiration \[[schedule](../../schedule.qmd)\] 
+-  Due Monday -- Homework 6 Respiration \[[schedule](../../schedule.qmd)\] 
 -  Do discussion TEAMMATES eval, released each Friday, due by Wendesday.
 
 ### Week 12 Discussion Groups
@@ -52,7 +52,7 @@ categories: [module 10, week 12, ventilation, lung volumes, flow, respiratory me
 
 ## Wednesday - Gas Exchange in Air vs Water and Aquatic Respiration
 
-We will start with Question 3 on page 1 on Ficks Law, then jump to Aerial Respiration. 
+We will start with a recap of Question 1 and move quickly over the first page so we can get to:
 
   - Diffusion (Fick’s Law) vs. Bulk Flow  \[[discussion Question 3](../../discussions/Discussion-Week10-blood-ventilation.pdf)\] 
     + How to increase rate of ventilation 
