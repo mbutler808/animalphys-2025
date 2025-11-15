@@ -1,5 +1,5 @@
 ---
-title: "10\\. Respiration"
+title: "10b\\. Respiration"
 author:
   - name: Marguerite Butler  
     url: https://butlerlab.org
@@ -101,7 +101,7 @@ Respiratory Pumps
 ::: callout-note
 ## Coming up Next Week
 
-- Design 3 first draft due next Friday 11/22.
+- HW due Monday, Design 3 first draft soon after that. 
 
 :::
 
