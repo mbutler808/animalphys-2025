@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Finishing off respiration and starting osmoregulation"
-date: 2024-11-18
+date: 2025-11-19
 format: 
   html: default 
   pdf: default
@@ -21,14 +21,14 @@ categories: [module 11, week 13, ventilation, respiration, osmoregulation]
 
 **Before class, you can prepare by reading the following materials:**
 
-1. Tuesday we will finish respiration and Thursday begin osmoregulation. 
+1. Wednesday we will finish respiration and Friday begin osmoregulation. 
 2. The Symmorphosis paper is a very interesting and important paper. It will be useful for design3 respiration. 
-3. In Lab this week you will measure your own brain waves using EEG. Have fun! \[[manual](../../labs/Lab11-human-eeg/Lab11.qmd)\]! 
+3. In Lab this week Tuesday you will do Toad Muscle Independent labs, Wednesday you will measure your own brain waves using EEG. Have fun! \[[manual](../../labs/Lab11-human-eeg/Lab11.qmd)\]! 
 :::
 
 ### Announcements/Reminders
 
--  Due Thursday at the start of class-- Homework 5 Q1,2,5 \[[schedule](../../schedule.qmd)\] 
+-  Due Friday at the start of class-- Homework 5 Q1,2,5 \[[schedule](../../schedule.qmd)\] 
 -  Due Monday 11/25 at midnight - Design 3 draft
 -  Please do your peer review for design 3 by Wednesday and send to colleagues and myself
 -  Do discussion TEAMMATES eval, released each Friday, due by Monday.
@@ -37,13 +37,13 @@ categories: [module 11, week 13, ventilation, respiration, osmoregulation]
 
 | Group | Partner 1 | Partner 2 | Partner 3 |
 |----|----|----|----|----|
-|1| Abby|  Ashton| Adam|    
-|2| Hao|   Kylee| Vivian|
-|3| Ilan|    Mohamad| Veronica|
-|4| James| Sean|  Christian| 
+|1| Manuel|  Trey| Reagan|    
+|2| Kyra|   Carla| Emma|
+|3| Peigi|    Niki| Darwin|
+|4| Alice| Dallas|  Paris| 
 
 
-# Tuesday - 
+# Wendesday - 
 
 ## Aquatic Respiration, Fish Gills
 
@@ -73,7 +73,7 @@ Respiratory Pumps
 Respiration the Movie 
 {{< video https://youtu.be/clyu9h810n4 >}}
 
-# Thursday - Symmorphosis
+# Friday - Symmorphosis
 - __Reading assignment:__ Symmorphosis: Weibel, Taylor, and Hoppeler (1991) The concept of symmorphosis: A testable hypothesis of structure-function relationship. PNAS 88:10357-61 [Respiration Papers folder](https://drive.google.com/file/d/1Td1DRJpE398Mj50m5r7bm4ooiinkchct/view?usp=share_link)
 - In class discussion
 
