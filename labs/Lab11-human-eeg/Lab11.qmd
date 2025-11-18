@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Recording human brain waves"
-date: 2024-11-14
+date: 2025-11-18
 toc: true
 bibliography: ../../animalphys.bib
 format:
@@ -27,6 +27,8 @@ Additional material for this lab was borrowed and adopted from
 
 :::{.callout-note}
 # Prepare for lab by:
+- Tuesday Lab will perform this experiment on 11/25/25 due to the Veterans Day Holiday
+- Wednesday Lab will perform this experiment on 11/19/25
 - Read the lab manual below.
 - Write the \[[Prelab](../../labs-misc/lab-notebook.qmd#sec-prelab)\] in your lab notebook. ___Please DO NOT copy the lab manual word for word.__ Your task is to **summarize** the important points that are useful for developing hypotheses for this experiment._
 - This week, draft hypotheses for each experiment.
@@ -57,7 +59,7 @@ The __cerebral cortex__ of the brain is the most developed in mammals and is a m
 
 In humans the different regions of the cerebral cortex have been mapped to different functions (@fig-brain). For example the __frontal lobe__ _integrates_ many different processes including inputs, outputs, and control of movements (motor behavior), speech, and other behaviors, as well as cognitive and emotional processes. Humans are able to synthesize and prioritize the numerous inputs to produce optimal responses to changes in our environment. The __occipital lobe__ plays a major role in visual processing. It is involved in object and facial recognition, depth perception, color recognition, and relays visual information to other regions of the brain. It receives visual information from the retina, but also receives input from other regions of the brain.
 
-![The human cerebrum, annotated with functional regions (lobes). Bectorized by [Jkwchui](http://training.seer.cancer.gov/module_anatomy/unit5_3_nerve_org1_cns.html), CC BY-SA 3.0, [original](https://commons.wikimedia.org/w/index.php?curid=29055751)](../../images/lab11-cerebrum-lobes.png){#fig-brain}
+![The human cerebrum, annotated with functional regions (lobes). Vectorized by [Jkwchui](http://training.seer.cancer.gov/module_anatomy/unit5_3_nerve_org1_cns.html), CC BY-SA 3.0, [original](https://commons.wikimedia.org/w/index.php?curid=29055751)](../../images/lab11-cerebrum-lobes.png){#fig-brain}
 
 EEG is measuring electrical activity from cerebral cortex using skin surface electrodes on the scalp. Although the human brain has about 100 billion neurons, the electrical signals emitted by neurons are weak and have to pass through the cerebrospinal fluid, skull, scalp, and hair before being detected by the electrodes. The EEG technique takes advantage of the fact that the outermost portion of the cerebral cortex have neurons with a particular arrangement of their synapses such that they are all aligned and pointed outward (called "open field") so that their electrical dipoles align and their signals sum [@Vibell:2023].  Thus what we are actually measuring are the summed activities of a large number of so-called pyrimidal neurons (@fig-neurons) near the electrodes. 
 
