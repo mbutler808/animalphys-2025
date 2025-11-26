@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "How to be a good colleague and provide very helpful feedback"
-date: 2023-11-17
+date: 2025-11-25
 format: 
   html: default 
   pdf: default
@@ -20,7 +20,7 @@ categories: [design project, design 3, respiration, ventilation, circulation, DM
 
 For example: "_Fisher_Gao.pdf_"
 
-2) Post your draft paper on the shared Google Drive by midnight Monday. \[[Upload here](https://drive.google.com/drive/folders/18lT2pGEZws_rrgD6IxfKCPyPGOFIX0IP?usp=share_link)\]
+2) Post your draft paper on the shared Google Drive by midnight Wednesday. \[[Upload here](https://drive.google.com/drive/folders/18lT2pGEZws_rrgD6IxfKCPyPGOFIX0IP?usp=share_link)\]
 
 Note:  All Design papers are in the __Shared Google Drive > DesignProjects > ...__ 
 
@@ -32,9 +32,10 @@ Note:  All Design papers are in the __Shared Google Drive > DesignProjects > ...
 
 :::{.callout-note}
 # Reference materials
-- Find your \[[Review assignment](https://docs.google.com/spreadsheets/d/1LwboLhEIF_F5TcaXQGQMH2l3Y1ZG8u1RwClk6yM3n4g/edit?usp=sharing)\] 
+- Find your \[[Review assignment](https://docs.google.com/spreadsheets/d/1lnYeG8T6D06fzOovq4Gqs_9OyCTrQESiWgBoFn_pbCY/edit?gid=0#gid=0)\] 
 - Download your assigned manuscript. \[[Design 3 google drive folder](https://drive.google.com/drive/folders/18lT2pGEZws_rrgD6IxfKCPyPGOFIX0IP?usp=share_link)\].
 - \[[Design 3 assignment](design3.qmd)\] 
+- Submit by email to the two authors with a cc to me by __Friday__. 
  
 
 __Print out the manuscript so that you can write comments directly on the report.__
@@ -50,7 +51,7 @@ __Print out the manuscript so that you can write comments directly on the report
 it (of course, don't be mean – just state the facts). 
 -  When you receive your critique, it really helps to have a thick skin – we are working together to help each other produce the best final draft possible. 
 
-### _Prepare your ~2 page __written critique__ for the authors_. Please submit by Wednesday. 
+### _Prepare your ~2 page __written critique__ for the authors_. Please submit by Friday. 
 
   + __Begin your review with a positive statement__ before going into problems.  A critique is mostly negative – that's just the nature of the beast. As scientists, we are most interested in knowing exactly what is wrong, poorly stated, or unconvincing _so that we can correct it_. But it makes the medicine a little easier to swallow if you start with something nice.
 

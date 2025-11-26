@@ -36,7 +36,7 @@ categories: [module 10, week 12, ventilation, lung volumes, flow, respiratory me
 
 ### Announcements/Reminders
 
--  Due Monday -- Homework 6 Respiration \[[schedule](../../schedule.qmd)\] 
+-  Due Monday -- Homework 6 Respiration \[[schedule #2 (see book),3,4](../../schedule.qmd)\] 
 -  Do discussion TEAMMATES eval, released each Friday, due by Wendesday.
 
 ### Week 12 Discussion Groups
