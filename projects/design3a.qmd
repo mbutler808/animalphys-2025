@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Blood and Circulatory system edition: How does your animalʻs circulation deliver enough oxygen to support its activities?"
-date: 2023-11-06
+date: 2025-11-26
 format: 
   html: default 
   pdf: default

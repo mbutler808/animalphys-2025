@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Hope this helps!"
-date: 2023-11-06
+date: 2025-11-26
 format: 
   html: default 
   pdf: default
@@ -20,7 +20,7 @@ Great job on Design 2! Switch roles again – whomever was first author on Desig
 
 Now that you know what your animalʻs energy budget is, and have some idea of its activities, how did it obtain enough oxygen? You have a choice here. You may model its respiratory system through ventilation (the lungs or gills) or you can choose to model its circulatory system (blood and oxygen delivery).  Then you can model how it would have adjusted to exercise. 
 
-- Due __November 17 - Friday by 11:59__
+- Due __November 26 - Wednesday by 11:59__
 
 ### Design 3 Assignment option 1: [Respiration](design3.qmd)
 ### Design 3 Assignment option 2: [Circulation](design3a.qmd)

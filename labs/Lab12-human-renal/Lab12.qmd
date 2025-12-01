@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "The shi-shi lab"
-date: 2024-12-03
+date: 2025-12-03
 toc: true
 bibliography: ../../animalphys.bib
 format:
@@ -16,14 +16,12 @@ format:
 categories: [week 15, labs, renal function, kidneys, urine, osmoregulation, excretion]
 ---
 
-### Acknowledgements
-
 :::{.callout-important}
 # IMPORTANT Pre-Lab Procedures
 
 1. Starting at dinner __the night before lab__, please attempt to consume a _normal amount of liquid_, and try not to intake unusual amounts of caffeine or (ahem) alcohol. Record what you eat and drink starting at dinner the night before your lab. 
 
-2. _Do not drink or eat anything but water_ during the __2-hour period before lab__. (have lunch before 11:30 AM for a 1:30 PM lab, or 12:30pm for a 2:30 PM lab). You may drink as much water as you wish. 
+2. _Do not drink or eat anything but water_ during the __2-hour period before lab__. (have lunch before 11:30 AM for a 1:30 PM lab). You may drink as much water as you wish. 
 
 3. Urinate __one hour__ before coming to lab (_note the time_). _Do not urinate again_ until the first collection at the beginning of laboratory.
 
