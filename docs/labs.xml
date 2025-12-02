@@ -80,7 +80,7 @@ Standard lab prep:
 <h1>Background</h1>
 <p>The mammalian kidneys play a major role in homeostasis involving both <strong>osmoregulation</strong> (the balance of water and electrolytes) as well as waste <strong>excretion</strong>. The are the primary organs involved in regulating the ionic content, pH, and osmotic pressure of the blood.</p>
 <p>Kidneys filter the blood by glomerular filtration and form urine through tubular reabsorption and tubular secretion. Small molecules including water and small molecules filter out of the glomeruli (like through a sieve). As the filtrate passes through the nephrons some biologically important substances, such as sodium, calcium, glucose, and amino acids, are reabsorbed, whereas other substances, such as potassium and hydrogen ions which will become waste products, are secreted into the collecting duct.</p>
-<p>Glucose is the universal energy molecule. The kidneys resorb glucose with such high efficeincy that sugar is typically not found in the urine. However, there is a limit. If the blood sugar level exceeds a value known as the <em>renal threshold</em>, the kidneys cannot reabsorb all the glucose in the glomerular filtrate and some sugar will appear in the urine. Many substances are normally reabsorbed in the kidney tubules, but most are not reabsorbed as completely as sugar.</p>
+<p>Glucose is the universal energy molecule. The kidneys resorb glucose with such high efficiency that sugar is typically not found in the urine. However, there is a limit. If the blood sugar level exceeds a value known as the <em>renal threshold</em>, the kidneys cannot reabsorb all the glucose in the glomerular filtrate and some sugar will appear in the urine. Many substances are normally reabsorbed in the kidney tubules, but most are not reabsorbed as completely as sugar.</p>
 <p>Mammals do not have a salt gland, therefore the only mechanism for excretion of excess salts is dilution through the kidneys. Humans have the ability to concentrate the urine somewhat, to about 4x that of the plasma concentration, or about 1400 mOsm.</p>
 <p>A massive amount of water (up to 99% of the glomerular filtrate) is reabsorbed both in the nephrons and collecting ducts of the kidneys. Therefore, the volume of urine excreted may represent less than 1% of the volume of glomerular filtrate. The volume of water is adjusted depending on the hydration level of the mammal.</p>
 <p>Water resorption is enhanced by a hormone called <em>antidiuretic hormone</em> (ADH), which is released from the <em>posterior pituitary</em>. Changes in fluid intake or fluid volume (loss of fluid from the body) can change the rate of ADH release and therefore the rate water excretion and urine production (Figure&nbsp;1).</p>
@@ -171,7 +171,7 @@ Feedback Control of the Kidneys
 <h1>Exercise # 2: Effect of fluid intake on kidney function</h1>
 <p>The goal of this exercise is to examine how urine output and urine chemistry vary with intake of varying ionic strength fluids. &nbsp; Procedure</p>
 <ol type="1">
-<li>For this exercise, you will be assigned to one of 4 treatment groups (Table&nbsp;1). If you have any medical condition (i.e., kidney dysfunction, hypertension, diabetes) that prohibits you from participating in a particular treatment group, inform your TA.</li>
+<li>For this exercise, you will be assigned to one of the treatment groups (Table&nbsp;1). If you have any medical condition (i.e., kidney dysfunction, hypertension, diabetes) that prohibits you from participating in a particular treatment group, inform your TA.</li>
 </ol>
 <div id="tbl-treat" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-tbl figure">
@@ -216,7 +216,7 @@ Table&nbsp;1: Fluid consumption treatments
 <li>Weigh yourself on the scale in the lab, and subtract 5 pounds (for clothing). Determine the appropriate volume you should drink (1kg = 2.2 lbs). Drink the entire volume of your beverage as quickly as possible. Do not ingest any fluids or eat any food for the rest of the laboratory period.</li>
 <li>Record the time you finish drinking your beverage. Collect urine samples at 30, 60, 90, and 120 minutes after ingestion of the treatment. If you need to urinate more frequently, keep a record of the total volume of urine collected during each 60-minute interval. After the 120-minute urine collection, you may eat or drink at will (but outside of the laboratory, please).</li>
 <li>For each urine collection, determine the total volume of urine produced using a graduated specimen cup. Calculate and record your urine production rate.</li>
-<li>For each urine collection, use a fresh Chemstick.to measure urine chemical composition. Also, for each urine collection, determine NaCl content. Record the values for all of the chemstick categories in your notebook.</li>
+<li>For each urine collection, use a fresh Chemstick to measure urine chemical composition. Also, for each urine collection, determine NaCl content. Record the values for all of the chemstick categories in your notebook.</li>
 </ol>
 </section>
 <section id="data-tabulation" class="level1">
@@ -3631,7 +3631,7 @@ If you have a good lab notebook, it will be easy to write your lab report becaus
 
  ]]></description>
   <guid>https://mbutler808.github.io/animalphys-2025/labs/Lab-notebooks/lab-notebook.html</guid>
-  <pubDate>Tue, 02 Dec 2025 22:04:20 GMT</pubDate>
+  <pubDate>Tue, 02 Dec 2025 23:12:19 GMT</pubDate>
 </item>
 </channel>
 </rss>

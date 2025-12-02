@@ -150,7 +150,7 @@ The goal of the first exercise is to establish your baseline urine composition p
 The goal of this exercise is to examine how urine output and urine chemistry vary with intake of varying ionic strength fluids.  
 Procedure
 
-1.  For this exercise, you will be assigned to one of 4 treatment groups (@tbl-treat). If you have any medical condition (i.e., kidney dysfunction, hypertension, diabetes) that prohibits you from participating in a particular treatment group, inform your TA.
+1.  For this exercise, you will be assigned to one of the treatment groups (@tbl-treat). If you have any medical condition (i.e., kidney dysfunction, hypertension, diabetes) that prohibits you from participating in a particular treatment group, inform your TA.
 
 | Treatment | Dosage  |
 | ----  | ----  |
@@ -165,7 +165,7 @@ Procedure
 2. Weigh yourself on the scale in the lab, and subtract 5 pounds (for clothing). Determine the appropriate volume you should drink (1kg = 2.2 lbs).  Drink the entire volume of your beverage as quickly as possible.  Do not ingest any fluids or eat any food for the rest of the laboratory period.
 3.  Record the time you finish drinking your beverage.  Collect urine samples at 30, 60, 90, and 120 minutes after ingestion of the treatment. If you need to urinate more frequently, keep a record of the total volume of urine collected during each 60-minute interval.  After the 120-minute urine collection, you may eat or drink at will (but outside of the laboratory, please).
 4. For each urine collection, determine the total volume of urine produced using a graduated specimen cup.  Calculate and record your urine production rate.
-5. For each urine collection, use a fresh Chemstick.to measure urine chemical composition.  Also, for each urine collection, determine NaCl content.  Record the values for all of the chemstick categories in your notebook.
+5. For each urine collection, use a fresh Chemstick to measure urine chemical composition.  Also, for each urine collection, determine NaCl content.  Record the values for all of the chemstick categories in your notebook.
 
 # Data Tabulation
 
