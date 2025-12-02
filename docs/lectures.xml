@@ -10,7 +10,179 @@
 <atom:link href="https://mbutler808.github.io/animalphys-2025/lectures.xml" rel="self" type="application/rss+xml"/>
 <description>Course website for Animal Physiology</description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Wed, 19 Nov 2025 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 05 Dec 2025 10:00:00 GMT</lastBuildDate>
+<item>
+  <title>11b. Excretion</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/animalphys-2025/posts/2025-12-05-excretion/excretion.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="pre-class-materials" class="level1">
+<h1>Pre-class materials</h1>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Letʻs finish strong!
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Two more content discussions, then final student presentions.</li>
+<li>Everyone is so excited to watch your final presentations. Please sign up for a [<a href="https://docs.google.com/spreadsheets/d/18ARk8XCpNsx-e65vF0LdGcSv0iXD3kNvOsOiQCFdar4/edit?usp=sharing">presentation time</a>]</li>
+<li><strong>Attendance is mandatory</strong> at all remaining classes.</li>
+<li><strong>Come prepared</strong> by <strong>reading the book</strong>, and our discussions can <strong>probe deeper.</strong> This will make your <strong>homeworks</strong>, <strong>labs</strong>, and <strong>papers</strong> so much easier.</li>
+<li><strong>Remember that effort counts</strong>, and will be taken into account in the final grades. If your grade is on the borderline, effort will translates into a “bump up”. You show effort in many ways, including attendance and sincere participation.</li>
+</ul>
+</div>
+</div>
+<section id="announcementsreminders" class="level3">
+<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
+<ul>
+<li>Due Friday Design 3 [<a href="../../projects/design3-turnin.html">turn in</a>]</li>
+<li>Homework 7 Due Monday on Lamaku – [<a href="../../schedule.html">schedule</a>]</li>
+<li>Osmoregulation homework due Thursday at start of class. Last one! [<a href="../schedule.qmd">schedule</a>].</li>
+<li>[<a href="https://drive.google.com/drive/u/0/folders/12I8sX5sAmbiAejZk8hbQELVuQiFA1y0S">Design 3 final</a>] due Friday by midnight.</li>
+<li>Please do TEAMMATES after Friday.</li>
+<li>Design 4 is posted [<a href="../../projects/design4.html">suggestions</a>] or feel free to pursue your own interests and design your own project! Due the week of finals.</li>
+</ul>
+</section>
+<section id="week-15-discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="week-15-discussion-groups">Week 15 Discussion Groups</h3>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Partner 1</th>
+<th>Partner 2</th>
+<th>Partner 3</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Dallas</td>
+<td>Emma</td>
+<td>Peigi</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Kyra</td>
+<td>Niki</td>
+<td>Reagan</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Alice</td>
+<td>Carla</td>
+<td>Paris</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Darwin</td>
+<td>Manuel</td>
+<td>Trey</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="friday" class="level2">
+<h2 class="anchored" data-anchor-id="friday">Friday</h2>
+<ul>
+<li><p>[<a href="../../discussions/Discussion-Week11b-excretion.pdf">Excretion questions</a>] [<a href="../../powerpoints/11.Osmoregulation.pdf">slide deck 1</a>] [<a href="../../powerpoints/11b.Osmoregulation_SaltWater.pdf">slide deck 2</a>]</p></li>
+<li><p>Reading assignment: Withers skim pp.&nbsp;841-845 (pick up the four main steps of Tubular Excretion),read 855- 874 (Vertebrate Kidneys) and pp.&nbsp;874-886 (Nitrogen Metabolism) or HWA pp.754-776, 782-785.</p></li>
+<li><p>Nitrogenous waste comes from protein metabolism. Think about nitrogenous waste (osmoreg question 5) and what mechanisms organisms have for their excretion (excretion questions 1,2)</p></li>
+<li><p>Bird and Reptile Excretion! We will have a fascinating discussion on reptile and bird excretion [<a href="../../powerpoints/11c.Avian_Reptilian_Osmoregulation_Notes.pdf">notes</a>]</p></li>
+</ul>
+<div id="tbl-osmoorg" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-osmoorg-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;1: Organs involved in osmoregulation
+</figcaption>
+<div aria-describedby="tbl-osmoorg-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Fish</td>
+<td>Kidneys</td>
+<td>Gills</td>
+<td>Bladder</td>
+<td>Intestines</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Amphibians</td>
+<td>Kidneys</td>
+<td>Gills</td>
+<td>Bladder</td>
+<td>Intestines</td>
+<td>Skin</td>
+</tr>
+<tr class="odd">
+<td>Reptiles</td>
+<td>Kidneys</td>
+<td></td>
+<td></td>
+<td>Intestines</td>
+<td>(Salt Glands)</td>
+</tr>
+<tr class="even">
+<td>Birds</td>
+<td>Kidneys</td>
+<td></td>
+<td></td>
+<td>Intestines</td>
+<td>(Salt Glands)</td>
+</tr>
+<tr class="odd">
+<td>Mammals</td>
+<td>Kidneys</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+</figure>
+</div>
+<p>Osmoregulation Podcast</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/1vQxLFoPCmM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="next-week" class="level2">
+<h2 class="anchored" data-anchor-id="next-week">Next Week</h2>
+<ul>
+<li>Begin Final Presentations</li>
+</ul>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>module 11</category>
+  <category>week 14</category>
+  <category>osmoregulation</category>
+  <category>excretion</category>
+  <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-12-05-excretion/excretion.html</guid>
+  <pubDate>Fri, 05 Dec 2025 10:00:00 GMT</pubDate>
+</item>
 <item>
   <title>11. Respiration-Osmoreguation</title>
   <dc:creator>Marguerite Butler</dc:creator>
@@ -195,7 +367,7 @@ Coming up Next Week
   <category>respiration</category>
   <category>osmoregulation</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-11-19-osmoregulation/osmoregulation.html</guid>
-  <pubDate>Wed, 19 Nov 2025 05:00:00 GMT</pubDate>
+  <pubDate>Wed, 19 Nov 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>10b. Respiration</title>
@@ -377,7 +549,7 @@ Coming up Next Week
   <category>aquatic respiration</category>
   <category>aerial respiration</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-11-12-ventilation/ventilation.html</guid>
-  <pubDate>Wed, 12 Nov 2025 05:00:00 GMT</pubDate>
+  <pubDate>Wed, 12 Nov 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>10. Blood and Respiratory Media</title>
@@ -526,7 +698,7 @@ Reminders and materials
   <category>terrestrial</category>
   <category>aerial</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-11-05-blood-respiration/blood-respiration.html</guid>
-  <pubDate>Tue, 04 Nov 2025 05:00:00 GMT</pubDate>
+  <pubDate>Tue, 04 Nov 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>9. Biomechanics and Locomotion</title>
@@ -686,7 +858,7 @@ Reminders and materials
   <category>muscles</category>
   <category>skeletons</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-10-29-biomechanics-locomotion/biomechanics-locomotion.html</guid>
-  <pubDate>Wed, 29 Oct 2025 04:00:00 GMT</pubDate>
+  <pubDate>Wed, 29 Oct 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>9. Muscles</title>
@@ -828,7 +1000,7 @@ Reminders and materials
   <category>sarcomere</category>
   <category>muscle architecture</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-10-22-muscles/muscles.html</guid>
-  <pubDate>Wed, 22 Oct 2025 04:00:00 GMT</pubDate>
+  <pubDate>Wed, 22 Oct 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>8. Still on Neurons</title>
@@ -960,7 +1132,7 @@ Reminders and materials
   <category>electricity</category>
   <category>signals</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-10-15-neurons/neurons.html</guid>
-  <pubDate>Wed, 15 Oct 2025 04:00:00 GMT</pubDate>
+  <pubDate>Wed, 15 Oct 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>7. Herbivore Discussion and Neurons</title>
@@ -1104,7 +1276,7 @@ Reminders and materials
   <category>electricity</category>
   <category>signals</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-10-08-clauss-neurons/neurons.html</guid>
-  <pubDate>Wed, 08 Oct 2025 04:00:00 GMT</pubDate>
+  <pubDate>Wed, 08 Oct 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>6. Feeding</title>
@@ -1235,7 +1407,7 @@ Reminders and materials
   <category>nutrient composition</category>
   <category>DMR</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-10-01-feeding/feeding.html</guid>
-  <pubDate>Wed, 01 Oct 2025 04:00:00 GMT</pubDate>
+  <pubDate>Wed, 01 Oct 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>5. Feeding</title>
@@ -1372,7 +1544,7 @@ Reminders and materials
   <category>nutrient composition</category>
   <category>DMR</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-09-24-feeding/feeding.html</guid>
-  <pubDate>Wed, 24 Sep 2025 04:00:00 GMT</pubDate>
+  <pubDate>Wed, 24 Sep 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>4. Cardiac Function</title>
@@ -1498,7 +1670,7 @@ Read ahead
   <category>cardiac regulation</category>
   <category>MMR</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-09-17-cardiac-function/cardiac.html</guid>
-  <pubDate>Wed, 17 Sep 2025 04:00:00 GMT</pubDate>
+  <pubDate>Wed, 17 Sep 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>3. Temperature</title>
@@ -1675,7 +1847,7 @@ H<img src="https://latex.codecogs.com/png.latex?_e"> = heat of evaporation</p>
   <category>AMR</category>
   <category>DMR</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-09-10-temperature/</guid>
-  <pubDate>Wed, 10 Sep 2025 04:00:00 GMT</pubDate>
+  <pubDate>Wed, 10 Sep 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>2. Metabolic Rates</title>
@@ -1923,7 +2095,7 @@ Reminders and materials
   <category>AMR</category>
   <category>DMR</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-09-03-metabolism/</guid>
-  <pubDate>Wed, 03 Sep 2025 04:00:00 GMT</pubDate>
+  <pubDate>Wed, 03 Sep 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Library Day</title>
@@ -2063,7 +2235,7 @@ All the best online sources
   <category>information sources</category>
   <category>design background</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-08-29-library-day/</guid>
-  <pubDate>Fri, 29 Aug 2025 04:00:00 GMT</pubDate>
+  <pubDate>Fri, 29 Aug 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -2074,7 +2246,7 @@ All the best online sources
   <category>week 1</category>
   <category>introduction</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-08-27-megalodon-model/slides.html</guid>
-  <pubDate>Wed, 27 Aug 2025 04:00:00 GMT</pubDate>
+  <pubDate>Wed, 27 Aug 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Day 1: Intro to Class and Megalodon Modeling Discussion</title>
@@ -2259,13 +2431,13 @@ Academic authors will sometimes write a summary of the last 10 years or so of re
   <category>size</category>
   <category>morphology</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-08-27-megalodon-model/</guid>
-  <pubDate>Wed, 27 Aug 2025 04:00:00 GMT</pubDate>
+  <pubDate>Wed, 27 Aug 2025 10:00:00 GMT</pubDate>
   <media:content url="https://www.science.org/doi/10.1126/sciadv.abm9424#F1" medium="image"/>
 </item>
 <item>
-  <title>11b. Excretion</title>
+  <title>11a. Osmoreguation</title>
   <dc:creator>Marguerite Butler</dc:creator>
-  <link>https://mbutler808.github.io/animalphys-2025/posts/2025-12-03-excretion/excretion.html</link>
+  <link>https://mbutler808.github.io/animalphys-2025/posts/2025-12-03-osmoregulation2/osmoregulation2.html</link>
   <description><![CDATA[ 
 
 
@@ -2284,8 +2456,7 @@ Letʻs finish strong!
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li>Two more content discussions, then final student presentions.</li>
-<li>Everyone is so excited to watch your final presentations. Please sign up for a [<a href="https://docs.google.com/spreadsheets/d/18ARk8XCpNsx-e65vF0LdGcSv0iXD3kNvOsOiQCFdar4/edit?usp=sharing">presentation time</a>]</li>
+<li>We have <strong>only 3</strong> class sessions left to finish all of our content. After that, we have final student presentations.</li>
 <li><strong>Attendance is mandatory</strong> at all remaining classes.</li>
 <li><strong>Come prepared</strong> by <strong>reading the book</strong>, and our discussions can <strong>probe deeper.</strong> This will make your <strong>homeworks</strong>, <strong>labs</strong>, and <strong>papers</strong> so much easier.</li>
 <li><strong>Remember that effort counts</strong>, and will be taken into account in the final grades. If your grade is on the borderline, effort will translates into a “bump up”. You show effort in many ways, including attendance and sincere participation.</li>
@@ -2295,15 +2466,15 @@ Letʻs finish strong!
 <section id="announcementsreminders" class="level3">
 <h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
 <ul>
-<li>Osmoregulation homework due Thursday at start of class. Last one! [<a href="../schedule.qmd">schedule</a>].</li>
-<li>[<a href="https://drive.google.com/drive/u/0/folders/12I8sX5sAmbiAejZk8hbQELVuQiFA1y0S">Design 3 final</a>] due Friday by midnight.</li>
-<li>Please do TEAMMATES after Thursday.</li>
+<li>Welcome back from Thanksgiving!</li>
+<li>Due Friday Design 3 [<a href="../../projects/design3-turnin.html">turn in</a>]</li>
+<li>Homework 7 Due Monday on Lamaku – [<a href="../../schedule.html">schedule</a>]</li>
 <li>Last lab this week! <strong>Prepare for the Human Renal Lab starting from the night before lab.</strong> [<a href="../../labs/Lab12-human-renal/Lab12.html">lab 12</a>]</li>
 <li>Design 4 is posted [<a href="../../projects/design4.html">suggestions</a>] or feel free to pursue your own interests and design your own project! Due the week of finals.</li>
 </ul>
 </section>
-<section id="week-1415-discussion-groups" class="level3">
-<h3 class="anchored" data-anchor-id="week-1415-discussion-groups">Week 14/15 Discussion Groups</h3>
+<section id="week-15-discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="week-15-discussion-groups">Week 15 Discussion Groups</h3>
 <table class="caption-top table">
 <thead>
 <tr class="header">
@@ -2311,48 +2482,70 @@ Letʻs finish strong!
 <th>Partner 1</th>
 <th>Partner 2</th>
 <th>Partner 3</th>
-<th></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>1</td>
-<td>Abby</td>
-<td>Adam</td>
-<td>Vivian</td>
-<td></td>
+<td>Dallas</td>
+<td>Emma</td>
+<td>Peigi</td>
 </tr>
 <tr class="even">
 <td>2</td>
-<td>Ilan</td>
-<td>Veronica</td>
-<td>Ashton</td>
-<td></td>
+<td>Kyra</td>
+<td>Niki</td>
+<td>Reagan</td>
 </tr>
 <tr class="odd">
 <td>3</td>
-<td>James</td>
-<td>Christian</td>
-<td>Sean</td>
-<td></td>
+<td>Alice</td>
+<td>Carla</td>
+<td>Paris</td>
 </tr>
 <tr class="even">
 <td>4</td>
-<td>Hao</td>
-<td>Kylee</td>
-<td>Mohamad</td>
-<td></td>
+<td>Darwin</td>
+<td>Manuel</td>
+<td>Trey</td>
 </tr>
 </tbody>
 </table>
 </section>
-<section id="tuesday" class="level2">
-<h2 class="anchored" data-anchor-id="tuesday">Tuesday</h2>
+<section id="wednesday" class="level2">
+<h2 class="anchored" data-anchor-id="wednesday">Wednesday</h2>
 <ul>
-<li><p>Welcome back from Thanksgiving!</p></li>
-<li><p>[<a href="../../discussions/Discussion-Week11b-excretion.pdf">Excretion questions</a>] [<a href="../../powerpoints/11.Osmoregulation.pdf">slide deck 1</a>] [<a href="../../powerpoints/11b.Osmoregulation_SaltWater.pdf">slide deck 2</a>]</p></li>
-<li><p>Reading assignment: Withers skim pp.&nbsp;841-845 (pick up the four main steps of Tubular Excretion),read 855- 874 (Vertebrate Kidneys) and pp.&nbsp;874-886 (Nitrogen Metabolism) or HWA pp.754-776, 782-785.</p></li>
-<li><p>Nitrogenous waste comes from protein metabolism. Think about nitrogenous waste (osmoreg question 5) and what mechanisms organisms have for their excretion (excretion questions 1,2)</p></li>
+<li><strong>Reading assignment:</strong> Withers skim beginning Ch. 16 for definitions in list below, also read Water &amp; Ion Budgets pp.&nbsp;788-790, Vertebrates pp.&nbsp;798-803, Terrestrial Environments pp.&nbsp;806-812, Terr. Verts. 822-827. Withers is actually very readable on this topic, and some of it will be familiar to you already:).</li>
+<li>[<a href="../../discussions/Discussion-Week11-osmoregulation.pdf">Osmoregulation discussion</a>] [<a href="../../powerpoints/11.Osmoregulation.pdf">slide deck</a>]</li>
+<li>definitions:
+<ul>
+<li>solutes,</li>
+<li>osmosis,</li>
+<li>osmolarity/osmolality,</li>
+<li>ionoregulation,</li>
+<li>osmoregulation/osmoconforming,</li>
+<li>compatible solutes,</li>
+<li>perturbing solutes,</li>
+<li>counteracting solutes,</li>
+<li>osmotic permeability (&amp;formulae)</li>
+</ul></li>
+<li>The components of <strong>Water Budgets</strong> (input/output) as well as <strong>Ion Budgets</strong></li>
+<li>The water and ion challenges of <strong>freshwater</strong>, <strong>marine</strong>, and <strong>terrestrial</strong> environments</li>
+</ul>
+<p>Osmoregulation Podcast</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/1vQxLFoPCmM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<ul>
+<li><p>If there is time, start [<a href="../../discussions/Discussion-Week11b-excretion.pdf">Excretion questions 1,2</a>] [<a href="../../powerpoints/11b.Osmoregulation_SaltWater.pdf">slide deck 2</a>]</p></li>
+<li><p>Be prepared to diagram and discuss the routes of water and ion inflow and outflow for terrestrial animals (human), freshwater fish (q1), marine fish (q2), and marine elasmobrachs (q3).</p>
+<ul>
+<li>This time, start with the osmotic gradient facing the animal. Clearly label the mOsm of the media outside, as well as mOsm inside (use the extracellular fluid as the inside compartment).<br>
+</li>
+<li>Consider the gradient facing the skin :) also.</li>
+<li>Label special organs or sites of major exchange.</li>
+<li>Indicate <strong>water</strong> and <strong>ions</strong> separately, and whether it is active or passive movement, and for ions - which ones (details matter).</li>
+<li><strong>Look in your book!</strong></li>
+</ul></li>
+<li><p>For excretion think about nitrogenous waste (osmoreg question 5) and what mechanisms organisms have for their excretion (excretion questions 1,2)</p></li>
 </ul>
 <div id="tbl-osmoorg" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-tbl figure">
@@ -2419,18 +2612,6 @@ Table&nbsp;1: Organs involved in osmoregulation
 </div>
 <p>Osmoregulation Podcast</p>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/1vQxLFoPCmM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="thursday" class="level2">
-<h2 class="anchored" data-anchor-id="thursday">Thursday</h2>
-<ul>
-<li>Bird and Reptile Excretion! We will have a fascinating discussion on reptile and bird excretion [<a href="../../powerpoints/11c.Avian_Reptilian_Osmoregulation_Notes.pdf">notes</a>]</li>
-</ul>
-</section>
-<section id="next-week" class="level2">
-<h2 class="anchored" data-anchor-id="next-week">Next Week</h2>
-<ul>
-<li>Begin Final Presentations</li>
-</ul>
 
 
 </section>
@@ -2440,9 +2621,8 @@ Table&nbsp;1: Organs involved in osmoregulation
   <category>module 11</category>
   <category>week 14</category>
   <category>osmoregulation</category>
-  <category>excretion</category>
-  <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-12-03-excretion/excretion.html</guid>
-  <pubDate>Tue, 03 Dec 2024 05:00:00 GMT</pubDate>
+  <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-12-03-osmoregulation2/osmoregulation2.html</guid>
+  <pubDate>Tue, 03 Dec 2024 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>11a. Osmoreguation</title>
@@ -2645,7 +2825,7 @@ Table&nbsp;1: Organs involved in osmoregulation
   <category>week 14</category>
   <category>osmoregulation</category>
   <guid>https://mbutler808.github.io/animalphys-2025/posts/2025-11-26-osmoregulation2/osmoregulation2.html</guid>
-  <pubDate>Tue, 26 Nov 2024 05:00:00 GMT</pubDate>
+  <pubDate>Tue, 26 Nov 2024 10:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

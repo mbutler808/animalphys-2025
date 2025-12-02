@@ -10,7 +10,7 @@
 <atom:link href="https://mbutler808.github.io/animalphys-2025/labs.xml" rel="self" type="application/rss+xml"/>
 <description>Course website for Animal Physiology</description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Wed, 03 Dec 2025 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 03 Dec 2025 10:00:00 GMT</lastBuildDate>
 <item>
   <title>Lab 12: Human Renal Function</title>
   <dc:creator>Marguerite Butler</dc:creator>
@@ -274,7 +274,7 @@ Table&nbsp;1: Fluid consumption treatments
   <category>osmoregulation</category>
   <category>excretion</category>
   <guid>https://mbutler808.github.io/animalphys-2025/labs/Lab12-human-renal/Lab12.html</guid>
-  <pubDate>Wed, 03 Dec 2025 05:00:00 GMT</pubDate>
+  <pubDate>Wed, 03 Dec 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Lab 11: Human Electroencephalography (EEG)</title>
@@ -945,7 +945,7 @@ Vibell, Jonas. in prep. <span>“Ch. 3 Electroencephalography.”</span> In.
   <category>brain waves</category>
   <category>synapses</category>
   <guid>https://mbutler808.github.io/animalphys-2025/labs/Lab11-human-eeg/Lab11.html</guid>
-  <pubDate>Tue, 18 Nov 2025 05:00:00 GMT</pubDate>
+  <pubDate>Tue, 18 Nov 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Labs 9 and 10: Vertebrate Skeletal Muscle</title>
@@ -1070,7 +1070,7 @@ Donʻt get confused!
   <category>tetanus</category>
   <category>temperature</category>
   <guid>https://mbutler808.github.io/animalphys-2025/labs/Lab9-10-toad-muscle/Lab9-10.html</guid>
-  <pubDate>Mon, 03 Nov 2025 05:00:00 GMT</pubDate>
+  <pubDate>Mon, 03 Nov 2025 10:00:00 GMT</pubDate>
   <media:content url="https://mbutler808.github.io/animalphys-2025/images/lab8-muscle.png" medium="image" type="image/png" height="67" width="144"/>
 </item>
 <item>
@@ -1936,7 +1936,7 @@ Table&nbsp;5: CAP threshold vs.&nbsp;stimulus duration.
   <category>compound action potential</category>
   <category>action potential Q10</category>
   <guid>https://mbutler808.github.io/animalphys-2025/labs/Lab7-toad-nerve/Lab7.html</guid>
-  <pubDate>Wed, 29 Oct 2025 04:00:00 GMT</pubDate>
+  <pubDate>Wed, 29 Oct 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Lab 8: Human Electromyography (EMG)</title>
@@ -2280,7 +2280,7 @@ Table&nbsp;2: Electrical activity produced during coactivation
   <category>motion</category>
   <category>electrical activity</category>
   <guid>https://mbutler808.github.io/animalphys-2025/labs/Lab8-human-emg/Lab8.html</guid>
-  <pubDate>Mon, 13 Oct 2025 04:00:00 GMT</pubDate>
+  <pubDate>Mon, 13 Oct 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Lab 6: The Neurogenic Crustacean Heart</title>
@@ -2361,7 +2361,7 @@ Prepare for lab by:
   <category>ions</category>
   <category>temperature</category>
   <guid>https://mbutler808.github.io/animalphys-2025/labs/Lab6-lobster-heart/Lab6.html</guid>
-  <pubDate>Wed, 08 Oct 2025 04:00:00 GMT</pubDate>
+  <pubDate>Wed, 08 Oct 2025 10:00:00 GMT</pubDate>
   <media:content url="https://mbutler808.github.io/animalphys-2025/labs/Lab6-lobster-heart/lobster-internal-anatomy.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -2971,7 +2971,7 @@ Withers, Philip C. 1992. <em>Comparative Animal Physiology</em>. Saunders Colleg
   <category>blood pressure</category>
   <category>dive response</category>
   <guid>https://mbutler808.github.io/animalphys-2025/labs/Lab3-human-peripheral-circulation-dive-response/Lab3.html</guid>
-  <pubDate>Wed, 01 Oct 2025 04:00:00 GMT</pubDate>
+  <pubDate>Wed, 01 Oct 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Lab 5: Physiology of the in situ Toad Heart</title>
@@ -3040,7 +3040,7 @@ Prepare for lab by:
   <category>ions</category>
   <category>temperature</category>
   <guid>https://mbutler808.github.io/animalphys-2025/labs/Lab5-toad-heart/Lab5.html</guid>
-  <pubDate>Mon, 15 Sep 2025 04:00:00 GMT</pubDate>
+  <pubDate>Mon, 15 Sep 2025 10:00:00 GMT</pubDate>
   <media:content url="https://mbutler808.github.io/animalphys-2025/labs/Lab5-toad-heart/HeartAnatomy.pdf" medium="image"/>
 </item>
 <item>
@@ -3164,7 +3164,7 @@ Prepare for lab by:
   <category>AMR</category>
   <category>DMR</category>
   <guid>https://mbutler808.github.io/animalphys-2025/labs/Lab2-zoo/Lab2.html</guid>
-  <pubDate>Tue, 09 Sep 2025 04:00:00 GMT</pubDate>
+  <pubDate>Tue, 09 Sep 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Lab 4: Electrocardiogram (ECG/EKG) and Cardiac Response to Exercise</title>
@@ -3250,7 +3250,7 @@ Important
   <category>heart sounds</category>
   <category>pulse</category>
   <guid>https://mbutler808.github.io/animalphys-2025/labs/Lab4-human-ecg/Lab4.html</guid>
-  <pubDate>Tue, 02 Sep 2025 04:00:00 GMT</pubDate>
+  <pubDate>Tue, 02 Sep 2025 10:00:00 GMT</pubDate>
   <media:content url="https://mbutler808.github.io/animalphys-2025/images/detail_ecg.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -3350,7 +3350,7 @@ After today, you should know how to:
   <category>finger pulse transducer</category>
   <category>LabChart Quick Reference Guide</category>
   <guid>https://mbutler808.github.io/animalphys-2025/labs/Lab1-heart-rate-and-data-analysis/Lab1.html</guid>
-  <pubDate>Wed, 27 Aug 2025 04:00:00 GMT</pubDate>
+  <pubDate>Wed, 27 Aug 2025 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Lab 3 Worksheet: Peripheral Circulation and The Dive Response</title>
@@ -3444,7 +3444,7 @@ How will we evaluate the hypotheses?
   <category>dive response</category>
   <category>worksheet</category>
   <guid>https://mbutler808.github.io/animalphys-2025/labs/Lab3-human-peripheral-circulation-dive-response/Lab3ws.html</guid>
-  <pubDate>Sun, 10 Sep 2023 04:00:00 GMT</pubDate>
+  <pubDate>Sun, 10 Sep 2023 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Standard Protocols</title>
@@ -3484,7 +3484,7 @@ How will we evaluate the hypotheses?
   <category>Human ECG</category>
   <category>LabChart Quick Reference Guide</category>
   <guid>https://mbutler808.github.io/animalphys-2025/labs/Protocols/protocols.html</guid>
-  <pubDate>Sat, 19 Aug 2023 04:00:00 GMT</pubDate>
+  <pubDate>Sat, 19 Aug 2023 10:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Lab Notebooks and Prelab Instructions</title>
@@ -3631,7 +3631,7 @@ If you have a good lab notebook, it will be easy to write your lab report becaus
 
  ]]></description>
   <guid>https://mbutler808.github.io/animalphys-2025/labs/Lab-notebooks/lab-notebook.html</guid>
-  <pubDate>Sat, 29 Nov 2025 13:55:12 GMT</pubDate>
+  <pubDate>Tue, 02 Dec 2025 22:04:20 GMT</pubDate>
 </item>
 </channel>
 </rss>
