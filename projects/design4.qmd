@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "How does your animal obtain enough water?"
-date: 2023-11-27
+date: 2025-12-03
 format: 
   html: default 
   pdf: default
@@ -15,6 +15,17 @@ categories: [design project, design 4, osmoregulation, excretion, metabolism, pr
 ---
 
 ___Last one!___ _Feel free to use this to design a project on osmoregulation and excretion or follow your interests and design your own project, if you wish!_ If you want to design your own, please run it by me so I can advise on on whether you have enough.
+
+::: callout-important
+## NOTE: In lieu of a paper
+You will do a Presentation, Calculations, and an Abstract. 
+
+-  Working with your partner, complete the modeling below.
+-  Give your final PRESENTATION at the last class,
+-  Submit your CALCULATIONS and an ABSTRACT by Dec 17th. 
+    -  Calculations must be written out neatly, (similar in size to 11pt font), with a few words of justification for each choice (equations, assumptions, etc.), and citation. 
+    - Post in the Design 4 folder on the shared Google Drive. 
+:::
 
 # Suggestions
 

@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "A few potentially helpful resources for your Design 4"
-date: 2023-11-27
+date: 2025-12-03
 format: 
   html: default 
   pdf: default
@@ -16,7 +16,7 @@ categories: [design project, design 4, osmoregulation, excretion, feces, urine ]
 
 Copies of these papers are located in the __shared google drive__. > OsmoregulationPapers <https://drive.google.com/drive/folders/1Jcnx6t1sskNkcT2oJUaCiJAlsp1HUusT>
 
-### Helpful resources  
+### Helpful resources (some stuff that is harder to find) 
 
 #### Mammals
 

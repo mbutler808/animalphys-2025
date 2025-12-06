@@ -2,6 +2,8 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/projects/design4.html",
+      "/projects/design4-resources.html",
       "/projects/design3a.html",
       "/projects/design3.html",
       "/projects/design3-process.html",
@@ -14,9 +16,7 @@
       "/projects/design1-turnin.html",
       "/projects/design1-FAQ.html",
       "/projects/0.BackgroundBulletPoints.html",
-      "/projects/design1.html",
-      "/projects/design4.html",
-      "/projects/design4-resources.html"
+      "/projects/design1.html"
     ]
   },
   {
